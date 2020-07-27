@@ -1,10 +1,12 @@
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 import numpy as np
 import random
-from data_preprocess import load_dict, generate_cat_vec_seq
+from data_preprocess import load_dict, generate_cat_distrib
 
 
 def category_encoder(args):
+    print('Strat category model')
     city = args.dataset
 #---------------------------------load file--------------------------------
     dir = './'+ args.dataset + '/'
@@ -15,8 +17,90 @@ def category_encoder(args):
     cat_transition=np.load(dir+'category_transition_marix.npy')
     user_reIndex_mapping = np.load(dir + 'user_reIndex_mapping.npy', allow_pickle=True)
     max_seq_len = np.load(dir + 'max_seq_len.npy', allow_pickle=True)
-    neg_num = np.load(dir + 'neg_sample_num.npy', allow_pickle=True)
-#-----------------------------------parameters----------------------------
+    neg_num = np.load(dir + 'category_neg_sample_num.npy', allow_pickle=True)
+    
+#-------------------------------------------------------functions--------------------------------------------------------------
+       
+    def data_feeder(sample):
+        feed_dict = {}
+        poi_x=sample[0][:-1]
+        poi_y=sample[0][-1]
+        time_x = sample[1][:-1]
+        time_y = sample[1][-1]
+        weekend_x = sample[2][:-1]
+        weekend_y = sample[2][-1]
+        type_x = sample[3][:-1]
+        type_y = sample[3][-1]
+        cat_x = generate_cat_vec_seq(poi_x, type_x, sample[4][:-1], POI_cat_distrib)
+        cat_y = generate_cat_vec_seq([poi_y], [type_y], [sample[4][-1]], POI_cat_distrib)
+        ground_truth = sample[5]
+        location_x=sample[7][:-1]
+        location_y=sample[7][-1]
+        location_ground_truth = sample[8]
+        type_neg = []
+        cat_neg = []
+        time_neg = []
+        weekend_neg = []
+        for neg_sample in sample[9]:
+            type_neg.append(neg_sample[2])
+            cat_neg.append(generate_cat_vec_seq([neg_sample[0]], [neg_sample[2]], [neg_sample[1]], POI_cat_distrib)[0])
+            time_neg.append(time_y)
+            weekend_neg.append(weekend_y)
+        feed_dict['x_poi'] = [poi_x] 
+        feed_dict['x_time'] = [time_x]
+        feed_dict['x_weekend'] = [weekend_x]
+        feed_dict['x_type'] = [type_x]
+        feed_dict['x_cat'] = [cat_x]
+        feed_dict['y_poi'] = [[poi_y]]
+        feed_dict['y_time'] = [[time_y]]
+        feed_dict['y_weekend'] = [[weekend_y]]
+        feed_dict['y_type'] = [[type_y]]
+        feed_dict['y_cat'] = [cat_y]
+        feed_dict['true_y_cat'] = [[sample[6][-1]]] 
+        feed_dict['ground_truth_set'] = [ground_truth]
+        feed_dict['neg_time'] = [time_neg]
+        feed_dict['neg_weekend'] = [weekend_neg]
+        feed_dict['neg_type'] = [type_neg]
+        feed_dict['neg_cat'] = [cat_neg]
+        return feed_dict  
+
+    # evaluating function
+    def MAP_score(prediction, label):
+
+        pred = prediction[0][0]
+
+        true = label[0]
+
+        visited_no = 0
+
+        correct_no = 0
+
+        total_sum = 0
+
+        for guess in pred:
+
+            visited_no += 1
+
+            if guess in true:
+
+                correct_no += 1
+
+                total_sum += correct_no / visited_no
+        return total_sum / len(label)
+    
+    def generate_cat_vec_seq(poi_seq, type_seq, cat_seq, POI_cat_distrib):
+        cat_vec_seq = np.zeros([len(cat_seq), len(cat_reIndex_mapping)])
+        for visit in range(len(type_seq)):  
+            if type_seq[visit] == 0:
+                cat_vec_seq[visit][cat_seq[visit]] = 1
+            else: 
+
+                total_store = sum(POI_cat_distrib[poi_seq[visit]].values())
+                for cat in POI_cat_distrib[poi_seq[visit]].keys():          
+
+                    cat_vec_seq[visit][cat] = POI_cat_distrib[poi_seq[visit]][cat] / total_store     
+        return cat_vec_seq 
+    #-----------------------------------parameters----------------------------
     
     train_portion = args.train_portion
     np_rand_seed = args.category_seed
@@ -230,8 +314,8 @@ def category_encoder(args):
 
                     for sample in user_training_samples:
     #                   save training samples for the second step  (individual POI prediction)
-                        training_data=str(user_counter,sample[7])
-                        with open('train_CAL.txt','a') 
+                        training_data=str((user_counter,sample[7]))
+                        with open('train_'+ args.dataset + '.txt','a') as file_handle:
                             file_handle.write(training_data)    
                             file_handle.write('\n')        
 
@@ -415,9 +499,9 @@ def category_encoder(args):
                 total_accuracy_type += c_accuracy_type
 
                #save category and type prediction results for the second step (individual POI prediction)
-                prediction_data=str(user_counter,sample[0],sample[5],sample[6],sample[7],sample[8],cat_true.flatten().flatten(),c_accuracy_type.flatten(),type_pred.flatten(),cat_1_pred.flatten(),cat_5_pred.flatten(),cat_10_pred.flatten())
+                prediction_data=str((user_counter,sample[0],sample[5],sample[6],sample[7],sample[8],cat_true.flatten().flatten(),c_accuracy_type.flatten(),type_pred.flatten(),cat_1_pred.flatten(),cat_5_pred.flatten(),cat_10_pred.flatten()))
 
-                with open('result_CAL.txt','a') as file_handle:   
+                with open('prediction_'+ args.dataset + '.txt','a') as file_handle:   
                     file_handle.write(prediction_data)    
                     file_handle.write('\n')         
 
@@ -476,71 +560,3 @@ def category_encoder(args):
     print('total_recall_10_cat',total_recall_10_cat)
     print('total_map_10_cat',total_map_10_cat)
         
-#-------------------------------------------------------functions--------------------------------------------------------------
-        
-def data_feeder(sample):
-    feed_dict = {}
-    poi_x=sample[0][:-1]
-    poi_y=sample[0][-1]
-    time_x = sample[1][:-1]
-    time_y = sample[1][-1]
-    weekend_x = sample[2][:-1]
-    weekend_y = sample[2][-1]
-    type_x = sample[3][:-1]
-    type_y = sample[3][-1]
-    cat_x = generate_cat_vec_seq(poi_x, type_x, sample[4][:-1], POI_cat_distrib)
-    cat_y = generate_cat_vec_seq([poi_y], [type_y], [sample[4][-1]], POI_cat_distrib)
-    ground_truth = sample[5]
-    location_x=sample[7][:-1]
-    location_y=sample[7][-1]
-    location_ground_truth = sample[8]
-    type_neg = []
-    cat_neg = []
-    time_neg = []
-    weekend_neg = []
-    for neg_sample in sample[9]:
-        type_neg.append(neg_sample[2])
-        cat_neg.append(generate_cat_vec_seq([neg_sample[0]], [neg_sample[2]], [neg_sample[1]], POI_cat_distrib)[0])
-        time_neg.append(time_y)
-        weekend_neg.append(weekend_y)
-    feed_dict['x_poi'] = [poi_x] 
-    feed_dict['x_time'] = [time_x]
-    feed_dict['x_weekend'] = [weekend_x]
-    feed_dict['x_type'] = [type_x]
-    feed_dict['x_cat'] = [cat_x]
-    feed_dict['y_poi'] = [[poi_y]]
-    feed_dict['y_time'] = [[time_y]]
-    feed_dict['y_weekend'] = [[weekend_y]]
-    feed_dict['y_type'] = [[type_y]]
-    feed_dict['y_cat'] = [cat_y]
-    feed_dict['true_y_cat'] = [[sample[6][-1]]] 
-    feed_dict['ground_truth_set'] = [ground_truth]
-    feed_dict['neg_time'] = [time_neg]
-    feed_dict['neg_weekend'] = [weekend_neg]
-    feed_dict['neg_type'] = [type_neg]
-    feed_dict['neg_cat'] = [cat_neg]
-    return feed_dict  
-
-# evaluating function
-def MAP_score(prediction, label):
-
-    pred = prediction[0][0]
-
-    true = label[0]
-
-    visited_no = 0
-
-    correct_no = 0
-
-    total_sum = 0
-
-    for guess in pred:
-
-        visited_no += 1
-
-        if guess in true:
-
-            correct_no += 1
-
-            total_sum += correct_no / visited_no
-    return total_sum / len(label)
