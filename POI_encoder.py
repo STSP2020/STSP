@@ -3,14 +3,15 @@ import pandas as pd
 from pandas import Series, DataFrame
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
-import Util
 import pickle
 import matplotlib.pyplot as plt
 from numpy import argmax #one-hot encoder  
 from keras.utils import to_categorical #one-hot decoder  
+from data_preprocess import value2index,haversine
 
 
 def POI_encoder(args):
+    print('Strat POI model')
 #---------------------------------load file--------------------------------   
     df_POI = pd.read_csv('data/' + args.dataset + '/1_lstm_POI.csv')
     df_checkin = pd.read_csv('data/' + args.dataset + '_checkin.csv')
@@ -20,10 +21,10 @@ def POI_encoder(args):
     #prepare for one-hot, reindex
 
     #POI_pop
-    POI_pop2Index = Util.value2index(df_POI,'POI_id_Popular')
+    POI_pop2Index = value2index(df_POI,'POI_id_Popular')
 
     #category_num
-    Category_num2Index = Util.value2index(df_POI,'category_Pnum')
+    Category_num2Index = value2index(df_POI,'category_Pnum')
 
     #userId——>embedding
     dict_file = 'data/'+ args.dataset + '/1_lstm_userID_old2new.pickle'
@@ -157,7 +158,7 @@ def POI_encoder(args):
                     iter_result = entropy_loss[-2] - entropy_loss[-1]     
                     iter_result = abs(iter_result)
                     
-            print(iter_result)
+            #print(iter_result)
             i+=1
 
         saver.save(sess, 'model/'+ args.dataset + '/path1.ckpt')
@@ -181,13 +182,13 @@ def POI_encoder(args):
             POI_id2 = row['POI_id2']
             Location_id2 = row['Location_id2']
             Type = row['Pred_Type']
-            Category = row[Category_name]
+            category = row[Category_name]
             df_POI_id1 = df_POI[df_POI['POI_id'] == POI_id1]
             df_POI_id1.reset_index(drop = True,inplace = True)
             lng1 = df_POI_id1['POI_id_Longitude'][0]
             lat1 = df_POI_id1['POI_id_Latitude'][0]
             Type_require = df_POI['POI_Type'].map(lambda T : T == Type)
-            Catgory_require = df_POI['Category'].map(lambda c2 : c2 in Category)
+            Catgory_require = df_POI['Category'].map(lambda c2 : c2 in category)
             df_candidate = df_POI[Type_require & Catgory_require] #10个candidate category的情况
             df_candidate = df_candidate.drop_duplicates(subset='POI_id', keep="first")
             df_result = DataFrame(columns = ['candidate_id','score'])
@@ -195,7 +196,7 @@ def POI_encoder(args):
                 candidate_id = row1['POI_id']
                 lat2 = row1['POI_id_Latitude']
                 lng2 = row1['POI_id_Longitude']
-                Dis = Util.haversine(lng1, lat1, lng2, lat2)
+                Dis = haversine(lng1, lat1, lng2, lat2)
                 Distance_candidate = int(Dis)
                 num = len(df_checkin[(df_checkin['User_id'] == User_id)&(df_checkin['POI_id'] == candidate_id)])
                 total = len(df_checkin[df_checkin['User_id'] == User_id])
@@ -223,7 +224,7 @@ def POI_encoder(args):
             if (Type == 'Combined'):
                 Top10 = list(df_result['candidate_id'][:10])
                 POI_id_require = df_POI['POI_id'].map(lambda x : x in Top10)
-                Catgory_require = df_POI['Category'].map(lambda c1 : c1 in Category)
+                Catgory_require = df_POI['Category'].map(lambda c1 : c1 in category)
                 df_candidate_location = df_POI[POI_id_require & Catgory_require]
                 df_candidate_location = df_candidate_location.sort_values(by = 'stars',ascending = False)
 
