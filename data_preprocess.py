@@ -15,11 +15,12 @@ import pickle
 
 
 def Category_Encoder(args):
+    print('Start category data preprocess')
     augment_sample = args.augment_sample
     min_seq_len = args.min_seq_len
     min_seq_num = args.min_seq_num
     category_neg_sample_num = args.category_neg_sample_num
-    data=pd.read_csv('data/'+ args.dataset +'_checkin.csv')
+    data=pd.read_csv('data/'+ args.dataset +'_checkin_reindexed.csv')
     # form visit sequences 
     visit_sequences, max_seq_len, valid_visits, user_reIndex_mapping = generate_sequence(data, min_seq_len, min_seq_num)
     if augment_sample:
@@ -48,7 +49,7 @@ def Category_Encoder(args):
     poi_cat_distrib = generate_cat_distrib(data, valid_visits, POI_reIndex_mapping, cat_reIndex_mapping)
     # generate category transition data
     count_dict= matrix_preparation(POI_sequences)    
-    category_transition= category_transition(cat_reIndex_mapping,count_dict,poi_cat_distrib,144)#144 is the first collective POI index
+    category_transition= Category_Transition(cat_reIndex_mapping,count_dict,poi_cat_distrib,144)#144 is the first collective POI index
     # generate negative sample
     neg_sequences = generate_neg_sequences(POI_sequences,category_neg_sample_num, data, POI_reIndex_mapping,cat_reIndex_mapping)
     # form sample sets
@@ -84,12 +85,11 @@ def Category_Encoder(args):
 #'category result/CAL/result_CAL.txt'               %%%%%  category list and POI Type recommanded in category encoder; the POI ground truth
 
 def POI_Encoder(args):
+    print('Start POI data preprocess')
     City = args.dataset
     Category = args.category_colname
     df_mall = pd.read_csv('data/mall_Info_' + str(City) + '.csv')
-    df_data = pd.read_csv('data/' + str(City) + '_checkin.csv')
-    df_check = inset_mall_location(df_data,df_mall)
-    df_check.to_csv('data/' + str(City) + '/all_checkin.csv')
+    df_check = pd.read_csv('data/' + str(City) + '_checkin.csv')
     df_check_filtered = pd.read_csv('category result/' + str(City) + '/reindex_data_' + str(City) + '.csv')#
     df_POI = DataFrame(df_check,columns = ['POI_id','Location_id',Category,'POI_id_Longitude','POI_id_Latitude','POI_Type','POI_id_Popular','category_Pnum','stars'])
     df_POI = df_POI.drop_duplicates() 
@@ -242,10 +242,10 @@ def matrix_preparation(POI_sequences):
             split_seq.append(list_)
         else:
             list11=[]
-            for j in range(len(all[i])-1):
+            for j in range(len(all_matrix_data[i])-1):
                 list1=[]
-                list1.append(all[i][j])
-                list1.append(all[i][j+1])
+                list1.append(all_matrix_data[i][j])
+                list1.append(all_matrix_data[i][j+1])
                 list11.append(list1)
             split_seq.append(list11)
     
@@ -265,7 +265,7 @@ def matrix_preparation(POI_sequences):
     return count_dict
 
 #category transition  matrix
-def category_transition(cat_reIndex_mapping,count_dict,poi_cat_distrib,first_mall_index):    
+def Category_Transition(cat_reIndex_mapping,count_dict,poi_cat_distrib,first_mall_index):    
     category_transition= np.zeros([len(cat_reIndex_mapping), len(cat_reIndex_mapping)])
     sum_dict=sum(count_dict.values())
     for (m,n) in count_dict.keys():
@@ -456,7 +456,7 @@ def generate_location_sequences(input_data, visit_sequence_dict):
                     POI_sequence.append(-1)
             user_POI_sequences.append(POI_sequence)
         POI_sequences.append(user_POI_sequences)
-    reIndexed_POI_sequences, POI_reIndex_mapping = Helper._reIndex_3d_list(np.array(POI_sequences))
+    reIndexed_POI_sequences, POI_reIndex_mapping = _reIndex_3d_list(np.array(POI_sequences))
     return reIndexed_POI_sequences, POI_reIndex_mapping
 
 
@@ -550,7 +550,7 @@ def generate_cat_sequences(input_data, visit_sequence_dict):
         cat_sequences.append(user_cat_sequences)
     reIndexed_cat_sequences, cat_reIndex_mapping = _reIndex_3d_list(np.array(cat_sequences))
     return reIndexed_cat_sequences, cat_reIndex_mapping
-  
+
 
 # generate POI (new POI) ground truth sequences for each valid user 
 def generate_new_ground_truth_sequences(input_data, ground_truth_dict, POI_reindex_mapping):
@@ -591,7 +591,7 @@ def generate_location_ground_truth_sequences(input_data, ground_truth_dict, POI_
             
             for visit in seq:
                 if visit != -1:
-                    ground_truth_sequence.append(Helper._old_id_to_new(POI_reindex_mapping, input_data['Location_id'][visit]))          
+                    ground_truth_sequence.append(_old_id_to_new(POI_reindex_mapping, input_data['Location_id'][visit]))          
                 else: 
                     ground_truth_sequence.append(-1)
             user_ground_truth_sequence.append(ground_truth_sequence)
@@ -687,7 +687,7 @@ def generate_neg_sequences(POI_sequences, category_neg_sample_num, input_data, P
                 if poi_type: 
                     poi_cat = -1
                 else:
-                    poi_cat = Helper._old_id_to_new(cat_reIndex_mapping, poi_entry['L2_id'])                  
+                    poi_cat = _old_id_to_new(cat_reIndex_mapping, poi_entry['L2_id'])                  
                     poi_time =  poi_entry['hour']
                     poi_weekend =poi_entry['weekend']  
                 neg_sequence.append([poi, poi_cat,poi_type])
@@ -861,7 +861,10 @@ def prepare_Neg_Seq(df_Positive_seq,df_sorted,df_POI,Category):
     User_id_list = []
     finish = 0
     user_num = len(df_Positive_seq.axes[0])
+    bar = progressbar.ProgressBar(maxval=len(df_Positive_seq.axes[0]), widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+    bar.start()
     for index, row in df_Positive_seq.iterrows():
+        bar.update(index)
         User_id = row['User_id']
         if User_id not in User_id_list:
             User_id_list.append(User_id)
@@ -916,19 +919,20 @@ def prepare_Neg_Seq(df_Positive_seq,df_sorted,df_POI,Category):
                                 'POI2_category':[Category2],'Distance':[Distance],'POI_Popular1':[POI_Popular1],
                                 'POI_Popular2':[POI_Popular2],'category_Pnum1':[category_Pnum1],'category_Pnum2':[category_Pnum2],
                                 'user_preference':[user_preference],'ground_True':[ground_True]}))
-        finish+=1
-        print(finish/user_num) # Negative sampling schedule
+        #finish+=1
+    bar.finish()
+        
     df_Negitive_seq.reset_index(drop = True,inplace = True)
     return df_Negitive_seq     
 
-
-
-    
-
- 
-
-
-
-    
+def value2index(df_all_seq,column):
+    value_list = list(df_all_seq[column].unique())
+    value_list.sort()
+    Value2Index = dict()
+    index = 0
+    for i in value_list:
+        Value2Index[i] = index
+        index+=1
+    return Value2Index 
 
 
