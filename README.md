@@ -10,6 +10,7 @@ STSP is a model proposed in 'A Win-Win Solution of Next POI Recommendation for U
 - `data/`
   - `mall_Info_CAL.csv`: raw mall information file of Calgary;
   - `CAL_checkin.csv`: raw checkin file of Calgary;
+  - `CAL_checkin_reindexed.csv`: reindexed checkin file of Calgary;
 - `category result/`
   - `CAL`
     - `user_rep_CAL`: user embedding folder of category encoder portion, there are many .npy files;
@@ -35,5 +36,5 @@ The code has been tested running under Python 3.6.9, with the following packages
 
 ### Running the code
 ```
-$ python main.py --dataset CAL (note: use -h to check optional arguments)
+$ python main.py (note: use -h to check optional arguments)
 ```
