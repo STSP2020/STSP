@@ -2,26 +2,26 @@
 
 This repository is the implementation of STSP 
 
-STSP is a model proposed in 'A Win-Win Solution of Next POI Recommendation for Users-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
+STSP is a model proposed in 'A Win-Win Solution of Next POI Recommendation for Users-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
 
 
 ### Files in the folder
 
 - `data/`
-  - `mall_Info_CAL.csv`: raw mall information file of Calgary;
-  - `CAL_checkin.csv`: raw checkin file of Calgary;
-  - `CAL_checkin_reindexed.csv`: reindexed checkin file of Calgary;
+  - `mall_Info_CAL.csv`: raw mall information of Calgary;
+  - `CAL_checkin.csv`: raw checkin information of Calgary;
+  - `CAL_checkin_reindexed.csv`: reindexed checkin information of Calgary;
 - `category result/`
   - `CAL`
-    - `user_rep_CAL`: user embedding folder of category encoder portion, there are many .npy files;
+    - `user_rep_CAL`: user embedding folder of category encoder module, there are many .npy files;
     - `L2_id_mapping_CAL.csv`: category id mapping file;
     - `reindex_data_CAL.csv`: reindexed and filtered checkin file;
-    - `result_CAL.txt`: the original category recommend result of category encoder portion;
+    - `result_CAL.txt`: the original category recommendation result of category encoder module;
     - `train_CAL.txt`: the original train data of category encoder;
 - `main.py`: main file;
 - `data_preprocess.py`: data preprocess file;
-- `category_encoder.py`: category encoder portion;
-- `POI_encoder.py`: POI encoder portion.
+- `category_encoder.py`: category encoder module;
+- `POI_encoder.py`: POI encoder module.
 
 
 
