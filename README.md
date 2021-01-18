@@ -50,26 +50,26 @@ The code has been tested running under Python 3.6.9, with the following packages
     embedding size D|120|100|120|
     category importance α|0.4|0.5|0.5|
     
-  Table2:Hyper-parameter settings for CateMF.    
+  Table2: Hyper-parameter settings for CateMF.    
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001|
     embedding size D|100|100|120|
   
-  Table3:Hyper-parameter settings for LBPR.
+  Table3: Hyper-parameter settings for LBPR.
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001 |
     |embedding size D|100|100|120|
     |list size α|2|2|2|
  
-  Table4:Hyper-parameter settings for MCARNN.
+  Table4: Hyper-parameter settings for MCARNN.
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
     |learning rate η| 0.01| 0.01| 0.01 |
     |embedding size D | 200|200| 200 |
   
-  Table5:Hyper-parameter settings for HCT.
+  Table5: Hyper-parameter settings for HCT.
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001 |
@@ -81,7 +81,7 @@ The code has been tested running under Python 3.6.9, with the following packages
 - Running Time
   - The training and testing time of our STSP on the three real-world datasets are listed in Table 6.
   
-  Table 6:Training and testing time (seconds) of STSP.
+  Table 6: Training and testing time (seconds) of STSP.
     |       | Training | Testing |
     |:-----:|:--------:|:-------:|
     |CHA    | 509.05   | 433.60  |
