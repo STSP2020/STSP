@@ -2,7 +2,7 @@
 
 This repository is the implementation of STSP 
 
-STSP is a model proposed in 'A Win-Win Solution of Next POI Recommendation for Users-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
+STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
 
 
 ### Files in the folder
