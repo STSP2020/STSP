@@ -34,6 +34,13 @@ The code has been tested running under Python 3.6.9, with the following packages
 
 
 
+### More Experimental Settings
+- Environments
+  -Our proposed STSP and the deep learning based baseline, namely MCARNN are implemented using Tensorflow 2.0.0, with Python 3.6.9 from Anaconda 4.7.12. All the conventional baselines, including MostPop, CateMF, LBPR are implemented with Python 3.6.9. For HCT, we directly use the source code provided by the authors.
+All the experiments are carried out on a machine with Windows 10, Intel CORE i7-8565U CPU and 16G RAM.
+
+
+
 ### Running the code
 ```
 $ python main.py (note: use -h to check optional arguments)
