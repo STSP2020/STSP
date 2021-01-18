@@ -2,7 +2,7 @@
 
 This repository is the implementation of STSP 
 
-STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
+STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
 
 
 ### Files in the folder
@@ -26,7 +26,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Business
 
 
 ### Required packages
-The code has been tested running under Python 3.6.9, with the following packages installed (along with their dependencies):
+Our experiments are implemented with Python 3.6.9, and the following packages installed (along with their dependencies):
 - tensorflow==2.0.0
 - numpy==1.17.3
 - pandas=0.25.3
