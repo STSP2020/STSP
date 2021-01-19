@@ -68,7 +68,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001 |
     |embedding size  D | 200| 200| 200 |
-    |window size | 2| 2 |2 |
+    |window size w| 2| 2 |2 |
     |weights of categories at layer 1 & 2 | 0.2&0.8| 0.2&0.8| 0.2&0.8|
     
   
