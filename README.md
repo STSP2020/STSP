@@ -74,10 +74,10 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
     |weights of categories at layer 1 & 2 | 0.2&0.8| 0.2&0.8| 0.2&0.8|
     
   
-- Running Time
+- Training/Testing Time
   - The training and testing time of our STSP on the three real-world datasets are listed in Table 6.
   
-  Table 6: Training/Testing Time (seconds) of STSP.
+  Table 6: Training and testing time (seconds) of STSP.
     |       | Training | Testing |
     |:-----:|:--------:|:-------:|
     |CHA    | 509.05   | 433.60  |
