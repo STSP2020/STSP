@@ -32,7 +32,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
     - pandas=0.25.3
     - keras==2.3.1
 - Data Preprocessing
-  - Following state-of-the-arts,  we filter out users and POIs with less than 10 check-in records. For each user, we split her check-in records into sequences by day, where the earlier 80\% of her sequences are used as training set; the latest 10\% of her sequences are test sets; and the rest 10\% in the middle is treated as validation set to help tune the hyper-parameters. Tables (1-5) summarize the optimal settings for all the methods. 
+  - Following state-of-the-arts,  we filter out users and POIs with less than 10 check-in records. For each user, we split her check-in records into sequences by day, where the earlier 80\% of her sequences are used as training set; the latest 10\% of her sequences are test sets; and the rest 10\% in the middle is treated as validation set to help tune the hyper-parameters.
 - Hyper-parameter Settings
   - Hyper-parameter SettingsTables (1-5) summarize the optimal settings for the hyper-parameters of all the methods
   Table1: Hyper-parameter settings for our STSP.
