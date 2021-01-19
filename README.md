@@ -25,15 +25,16 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
 
 
 ### More Experimental Settings
-- Computing platform
+- Environment
   - Our proposed STSP and the deep learning based baseline, namely MCARNN are implemented using Tensorflow 2.0.0, with Python 3.6.9 from Anaconda 4.7.12. All the conventional baselines, including MostPop, CateMF, LBPR are implemented with Python 3.6.9. For HCT, we directly use the source code provided by the authors. All the experiments are carried out on a machine with Windows 10, Intel CORE i7-8565U CPU and 16G RAM. The following packages is needed (along with their dependencies):
     - tensorflow==2.0.0
     - numpy==1.17.3
     - pandas=0.25.3
     - keras==2.3.1
-- Hyper-parameter Settings
+- Data Preprocessing
   - Following state-of-the-arts,  we filter out users and POIs with less than 10 check-in records. For each user, we split her check-in records into sequences by day, where the earlier 80\% of her sequences are used as training set; the latest 10\% of her sequences are test sets; and the rest 10\% in the middle is treated as validation set to help tune the hyper-parameters. Tables (1-5) summarize the optimal settings for all the methods. 
-  
+- Hyper-parameter Settings
+  - Hyper-parameter SettingsTables (1-5) summarize the optimal settings for the hyper-parameters of all the methods
   Table1: Hyper-parameter settings for our STSP.
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
