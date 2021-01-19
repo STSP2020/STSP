@@ -34,7 +34,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
 - Data Preprocessing
   - Following state-of-the-arts,  we filter out users and POIs with less than 10 check-in records. For each user, we split her check-in records into sequences by day, where the earlier 80\% of her sequences are used as training set; the latest 10\% of her sequences are test sets; and the rest 10\% in the middle is treated as validation set to help tune the hyper-parameters.
 - Hyper-parameter Settings
-  - Hyper-parameter settings tables (1-5) summarize the optimal settings for the hyper-parameters of all the methods.
+  - Tables (1-5) summarize the optimal settings for the hyper-parameters of all the methods.
   
   Table1: Hyper-parameter settings for our STSP.
     |Hyper-paramters|CHA|PHO|CAL|
