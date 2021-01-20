@@ -52,12 +52,14 @@ STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Business
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001|
     embedding size D|100|100|120|
+    regularization term λ|0.1|0.1|0.1|
   
   Table3: Hyper-parameter settings for LBPR.
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001 |
     |embedding size D|100|100|120|
+    |regularization term λ|0.01|0.01|0.01|
     |list size α|2|2|2|
  
   Table4: Hyper-parameter settings for MCARNN.
@@ -65,21 +67,24 @@ STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Business
     |:---:|:---:|:---:|:---:|
     |learning rate η| 0.01| 0.01| 0.01 |
     |embedding size D | 200|200| 200 |
-  
+    |regularization term λ|0.01|0.01|0.01|
+    |number of recurrent layers|2|2|2|
+    |weighting factor (λ1, λ2, λ3)|(1, 0.5, 0.05)|(1, 0.5, 0.05)|(1, 0.5, 0.05)|
+      
   Table5: Hyper-parameter settings for HCT.
     |Hyper-paramters|CHA|PHO|CAL|
     |:---:|:---:|:---:|:---:|
     |learning rate η | 0.001| 0.001| 0.001 |
     |embedding size  D | 200| 200| 200 |
     |window size ω| 2| 2 |2 |
-    |weights of categories at layer 1 & 2 | 0.2&0.8| 0.2&0.8| 0.2&0.8|
+    |weights of categories at layer 1 and 2 (α1, α2) | (0.2, 0.8)| (0.2, 0.8)| (0.2, 0.8)|
     
   
 - Training/Testing Time
   - The training and testing time of our STSP on the three real-world datasets are listed in Table 6.
   
   Table 6: Training and testing time (seconds) of STSP.
-    |       | Training | Testing |
+    |       | Training Time | Testing Time |
     |:-----:|:--------:|:-------:|
     |CHA    | 509.05   | 433.60  |
     |PHO    | 523.57   | 798.34  |
