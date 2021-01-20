@@ -1,0 +1,1267 @@
+,POI_id,POI_Type,Location_id,Latitude,Longitude,Category,Org_id,yelp_id,name,stars
+0,942,Independent,942,51.115835,-114.06984299999999,Grocery Store,4b3fcbf7f964a520feae25e3,jmDK3C5_gyQ0-5VZik643A,Real Canadian Superstore,3.5
+1,560,Independent,560,51.041939,-114.08941599999999,Coffee Shop,4b8c2b39f964a520f0c132e3,eHJsmmxumitEJkuaO0yBSQ,Tim Hortons,3.0
+2,2210,Combined,1041,51.084709000000004,-114.12473200000001,Drugstore / Pharmacy,4b67279df964a520373e2be3,WBkUnLApQeWdkb1-LPgjAQ,London Drugs,3.5
+3,151,Independent,151,50.9299,-113.96616000000002,Department Store,4bb6a15946d4a593a095c6c0,2O3tH8b3mJY5KO2KnJuokA,Walmart Supercentre,4.0
+4,2301,Combined,238,50.980506,-114.041948,Furniture / Home Store,4b6c7c4af964a520ee3d2ce3,UScXRDCz535-5MOkpoJyqw,IKEA,3.0
+5,1136,Independent,1136,51.048142999999996,-114.06536100000001,Coffee Shop,4b5f15f5f964a52050a529e3,qDpngVfw7Y8XFhCZjqTZYw,Analog Coffee,4.5
+6,1145,Independent,1145,51.046318,-114.061775,Light Rail,4b54e95ef964a520cdd227e3,PjlodjmfABi5dW-iek2P-w,Calgary Transit,2.5
+7,1207,Independent,1207,51.046256,-114.056676,Light Rail,4b21a170f964a520373f24e3,gvx8rtsk9VMjCv8sTCm04A,City Hall LRT Station,3.5
+8,884,Independent,884,51.079304,-113.9906,Grocery Store,4b75f725f964a520ba322ee3,pih0Ql0yOcVbLUI9eovGIA,Costco Wholesale,4.0
+9,2220,Combined,167,50.933766999999996,-113.96053799999999,Hardware Store,4ba66d9af964a520715139e3,1WY-6l7DUFGu71EB6Jjxyg,The Home Depot,2.0
+10,770,Independent,770,51.058375,-114.069346,Skating Rink,4dcda14f22718eed7a23b018,LyMpee3zP1J8A5t0AM-IJQ,Calgary Curling Club,4.0
+11,180,Independent,180,50.949148,-113.98270600000001,Casino,4b0586e6f964a520cd7322e3,aBaXV2pCWpf4PcUbGcrs3g,Deerfoot Inn & Casino,2.5
+12,2204,Combined,749,51.098789000000004,-114.144016,Mall,4b6e0876f964a520f8a42ce3,Te-QpX0XZIhY81Icm2HU8A,Target,3.0
+13,2102,Combined,1258,51.045728999999994,-114.071125,Electronics Store,4baa6368f964a52081653ae3,XZVrxLpCm2XOlNhzJ_bHqA,iPhix,1.5
+14,530,Independent,530,51.037858,-114.083022,Vegetarian / Vegan Restaurant,4c82ea6d47cc224b10008b9f,9tgJbLfCQcZ35-TSabZOfA,The Coup,4.0
+15,987,Independent,987,51.070299,-114.11756100000001,Seafood Restaurant,4b4d3b6ef964a520e7ce26e3,nCUw_LVqKa3fSa0GEI7ZKQ,Joey's Seafood Restaurants,1.5
+16,1098,Independent,1098,51.04665,-114.08074099999999,Fast Food Restaurant,4b6c7abef964a520763d2ce3,NPa74p4Ox9-5d-EbByx1gw,McDonalds,2.0
+17,522,Independent,522,51.03771500000001,-114.079571,Drugstore / Pharmacy,4ba96258f964a5208c233ae3,i5k6adxc1CsMxdp4bCt6Dw,Shoppers Drug Mart,4.0
+18,2211,Combined,1056,51.065956,-114.103146,Grocery Store,4b76f530f964a520826e2ee3,Id9IbX4C7sxPf2BvgK8eTw,Safeway,3.5
+19,315,Independent,315,50.993306,-114.070747,BBQ Joint,4b50ac92f964a520c62c27e3,63kxNq4fgwvuJnjIeayE8w,A Plus Buffet Sushi Bar,3.0
+20,2103,Combined,1159,51.051856,-114.070187,Hotel,4b0586e6f964a5209d7322e3,KsQzxfuZTnNnPEOMfQ9mng,Sheraton Suites Calgary Eau Claire,4.5
+21,568,Independent,568,51.04195900000001,-114.08270900000001,Pub,4c4beed19e6dbe9a577ac10c,tnJ7Tgn7EifkhPguLnUn3w,Mikey's On 12th,3.5
+22,2212,Combined,638,51.154671,-114.054129,Coffee Shop,4b2673a0f964a520ba7b24e3,W8f0UUpmVX5Vnar3TDNojg,Tim Hortons,2.5
+23,827,Independent,827,51.080938,-114.025644,Coffee Shop,4ba0df3cf964a520a38337e3,RHYAN5MXsYuvehCuK1zE5g,Tim Hortons,3.5
+24,921,Independent,921,51.093849,-113.99858200000001,Hotel,4b8f241ef964a520de4a33e3,EDzCc-FzSXvDG2O0lDYaQw,Holiday Inn Express & Suites Airport-Calgary,4.0
+25,2300,Combined,674,51.12423,-114.20473,Coffee Shop,4b6ec387f964a5207fc92ce3,x5vdKD0MhkLHHncMryLBeg,Tim Hortons,3.0
+26,471,Independent,471,51.040827,-114.06558999999999,Coffee Shop,4b5ba2d4f964a520aa0c29e3,oNf6MkIn1RTPmCBVACPA_w,Starbucks,3.0
+27,1095,Independent,1095,51.045246,-114.08091499999999,Nightclub,4b0586e9f964a520b07422e3,5JtCdjoC3zDO9YoqKInAxA,Knoxville's Tavern,2.0
+28,2102,Combined,1235,51.044793,-114.06918300000001,Coffee Shop,4b9e7a75f964a5206de736e3,4tYewpOSBPxiTjoFT54ZCw,Tim Hortons,3.0
+29,2300,Combined,688,51.125763,-114.198549,Juice Bar,4bb66f962ea19521eaabab2f,W8biO0K_PIsT42zbG4zoow,Booster Juice,4.0
+30,1185,Independent,1185,51.049833,-114.069348,Spa / Massage,4b28322af964a520a59024e3,lS0BiPeGWONrpPkhe6H5hg,Shiva Medical Spa,1.0
+31,1118,Independent,1118,51.048004,-114.07486399999999,Coffee Shop,4b59c237f964a520959628e3,xwNA3haonavN4SP0i0YEbw,Deville Coffee,3.0
+32,124,Independent,124,50.961457,-114.074266,Grocery Store,4c96612d533aa0932c46d145,iGmccHBQtF8xRT4n9zxA6Q,Real Canadian Superstore,2.0
+33,2105,Combined,1240,51.045559000000004,-114.066979,Indian Restaurant,4b0586e9f964a520ac7422e3,GwpoCSmwfJYo7fyBq_mDZQ,Mango Shiva,4.0
+34,1055,Independent,1055,51.067456,-114.105317,Hardware Store,4b17e920f964a52091c923e3,RLuDMEOKc6xPN_1_IY76RQ,The Home Depot,3.0
+35,1018,Independent,1018,51.071855,-114.159649,Restaurant,4c62047ceb82d13a969604d6,SYCgakqaEBTjRhOVFXjV3g,NOtaBLE,4.0
+36,2221,Combined,73,50.905549,-114.06498500000001,Grocery Store,4ba990f7f964a520c62e3ae3,WxzEFPjYt0VIwKDw4tur4Q,Safeway,4.0
+37,365,Independent,365,51.008169,-114.068542,Bar,4b0586e9f964a520967422e3,uNBrfpSxA6vmzX_9CpKKaA,Blind Beggar Bar & Grill,4.0
+38,984,Independent,984,51.068295,-114.116803,Motel,4b8ff260f964a5205f6b33e3,cM-MCFsZ4fF23JoGNHeXaA,Best Western Plus Village Park Inn,3.5
+39,278,Independent,278,51.023975,-114.108795,Coffee Shop,4b141699f964a520229d23e3,R9Q2H4XVCiHUee3OvkB1kg,Phil and Sebastian Coffee Roasters,4.0
+40,535,Independent,535,51.037727000000004,-114.08555700000001,Coffee Shop,4ca8c27844a8224b26c81a40,RUw1P4_Dq0Zu7Dn6dvu7jA,Waves Coffee House,4.0
+41,725,Independent,725,51.085746,-114.18050900000001,Coffee Shop,4b1d2499f964a520350c24e3,KMNkriayvWEwdZPcmr1faA,Cadence Coffee,4.0
+42,1197,Independent,1197,51.050022999999996,-114.06346200000002,Bakery,4bd1e82fa8b3a59355ae665f,6F51-rxfSPu1wUiKTjBJjw,Baker's Hut,3.5
+43,53,Independent,53,50.900895,-114.06168899999999,Department Store,4b8d5f1df964a520b6f732e3,YwjlMw_KBgj6F-Ys--XayA,Walmart,3.0
+44,929,Independent,929,51.088476,-114.062929,Coffee Shop,4b5e159df964a520d07c29e3,nT15zgH_9EFINH84W7fxIg,Tim Hortons,3.0
+45,314,Independent,314,50.992631,-114.073342,Coffee Shop,4b2bc7b9f964a520d2ba24e3,CqQ9Y1J47Osr0BVGlU6tiQ,Tim Hortons,2.5
+46,941,Independent,941,51.110177,-114.061904,Coffee Shop,4b4d262df964a520b1cc26e3,9npKMK9x3pgtP41n2rpPvQ,Tim Hortons,1.5
+47,100,Independent,100,50.951749,-114.06091699999999,Library,4bc0dd67f8219c74c25cb210,Cx6DYhA3incRLbV76PyrSQ,Fish Creek Public Library,5.0
+48,361,Independent,361,51.0017,-114.063975,Vietnamese Restaurant,4d4b54f8d28f37040b42f222,4e_kgP5CBbWwZCYEbConPA,Oriental Phoenix Restaurant,3.5
+49,2300,Combined,675,51.124115,-114.20608500000002,Automotive Shop,4b6cd31cf964a5202b572ce3,S1iUGkHlSvKt2TCAsqe9Ag,Discount Car & Truck Rentals,2.5
+50,2218,Combined,110,50.952655,-114.066667,Salon / Barbershop,4f80973ee4b05d42de491afa,evYs25izRjdiDdZU-XWSPA,Hennessey Salon + Spa,2.0
+51,2213,Combined,8,51.041151,-114.13966699999999,Department Store,4b3bf893f964a520807f25e3,51QAojCrBm5f2BqJUSrmZA,Walmart,3.0
+52,2300,Combined,704,51.127926,-114.200695,Coffee Shop,4ba13457f964a520dba137e3,VsdyDGq7ouMA72KvD5qUdQ,Starbucks,3.5
+53,2205,Combined,853,51.06104000000001,-113.984675,Grocery Store,4b579da6f964a520853928e3,Me903TmRgwOdiC05DILyyg,T & T Supermarket,3.5
+54,62,Independent,62,50.902741,-114.065803,Pizza Place,4b076de9f964a5207cfd22e3,ethajsaDau3bk99n2cUPhQ,Boston Pizza,2.5
+55,2216,Combined,321,50.997526,-114.07338700000001,Sporting Goods Shop,4bfae2281c1da59387137e0e,UIBn9sYbDbPBBJYNcu1u2g,Sport Chek Chinook Centre,2.5
+56,2221,Combined,74,50.907293,-114.065722,Vietnamese Restaurant,4b314725f964a520c50325e3,8glTYTp-ZzR_mlUe7p7HHQ,Jerusalem Shawarma - Shawnessy,4.5
+57,2201,Combined,586,51.098711,-113.95928899999998,Fast Food Restaurant,4bf5eeacbfeac92806989336,61h1akwzAo5vqNmnDdgmnA,Mucho Burrito,4.5
+58,1187,Independent,1187,51.049152,-114.06237,Chinese Restaurant,4b0586ebf964a520477522e3,QGE9ZsMb7QLMsBf2OvfVMw,Dragon Chinese Restaurant,3.5
+59,2200,Combined,579,51.151388,-114.213649,Grocery Store,4b6b5f86f964a5205f042ce3,0iGOEpsD8Tr79TMmk-hLgw,Sobeys,4.5
+60,402,Independent,402,51.041998,-114.035945,Italian Restaurant,4b68d2a4f964a520c18e2be3,LyNhyjqYAKmtq_z--AimvQ,Gorilla Whale,3.5
+61,925,Independent,925,51.094936,-113.99978999999999,Hotel,4ba013a2f964a520f55737e3,L2qg_6qrG70DRy4bvppYPg,Sandman Hotel & Suites Calgary Airport,2.0
+62,1036,Independent,1036,51.07867,-114.13013899999999,Concert Hall,4c996577292a6dcb6753c676,fK54MdR4YFlbGzCzCg7FlQ,MacEwan Hall and Ballroom,3.5
+63,425,Independent,425,51.04331,-114.07023000000001,Pub,4dfaa9d31f6eeef806a8964e,yL_bdAZxiSBFvwlPm5WK6g,The Whiskey,2.5
+64,891,Independent,891,51.079881,-114.00286299999999,American Restaurant,4b0586e7f964a520117422e3,fYqz_q3c-HC3R5vreCvfpw,Tony Roma's,3.0
+65,473,Independent,473,51.041234,-114.06476699999999,Hotel,4b0586e6f964a520cc7322e3,TJ3MrS3I2IHhdQu2gxbmtg,Hotel Arts,3.5
+66,463,Independent,463,51.034043,-114.071051,Karaoke Bar,4b626a75f964a520b4462ae3,nbwZ3FDy1ET99W3GDnAcrQ,Ducky's Pub & Restaurant,3.0
+67,381,Independent,381,51.03014,-114.060616,Breakfast Spot,4b898464f964a520193e32e3,s0YfHJ9gEuDgbSKcL97aGg,Humpty's Family Restaurants,2.5
+68,54,Independent,54,50.89918,-114.065523,Coffee Shop,4b5f9164f964a52017c229e3,mlRzpGPBEzmK4U2Uzdk0zg,Tim Hortons,2.0
+69,982,Independent,982,51.067352,-114.117194,American Restaurant,4b6555c7f964a520a4ed2ae3,2tvdTwgARXgu-5UVRcsc4A,Denny's,3.0
+70,2200,Combined,576,51.150493,-114.21358000000001,Coffee Shop,4b7f6e16f964a520332e30e3,koGzyFl7XS4hHR-CEJ4hxQ,Second Cup,4.0
+71,201,Independent,201,50.970995,-114.072325,Fast Food Restaurant,4bae5252f964a52071a23be3,pThxL0s-N74XVaCU-JdFtA,McDonald's,2.0
+72,193,Independent,193,50.962654,-114.08648600000001,Coffee Shop,4b603378f964a520aed929e3,Pnj5JxSS2AZS29wRZAC8XA,Tim Hortons,3.0
+73,795,Independent,795,51.065907,-114.06389899999999,Ramen /  Noodle House,4b0586ebf964a520777522e3,HKuez_mOGARb2aC6i5-WWQ,Pho Kim Restaurant,3.5
+74,203,Independent,203,50.972737,-114.070154,Hotel,4b0586e6f964a520a97322e3,yJbFmJAtc6R5JlDBEQBs8Q,Carriage House Inn,3.0
+75,2301,Combined,239,50.981401,-114.045201,Restaurant,4d8e2b7dca75b60c2de4f8a8,C3uxeV8VSiMGcdFGmos0QQ,Moxie's Grill & Bar,3.0
+76,1113,Independent,1113,51.045916,-114.07488500000001,Movie Theater,4b0586ecf964a520db7522e3,87XfNqtYs1ld2w2J88pm4w,Globe Cinema,4.0
+77,78,Independent,78,50.909738,-114.067438,Grocery Store,4b64b2d2f964a52042c92ae3,e7Ip7cd_m_NZt2r3VMd4ow,Real Canadian Superstore,3.0
+78,2215,Combined,28,51.019537,-114.16797199999999,Steakhouse,4b0586ebf964a5205e7522e3,_EjdwRr_Y5BLtz6BjjhFHQ,Montana's BBQ & Bar,2.5
+79,427,Independent,427,51.042654,-114.071494,Coffee Shop,4b47a74af964a5201f3926e3,uoEN0ubXMi4ZcnjNVUNunw,Tim Hortons,2.0
+80,1188,Independent,1188,51.049025,-114.05993500000001,Hotel,4b0586e6f964a520a27322e3,GTLaZNQ1B3JsrhUh9z3vEg,Delta Hotels by Marriott Calgary Downtown,3.5
+81,2216,Combined,356,50.999968,-114.07293200000001,Clothing Store,4cb2382175ebb60c0953d3ad,3CoHXsCzSejNwMqNZLaoEA,Tory Burch,4.0
+82,442,Independent,442,51.043202,-114.08748100000001,Grocery Store,4bb90f4598c7ef3bd1be3102,mzvxXwPKkl7TCK1tEZr5dQ,Co-op,3.5
+83,835,Independent,835,51.069351,-113.98405,Grocery Store,4bb7af653db7b713ac62209a,J9p2oPNouZu7Qqoc6ZheKA,Real Canadian Superstore,3.0
+84,2209,Combined,992,51.086328,-114.156272,Department Store,4b6dc3e2f964a520c18d2ce3,xQlQb8yzYO4O5F39OuR7gA,Hudson's Bay,2.5
+85,777,Independent,777,51.05408900000001,-114.09469299999999,Japanese Restaurant,4b0586ecf964a520ce7522e3,inkczVh91Kt4MdwAfKeFWw,Muku Japanese Noodle House,4.0
+86,2209,Combined,997,51.082822,-114.154247,Electronics Store,4b06f8a1f964a5208ff422e3,Z9zCD9sVsvyeZnwNYbihqg,Apple Store,4.0
+87,581,Independent,581,51.125584,-113.944176,Pizza Place,4b456f7bf964a520b20c26e3,fovLON4LAVRqZLwsndsGOA,Pizza 73,3.0
+88,2209,Combined,993,51.086263,-114.15433700000001,American Restaurant,4bc1fca3920eb7139e661b2c,xLM26ItewI_hMGpMXTjn1g,Milestones Restaurants,3.0
+89,250,Independent,250,50.989047,-113.959108,Coffee Shop,4b7c20aef964a5209c7e2fe3,CxFXHufCJtGdeXdQjAmvlg,Tim Hortons,2.5
+90,1021,Independent,1021,51.068220000000004,-114.159342,Medical Center,4ba7ef2af964a520edbf39e3,S6DWd1rJEjtmh4FC74kOYg,"Ken Alanen, MD",1.5
+91,142,Independent,142,50.91607800000001,-113.96229699999999,Gym,4b58ca2ef964a520566b28e3,3xT7iTYsZFpLzhI1cRVQWg,GoodLife Fitness,2.0
+92,2210,Combined,1040,51.084359,-114.125504,Burger Joint,4b819aa2f964a52018b230e3,OjjbyQyzJji9wNgOOBUbIA,Harvey's,3.0
+93,910,Independent,910,51.081842,-113.99681100000001,Fast Food Restaurant,4b6dc0bff964a5208e8c2ce3,uoGdzFkeHlPcJBOZ_sR9CA,McDonald's,1.5
+94,571,Independent,571,51.039701,-114.08166899999999,Pizza Place,4be5f6d3bcef2d7f689c04e5,7nI-0MaujBqpM2smc3bD-g,Big John's Pizza & Donairs,3.5
+95,570,Independent,570,51.040032000000004,-114.081751,Donut Shop,4db848ec43a1a75c1f6f960c,1vtfUVGkcdikfBp7RSk9pg,Jelly Modern Doughnuts,4.0
+96,859,Independent,859,51.052726,-113.98293999999999,Italian Restaurant,4b0586e8f964a5206d7422e3,KMnFlu3SifyKWKVeMX1UFg,Olive Garden Italian Restaurant,3.0
+97,2102,Combined,1263,51.045919,-114.06928500000001,Bookstore,4bfc1803d6f2c9b666b54ec8,fuV_dlamYVpvLHPfXrfxCg,Indigo,3.0
+98,1244,Independent,1244,51.045516,-114.07135600000001,Coffee Shop,4b0d853bf964a520144a23e3,ZELWbKmXH_Cc5r3NEOLNqg,Starbucks,3.5
+99,1206,Independent,1206,51.045201,-114.05663100000001,City Hall,4b264781f964a520c47924e3,BdQ_EJBlZY1t-6mCbULOIA,City Hall and Municipal Complex,3.0
+100,1193,Independent,1193,51.051024,-114.061553,Chinese Restaurant,4b6b6ebef964a52070082ce3,43V5SUyC04za5ITSvRndog,Great Taste Chinese Restaurant,4.0
+101,1102,Independent,1102,51.047109999999996,-114.080675,Restaurant,4b05aa23f964a5208ce022e3,-hBRP99YCr_8Xb8WG5YQmg,Moxie's Grill & Bar,3.5
+102,305,Independent,305,50.99021,-114.07215,Sushi Restaurant,4af37e26f964a52020ee21e3,g7LC8EnBxXFWhm4UrriCJg,Kinjo Sushi,4.0
+103,709,Independent,709,51.119526,-114.15442900000001,Gym,4b7c4252f964a520f5872fe3,USjXfWQQDjAU-Mpk45pvZA,Edgemont World Health,3.0
+104,190,Independent,190,50.97267,-114.09653700000001,Coffee Shop,4b116759f964a520d27b23e3,Y1WPRHUR2goocvJcNsBlYA,Starbucks,3.0
+105,372,Independent,372,51.01498400000001,-114.064431,Korean Restaurant,4b47e08bf964a5208c4226e3,5Hn-PqlBUwxyO808AJKhaw,Seoul Korean BBQ Restaurant,3.5
+106,896,Independent,896,51.079532,-114.000152,Hotel,4c0724f5b4aa0f47404a6562,o4RRBnPFUMNLDeJPMezRIQ,Super 8 by Wyndham Calgary/Airport,1.5
+107,179,Independent,179,50.949425,-113.98021899999999,American Restaurant,4c696dfb1a6620a1c680638c,mKtBdeJFHdaFeuZHtVyBnA,Denny's,3.5
+108,1105,Independent,1105,51.04888,-114.08095900000001,Coffee Shop,4b0c29c4f964a520213823e3,Tt7syUJHEuONVjczXnkEuQ,Tastebuds & Co Cafe,4.0
+109,1100,Independent,1100,51.047071,-114.080872,Hotel,4b0586e6f964a520a87322e3,5x-h1vryKFRAuvLJFbSYuA,Sandman Hotel Calgary City Centre,2.0
+110,2220,Combined,161,50.932210999999995,-113.961583,Fast Food Restaurant,4c9e20498afca0934076fd15,ap7qSvGnY3hrhjO1RQKn2Q,McDonald's,1.5
+111,293,Independent,293,50.984190999999996,-114.072825,Caf,4d28c974b818a35d07a7988a,cK7zYPzoXcVH040Cc7SjbA,Glowing Hearts Coffee Company,3.5
+112,135,Independent,135,50.91589000000001,-113.958422,Bank,4beb12f562c0c92893aae1d4,uy-0uxEP1gJ5zjCpsQ8bZA,TD Canada Trust,3.0
+113,561,Independent,561,51.042365000000004,-114.080572,Grocery Store,4b476c10f964a5208a3126e3,ndNFN1w2P0WxqFk9Ug8X8g,Safeway,3.0
+114,2220,Combined,170,50.934746999999994,-113.965101,Gym,4b39666bf964a520095c25e3,KujHgngPOJPuy393_QByyQ,GoodLife Fitness,3.0
+115,947,Independent,947,51.062616999999996,-114.09255,Concert Hall,4c28cca6ed0ac9b6b1c160aa,cPRXswksG5uHCOrask1Y7Q,Southern Alberta Jubilee Auditorium,4.0
+116,263,Independent,263,50.97893,-114.059618,Mexican Restaurant,4bb7f0401261d13ab320e898,_zcXCwMQns9Ca1JcaDc2bg,Tu Tierra,3.5
+117,2105,Combined,1139,51.045574,-114.064516,Nightclub,4cd4fc44886cb60c24838189,-9Ff8WEoiFsw_mfmJ4Nlcw,The Bank & Baron Pub,3.0
+118,2105,Combined,1239,51.045706,-114.06711499999999,Fast Food Restaurant,4b76ed79f964a5205f6b2ee3,LVbwNQX1FjdYvy7HighxIw,McDonald's,2.0
+119,753,Independent,753,51.046188,-114.145426,Fast Food Restaurant,4b68f323f964a52079942be3,csOhQBVaRpYMJCVrmneD9w,DQ Grill & Chill Restaurant,4.0
+120,363,Independent,363,51.00584600000001,-114.065898,Doctor's Office,4cd84bdb2a805481b15e9b2c,Hhv2U1evKNpW5rltwYxRoA,Mitchell Eye Centre,1.5
+121,49,Independent,49,50.907053999999995,-114.109128,Coffee Shop,4b4b56a0f964a520f89726e3,BS1Jv5ustkH61--p_ZFc7Q,Starbucks,4.0
+122,1101,Independent,1101,51.047388,-114.08086000000002,Coffee Shop,4b1eb46ef964a520281e24e3,j2Ig_jtAflSrJCZwTFU62g,Tim Hortons,4.0
+123,2300,Combined,673,51.123667,-114.20306599999999,Fast Food Restaurant,4b707414f964a520661b2de3,LPH63JYrHo9MdIexztrX1A,McDonald's,2.0
+124,2211,Combined,1059,51.066563,-114.099134,Men's Store,4bfedd634e5d0f473e477d1f,cDolrN75APo29cuzyFAKIA,Moores Clothing for Men,3.0
+125,2220,Combined,169,50.933993,-113.963269,Furniture / Home Store,4ba55c3cf964a520fdfe38e3,AmXZNhK3ub9mw-2IhKpMAg,Home Outfitters,4.0
+126,2220,Combined,168,50.933771,-113.96240300000001,Bookstore,4b3fadf8f964a5200aac25e3,KxUF6KqhpJTwKPfLHYeLuw,Indigo Books & Music,5.0
+127,2211,Combined,1060,51.065659000000004,-114.09721299999998,Department Store,4c1cefbcb4e62d7f82cfdb93,ya_3U-LiZxqXQlQXXbSRIA,Sears,2.0
+128,405,Independent,405,51.037535,-114.05173300000001,Stadium,4b15508cf964a520c3b023e3,fAczVm0LU-mmIPRz1VIIYA,Scotiabank Saddledome,3.5
+129,2215,Combined,31,51.019039,-114.17363700000001,Grocery Store,4be87be8947820a1e0f4b4db,0qOOTYcJT1Tij4gswgYKvQ,Real Canadian Superstore,3.0
+130,382,Independent,382,51.03445900000001,-114.06315,Gym / Fitness Center,4b272365f964a520e48424e3,UPD8FCmyKk0hOeNCcNy_wQ,Repsol Sport Centre,4.0
+131,886,Independent,886,51.072672,-114.000822,Coffee Shop,4b6c7f2ef964a520cf3e2ce3,ojmUat9X2l2VYhstpLyX9Q,Tim Hortons,3.0
+132,491,Independent,491,51.041722,-114.07448799999999,Bar,4bb818607421a5939d88c140,mLlJY0Pd6IzhnahKNYqrQQ,Hudsons Canada's Pub,3.0
+133,663,Independent,663,51.13648,-114.161221,Grocery Store,4b427b6ff964a520c1d425e3,hGyHsm0zylW0Q2yfT1DnVQ,Real Canadian Superstore,3.5
+134,275,Independent,275,51.022779,-114.11613799999999,Grocery Store,4b6375c4f964a5207e7b2ae3,bTgVYrO1vJsgJReNubHZ8Q,Safeway,2.0
+135,350,Independent,350,50.997051,-114.06888400000001,Pet Store,4b468466f964a520352326e3,TzGidXF_Cfwwtw8pL9wQyg,PetSmart,3.0
+136,1179,Independent,1179,51.047948,-114.07184099999999,Spiritual Center,4b0586eaf964a520e37422e3,iHQEgfGpvySOJBKakRGFvA,Knox United Church,5.0
+137,470,Independent,470,51.040538,-114.06600800000001,Pub,4b071a81f964a5204bf722e3,PkuVuaDOt5vI0d7Oer7nkg,St. James Corner Restaurant & Irish Pub,4.0
+138,2210,Combined,1044,51.086054,-114.12843500000001,Pub,4ecf19c70e61efa32f80c502,G5zO_PJ0JukksWdXG9Qbxg,Jamesons Pub,3.0
+139,2210,Combined,1046,51.086861,-114.126897,Pub,4b1f09f8f964a5202d2324e3,kzuTN7d_1dKK55fKYtCY3Q,The Kilkenny Irish Pub,3.0
+140,518,Independent,518,51.037632,-114.078464,Coffee Shop,4b47ea32f964a520da4326e3,npzBC_u6zCqMv9HgLbL9nA,Starbucks,3.5
+141,500,Independent,500,51.03881,-114.0717,Diner,4b92a452f964a520cc0c34e3,EwGXv_d6zAgkVPuXRI2A8A,Red's On 4th,3.5
+142,19,Independent,19,51.020853,-114.142821,Bakery,4b64c1a0f964a5209fcd2ae3,rYIQ5HjxFtfdKhIboOHxXw,Glamorgan Bakery,4.5
+143,2209,Combined,994,51.085679,-114.15709,Toy / Game Store,4b9c0357f964a520c14036e3,WzX6xq7UNAfQNEcmD8cf4A,Toys R Us,4.0
+144,2300,Combined,693,51.12683300000001,-114.19675900000001,Liquor Store,4b21e894f964a5205b4224e3,umVXjyNFublqeCUXo0dSag,Crowfoot Wine & Spirits,4.0
+145,1081,Independent,1081,51.04784,-114.05039199999999,Event Space,4f08bee2e4b0d6422b3640ea,ZLiidgMHm6Wmo2QVfP6GgQ,Art On Wheels!,2.5
+146,1253,Independent,1253,51.045916999999996,-114.071399,Clothing Store,4bd0ac979854d13a3b34f84d,dh0IvJMblm_zP3sALA-ZMg,Brooks Brothers,3.0
+147,2301,Combined,331,50.986081,-114.041925,Grocery Store,4b5500ecf964a5206fd727e3,cnccLzpxDEo2Vi1XzJ_JLQ,Real Canadian Superstore,3.5
+148,775,Independent,775,51.054235,-114.09438200000001,Sushi Restaurant,4b43a7fbf964a52066e525e3,omGsmF_9EgoPCfoRioCrcA,Globefish Kensington,4.0
+149,1094,Independent,1094,51.045025,-114.08140700000001,Strip Club,4ec74ff493ad41338ca9361e,R0TiQjTK-IuAq75bTLw0dw,Boudoir Rouge,2.5
+150,389,Independent,389,51.0377,-114.093787,Vietnamese Restaurant,4b0586ebf964a520897522e3,T2EfSFA07WTb4ynh5z8mqw,Co Do Vietnamese Restaurant,3.5
+151,2301,Combined,243,50.983498,-114.0413,Coffee Shop,4b2695f4f964a520f27d24e3,tRRNwYc68jcUMdVx0Tb2UQ,Starbucks,3.5
+152,434,Independent,434,51.042885999999996,-114.07613700000002,Cosmetics Shop,4d433e2b15aa8cfa7115fb99,CxtQzjowbMDU-U-_yOrnMg,Impactful Beauty,2.5
+153,1190,Independent,1190,51.049768,-114.059417,Government Building,4b831333f964a5200ef630e3,phAxDI805BH3yaLyDdVtoA,Calgary Centre Service Canada Centre,2.5
+154,1074,Independent,1074,51.044406,-114.09173700000001,Grocery Store,4b0586eef964a5206c7622e3,UfnDhx_yJnU-bfvBcqCC7A,Arirang Oriental Food Store,4.0
+155,2204,Combined,750,51.098388,-114.143121,Department Store,4d717993296c721e23ae9853,TF4tjYx5NjTxRQAi4Swj7w,Northland Village,2.5
+156,2204,Combined,747,51.099834,-114.143387,Department Store,4b7c692cf964a520a8912fe3,CXyY9yAubURh83kFhDWYEw,Winners,3.0
+157,2204,Combined,742,51.096946,-114.1431,Department Store,4b32ea7ff964a520f71525e3,UiLNGXQwhwdof-XZEOZ2nQ,WalMart,2.5
+158,307,Independent,307,50.990189,-114.07088700000001,Music Store,4d17d3816c8b5481401eedcc,vNSGDIYdvzB4dXuuidfJaA,Guitarworks,4.0
+159,202,Independent,202,50.971777,-114.06962299999999,Bike Shop,4bafb339f964a520d6183ce3,gDTXzbuDJAARy3bSqTzuNA,The Bike Shop South,4.0
+160,2103,Combined,1160,51.051997,-114.06984299999999,American Restaurant,4b0586eaf964a520147522e3,XbyGwD2UtQNov8MnJOv7pQ,Flower & Wolf,4.5
+161,899,Independent,899,51.079882,-113.987948,Strip Club,4b1ddc07f964a520f51524e3,NUGXuxdv3ef0XGqNsoU4qg,CatHouse,2.5
+162,316,Independent,316,50.995157,-114.07401200000001,Steakhouse,4c4a5db4959220a1d047010e,8fFdKtJ-xPZS-ExpqDCctQ,Chop Steakhouse & Bar,3.5
+163,418,Independent,418,51.043633,-114.06518700000001,Pub,4aeccc23f964a52049cb21e3,-dWbB9wKYsH-HESAANWajw,Bottlescrew Bill's Pub / Buzzards Restaurant & Bar,3.5
+164,864,Independent,864,51.071065999999995,-113.982918,Pub,4b6e5447f964a5208cb82ce3,dr2RuJv25hyFXe8spy4AWw,Shillelagh's Pub,2.0
+165,2103,Combined,1158,51.051633,-114.06988799999999,Gastropub,4b0586e6f964a520d47322e3,u8vWjm5bzRxV6j31N3tF3w,Fionn MacCool's Irish Pub,4.0
+166,509,Independent,509,51.037878000000006,-114.073691,Bar,4b0586e8f964a520787422e3,6qmCO3di-FKWLdRn2LuF6g,Ship & Anchor Pub,4.0
+167,392,Independent,392,51.037678,-114.092344,Mexican Restaurant,4b5113acf964a520224127e3,lZ8T7NFAo1JGAAopTV_OTQ,Los Chilitos,3.5
+168,384,Independent,384,51.029311,-114.03016699999999,Sports Bar,4b0586e9f964a5209d7422e3,xwDcqEoStvQyommtTfeVxQ,Mug Shotz Sports Bar & Grill,4.0
+169,401,Independent,401,51.04195,-114.03573700000001,Pizza Place,4d5f467e196ba093902c0c56,ri2GZt8qyFcWUHxoQfsZXg,Without Papers Pizza,3.5
+170,1168,Independent,1168,51.049217999999996,-114.06817,Coffee Shop,4c615cfe90b2c9b6daec3e22,xMk6NHQvWG4UFvguj322Ug,Starbucks,4.0
+171,143,Independent,143,50.91682,-113.96136299999999,Brewery,4b6244a1f964a5207f3f2ae3,cSt8_WrD6H_MRr6ylLqq3A,The Little Cupcake Shoppe,3.5
+172,469,Independent,469,51.040601,-114.065977,Bar,4ad00d72f964a52070d720e3,PkuVuaDOt5vI0d7Oer7nkg,St. James Corner Restaurant & Irish Pub,4.0
+173,2301,Combined,244,50.983476,-114.04087,Fast Food Restaurant,4b4fc814f964a5202a1527e3,hzyJEOGMQRhV_JVIcA5VQA,McDonalds,2.0
+174,2202,Combined,627,51.156065999999996,-114.158249,Burrito Place,4b7b002df964a520404b2fe3,m3Taw088bl6nQ_vr2u7cLw,Mucho Burrito,3.5
+175,2214,Combined,40,51.015781,-114.17121200000001,Ice Cream Shop,4b92e175f964a5200a2434e3,DK3h3l1JGcUV2apKBRmmtw,Marble Slab Creamery,3.0
+176,719,Independent,719,51.083551,-114.206253,Hotel,4b0586e6f964a520a37322e3,_ypwtK0_ilVZNlsP1z3jBg,Four Points by Sheraton Hotel & Suites Calgary West,3.5
+177,2204,Combined,748,51.09868400000001,-114.144369,Gym,4b605aaef964a52057e129e3,hVVC5wCgfvv9vgqPkKV8zw,GoodLife Fitness,2.5
+178,76,Independent,76,50.90831,-114.06606699999999,Movie Theater,4bb2ae9214cfd13af35015ab,790bnJAQYrvJdXVc_soXGQ,Landmark Cinemas Canada,3.5
+179,130,Independent,130,50.965457,-114.073282,Restaurant,4af84180f964a520ae0b22e3,vuNwIrd6Dx1AK6VxS43r0g,Jack Astor's Bar & Grill,3.5
+180,799,Independent,799,51.060465,-114.06204199999999,Restaurant,4eab6d9e9a522a65af2b1563,cgNGE9wZMedmfNOGIGi0fQ,Po-ke,4.0
+181,971,Independent,971,51.052284,-114.087948,Indie Movie Theater,4b0586ecf964a520d47522e3,lj8VL_ecsR-OrUCaF0E9BA,Plaza Theatre,4.0
+182,905,Independent,905,51.077601,-113.98028400000001,Ice Cream Shop,4bd0da6fb221c9b61796d4d0,V0Yu08uva4NVy1yyXyPw9A,DQ Grill & Chill Restaurant,1.5
+183,2201,Combined,584,51.09905,-113.95776399999998,Fast Food Restaurant,4b4e76a2f964a520adee26e3,k10NproqoDM1OX4XA3n_-w,McDonald's,2.0
+184,2204,Combined,743,51.099470000000004,-114.14208899999998,Fast Food Restaurant,4b6b0e9df964a520d6ef2be3,Z1nwIf9ULtlyel59fvYxWA,McDonald's,2.5
+185,539,Independent,539,51.037603999999995,-114.087231,Coffee Shop,4b482ecaf964a520a24926e3,9IuXO57P9EszEhn-SnzgfA,Tim Hortons,2.0
+186,294,Independent,294,50.9841,-114.0725,Indonesian Restaurant,4f8717d5e4b047d847ff24d4,AQlnAVtrP1iCe7fDVc0Sww,Kaffir Lime Indonesia Grill,4.0
+187,2204,Combined,746,51.099911,-114.144044,Breakfast Spot,4b0586ecf964a520d07522e3,Ne7gepL5wi47SEHXEd00oA,Cora's Breakfast & Lunch,3.0
+188,511,Independent,511,51.037912,-114.074623,Caf,4edbfaa84901c8be1f79ce81,7KBKSqpOpGxXeMauy8Gfbw,Waves Coffee House,4.0
+189,2106,Combined,154,50.93079,-113.970344,Breakfast Spot,4b6227fff964a520fd382ae3,U9NpQpzXjmJ3rEsFyOfiIw,Ricky's All Day Grill,2.0
+190,129,Independent,129,50.96586,-114.070272,Department Store,4b86eb72f964a520e1a531e3,HJ8sXhT0stSd19X29j2EAQ,Walmart,2.5
+191,189,Independent,189,50.973701,-114.09925700000001,Fast Food Restaurant,4b760f46f964a520de392ee3,fA7-JYiCeDuOdpTNmatsEg,McDonald's,1.5
+192,784,Independent,784,51.082671999999995,-114.096901,Burger Joint,4b0ddd40f964a520935123e3,My8-eRtIxOWivkztR0BGOg,C B Drive Inn,3.5
+193,2209,Combined,1005,51.085269,-114.15453400000001,Clothing Store,4c3c8e23282203bb51a3fcda,PHMLVGgjsMLX2CK4PPjf4A,Old Navy,2.5
+194,503,Independent,503,51.03743,-114.07133400000001,Clothing Store,4b11a44bf964a5202e8123e3,aGkrN4ETzJjojKQzJBiQNw,lululemon athletica,3.0
+195,2215,Combined,34,51.017639,-114.173831,Pub,4b4e80adf964a520e2ef26e3,Lg0LvQXlpSBBCvDE6wlO9w,Seanachie Irish Pub,3.0
+196,2101,Combined,651,51.141526,-114.069406,Asian Restaurant,4b240342f964a520145f24e3,mkQ31BFYV8ri7znJpHd7Ww,T.Pot China Bistro,3.5
+197,306,Independent,306,50.989744,-114.070701,Restaurant,4c0e1528b40eef3bd525f6db,Tvn-aLhAmHulTQGE_e4XuQ,Fatburger,4.5
+198,1186,Independent,1186,51.049304,-114.062675,Sushi Restaurant,4b4d240ff964a5206fcc26e3,PNmskA_5d4WW0Ijxu8abZg,Fusion Sushi - Downtown,3.0
+199,1104,Independent,1104,51.04873,-114.08097,Coffee Shop,4b705a8ff964a520c3142de3,1nLWFCTng_mOqCR4pS8XeA,Starbucks,3.0
+200,328,Independent,328,50.993952,-114.08203600000002,Breakfast Spot,4b117a1bf964a520647d23e3,w12EoDqaRXzN9KsouzRMyw,Phil's Restaurants,3.0
+201,455,Independent,455,51.032571999999995,-114.071678,Coffee Shop,4b6b2571f964a520c5f52be3,guaCGCYDA9Q9WfnI721Mbw,Starbucks,3.0
+202,1255,Independent,1255,51.045922,-114.07135,Pizza Place,4db9c80590a02849cbc2213f,LcLssjZjZ-cmstCGFD-Nlg,Double Zero Pizza Core,3.5
+203,209,Independent,209,50.989763,-114.097292,Hospital,4b0586f0f964a520047722e3,lfNKrYIB8k_4KA8cQHyh1A,Rockyview General Hospital,4.0
+204,2214,Combined,43,51.014896,-114.16866599999999,Drugstore / Pharmacy,4b882239f964a52028e231e3,cGxoqdDkgLJVAEv_ohxieg,Shoppers Drug Mart,2.0
+205,231,Independent,231,50.97848,-114.044352,Electronics Store,4b5b6bfdf964a520bffc28e3,vclv2pAuXfgv8OC08-Dl6g,Best Buy,2.0
+206,2217,Combined,117,50.957974,-114.07082,Restaurant,4b2d6125f964a52066d524e3,HOCuqi14chrfeKRqn-HuOw,Earls Kitchen + Bar,3.0
+207,2106,Combined,149,50.929641,-113.970533,Paper / Office Supplies Store,4b9e96e0f964a520f7f136e3,ZLa7FDO5NFFUpMARH-OlnA,Staples - Calgary,4.0
+208,2221,Combined,75,50.907744,-114.066447,Bookstore,4b5f8922f964a52026c029e3,xsnaChLdBxNzFfixId225Q,Chapters,4.5
+209,2300,Combined,681,51.127068,-114.20653999999999,Salon / Barbershop,4c4c775a712ac9283928616e,AqlGpuq4pfRTzN0QFiXvbg,Great Clips,2.0
+210,458,Independent,458,51.033107,-114.07137,Mediterranean Restaurant,4b0586ebf964a520767522e3,w-pKIEn2Zz9rDN0e_2599w,Aida's Mediterranean Bistro,4.0
+211,1017,Independent,1017,51.072162,-114.163471,Sandwich Place,4d2624b8d2668cfa2a14c5db,OpuoNhZrh_8rzKBu_zfY-Q,Subway,2.5
+212,423,Independent,423,51.043356,-114.06896200000001,Japanese Restaurant,4b857f59f964a520c26131e3,0tXTQ-jdCwLm7UNgP6ERnQ,Japanese Village,3.5
+213,811,Independent,811,51.066527,-114.05818899999998,Fast Food Restaurant,4b0586eaf964a520257522e3,v1C8WQR6iB0WW0W48T5pqA,Peters' Drive-In,3.5
+214,1078,Independent,1078,51.044025,-114.080454,Sporting Goods Shop,4b0586edf964a5202b7622e3,pfl1hEH57QyygqFQHtDZIQ,MEC,4.5
+215,440,Independent,440,51.042918,-114.08098000000001,Brewery,4b0586e6f964a520db7322e3,Ql-i1kYoszb_n9EO9xc-YA,Brewsters Brewing Company & Restaurant,3.5
+216,2300,Combined,707,51.127283,-114.20206499999999,Movie Theater,4b0586edf964a520ea7522e3,EM3CDQGI7Yv51Spno06JGw,Crowfoot Crossing Cinemas,3.0
+217,495,Independent,495,51.037969,-114.069156,Southern / Soul Food Restaurant,4e8540df6c25709c5fa94cce,Qtu-zIwz4TDUu1U7oxCgHg,Model Milk,4.0
+218,490,Independent,490,51.041215,-114.072452,Medical Center,4b10089cf964a520c96723e3,jCGOwxWtsdqxxWDG9KfFQw,Sheldon M Chumir Health Centre,3.5
+219,2,Independent,2,51.039691999999995,-114.20829499999999,Coffee Shop,4be5aada2457a593facbab15,fMt1XOkcvatp1N-tC8LKCQ,Good Earth Cafe,4.5
+220,1031,Independent,1031,51.076352,-114.13145700000001,University,4b0586f0f964a520197722e3,Vmq6NTjSMZWXg8gkZKkMGQ,University of Calgary,3.5
+221,302,Independent,302,50.98792,-114.07408899999999,Fast Food Restaurant,4edd89ff30f83fb7a0673e69,9MfAMuc_f_dxqRgOxmF7ow,Five Guys Burgers and Fries,3.5
+222,2102,Combined,1156,51.04569,-114.068145,Pub,4b04a9f8f964a520065622e3,khJ0v3wt3ia0O1YlvOc70w,The Unicorn Pub,3.5
+223,531,Independent,531,51.037867999999996,-114.08320400000001,Vegetarian / Vegan Restaurant,4b05ad3ff964a520d2e022e3,9tgJbLfCQcZ35-TSabZOfA,The Coup,4.0
+224,2102,Combined,1236,51.046493,-114.06975700000001,Drugstore / Pharmacy,4b68b6d1f964a520b8882be3,x6SbQhXbsczTIg5bDQ3vQA,Shopper's Drug Mart,2.5
+225,95,Independent,95,50.936923,-114.080048,Fried Chicken Joint,4fb6d0cae4b06a37b654cbc7,9j4nk2WOT6XCDRgX-lGzVA,Fritou Chicken,3.5
+226,454,Independent,454,51.032284000000004,-114.071777,Pizza Place,4bcd15d668f976b01fe56383,3n6Ki1m1Qwy3KK3asRPgHQ,Famoso Neapolitan Pizzeria,3.5
+227,222,Independent,222,50.978581,-114.013796,Miscellaneous Shop,4b6b1c84f964a52089f32be3,dlDY3US6n0G4FJIyZnjYKQ,Sobeys,4.0
+228,2220,Combined,163,50.933203000000006,-113.964252,Pub,4c33f6a67cc0c9b6e2b9f29a,uz0r_epENiXslR80itQVmw,Bushmills Irish Pub,2.5
+229,1122,Independent,1122,51.04737,-114.06520400000001,Japanese Restaurant,4e0c0d21fa76eaf8b39a377e,WTqw0A_ZOjwR3cOeATyAww,Sushi Party,4.5
+230,1217,Independent,1217,51.044604,-114.06267199999999,Performing Arts Venue,4b0586edf964a520ec7522e3,AatZaURSUFM48EdnVpRuwQ,Lunchbox Theatre,5.0
+231,2300,Combined,706,51.127389,-114.203121,Sports Bar,4b280733f964a520e18d24e3,NVFj_QC7fkBMLbau-6P3hA,Schanks Sports Grill,2.5
+232,498,Independent,498,51.038481,-114.07165,Sandwich Place,4d864f17d5fab60c7e48099c,Gj7QZ0kV-32MAVhJQsWlmg,Pita Pit,4.5
+233,428,Independent,428,51.042932,-114.072011,Coffee Shop,4eb2e897a17cb24602b3cb77,uoEN0ubXMi4ZcnjNVUNunw,Tim Hortons,2.0
+234,1129,Independent,1129,51.05152800000001,-114.063004,Sushi Restaurant,4b0586ebf964a520617522e3,xOGkTIDDc9NJmmzH_K5JNw,Point Sushi,4.0
+235,1142,Independent,1142,51.046822,-114.063147,Coffee Shop,4b0586e9f964a5208c7422e3,W64ewTH4tk_d5feUseZqFQ,DeVille Luxury Coffee & Pastries,4.0
+236,911,Independent,911,51.08184,-113.996168,Burger Joint,4fa0745ae4b03a10300dfbf0,buy2XTy4Bm7PygYrMhFq6g,Smashburger,4.0
+237,1209,Independent,1209,51.046465999999995,-114.05759099999999,Library,4b2bd838f964a52039bc24e3,VFauvNg6D3f-PnkgSvA-nw,Calgary Public Library,4.0
+238,271,Independent,271,51.014133,-114.140482,Coffee Shop,4ba034a4f964a5207a6137e3,ZA7bHx8Ltm1zs6K8wNQbng,Starbucks,2.0
+239,484,Independent,484,51.041123999999996,-114.070058,Park,4b678ceef964a520dd542be3,L0zEAgye4iKjPLe5Id3D3w,Central Memorial Park,4.5
+240,1,Independent,1,51.041374,-114.212644,Coffee Shop,4b0586e9f964a520937422e3,uS0LUH0HEUSLBchE-L46YQ,A Ladybug Bakery & Cafe,3.5
+241,101,Independent,101,50.951484,-114.059238,Medical Center,4f47e2dbe4b0a69abb8564ea,TB_RDXbvfQFakFQvkuTm7Q,Panther Sports Medicine & Rehabilitation Centres,5.0
+242,969,Independent,969,51.052162,-114.08896200000001,Pub,4b0586e8f964a520747422e3,gnRVm5csU0mwTYXeao15zQ,Molly Malone's Irish Pub,3.0
+243,2104,Combined,1137,51.046396,-114.06351399999998,American Restaurant,4b0586e9f964a520997422e3,m7ommfJFalI47UksyX04Iw,The Palomino,3.5
+244,735,Independent,735,51.074533,-114.14775,Hospital,4b0586f0f964a520037722e3,bmUnph-KWsrmggd1BBsRXQ,Alberta Childrens Hospital,4.0
+245,732,Independent,732,51.105111,-114.162101,Sushi Restaurant,4d59e913c88da1cdf0773f68,-EcgPVJpwOYJGjkg4YRBhw,Kinjo Sushi,4.0
+246,2209,Combined,1010,51.083999,-114.1562,Department Store,4b6c9179f964a520bd432ce3,Kzvhvk8QEde7HeTmYicDwg,CF Market Mall,4.0
+247,2202,Combined,612,51.15472000000001,-114.15528799999998,Grocery Store,4b180d69f964a5201fcc23e3,z4NNAblWFtxNONBUCUY3uQ,Costco Wholesale,3.5
+248,2207,Combined,867,51.073836,-113.986483,Mall,4bae5f7bf964a52095a93be3,xSf3FCTwawp-hsEWB1XQtA,Old Navy Sunridge Mall,1.0
+249,433,Independent,433,51.042608,-114.07490700000001,Gastropub,4afca908f964a520d92422e3,u_ieGAM5D9uO2L0rBN4pbA,Broken City Social Club,4.0
+250,298,Independent,298,50.985099,-114.07061599999999,General Entertainment,4b5cbc29f964a5203b4129e3,5KYeHYeaFZLRO9BldWPa0w,Vitality Fitness Calgary,2.5
+251,2206,Combined,861,51.054427000000004,-113.982482,Seafood Restaurant,4b84afeaf964a5200c4131e3,yz6ggIGCnSMur4aGa_CdKA,Red Lobster,2.5
+252,1087,Independent,1087,51.048629999999996,-114.086192,Korean Restaurant,4b3ff25ff964a520beb225e3,ZWApHaJBGhFY9KZtr1ighg,Namsan Korean Cuisine,5.0
+253,479,Independent,479,51.041146999999995,-114.065704,Tapas Restaurant,4b20477ff964a520ea2f24e3,STsW9ALww7yeVNcRxXEmXQ,Taste Restaurant,4.0
+254,2105,Combined,1241,51.045341,-114.06666499999999,Sports Bar,4b0586e9f964a520877422e3,6r7tE2fePY8m7LR7EFJ_sw,Libertine Public House,2.5
+255,843,Independent,843,51.057102,-113.99275800000001,Bowling Alley,4b49061ff964a520866226e3,slsc0MnNJFzBE-3L7xsnJQ,Let's Bowl,3.5
+256,501,Independent,501,51.03843300000001,-114.071762,Pub,4b0586e7f964a520dd7322e3,1piaVZbt6EOtVVW-Vx17rA,Rose & Crown Pub,3.0
+257,235,Independent,235,50.97902,-114.041348,Fast Food Restaurant,4b638ed3f964a52035832ae3,3qh3MhfAIf_UPbbYP8iZng,Dairy Queen Grill & Chill Restaurant,3.5
+258,82,Independent,82,50.915724,-114.07228899999998,Grocery Store,4b4508d2f964a520f20126e3,N2SSurwdRZwQrOgk9OpdLw,Sobeys,4.5
+259,818,Independent,818,51.05837800000001,-114.054309,Wine Bar,4b48bdcdf964a520005526e3,P8yyDhlhlvSIyx8j5Ep8KQ,AKA Wine Bar,3.5
+260,385,Independent,385,51.030181,-114.03483,Farmers Market,4af82536f964a5201c0b22e3,jklYi-vntC-ciO4b5JsBPw,Crossroads Market,4.0
+261,763,Independent,763,51.055206,-114.083106,Caf,4b0586e9f964a520ad7422e3,kqDqbs3fMKJ6GGrLfENnxA,Vendome Caf°ß?,4.0
+262,622,Independent,622,51.167612,-114.090056,Pub,4c6f4201d97fa14390b0f2ca,VO9lfI7eY-41RCVS1H9Q_g,Tudor Rose,3.0
+263,416,Independent,416,51.042153000000006,-114.06063300000001,Coffee Shop,4bcf5026462cb7132c77d607,71vIlyGXpsPeow2c-K3a-g,Starbucks,3.0
+264,45,Independent,45,50.864891,-114.03891499999999,Arts & Crafts Store,4bca49f6b6c49c7458429091,5rx5hrv0hM6D7INEzhFt4w,Spruce It Up Garden Center,4.0
+265,2216,Combined,317,50.99585,-114.07399699999999,Bookstore,4b9b0c49f964a52099ee35e3,c8hEqDJbVOpDZYWKpzKfNA,Chapters,3.5
+266,174,Independent,174,50.932864,-113.968997,Ice Cream Shop,4ba54292f964a520f7f238e3,rMg3R9e2qtpmWfgjdsYjjA,Marble Slab Creamery,2.5
+267,2300,Combined,684,51.128871999999994,-114.19586399999999,Gym / Fitness Center,4b54f5d8f964a52060d527e3,OlR9EaBUT7NEOsjeFBc9lg,YMCA Calgary,3.5
+268,285,Independent,285,51.010513,-114.095402,Dog Run,4b8d2fc4f964a52032ec32e3,W8dFb78O0Mek6SnMXAcp1g,Sandy Beach Park,4.5
+269,91,Independent,91,50.924546,-114.07303,Pizza Place,4bb00bf2f964a520da333ce3,yMNzQfUFJqSNJsA0jNDM6Q,Sammy's,4.0
+270,547,Independent,547,51.039809999999996,-114.08906,Pizza Place,4e2a29e518387cce066514c7,ELkB4E-Jx9N4kuAmaoRHgQ,Niko's Pizza,4.5
+271,2218,Combined,109,50.953226,-114.06805200000001,Department Store,4b807081f964a520707230e3,ZPxwJ_EGMO76Ticcv2Gy6A,The Bay,2.5
+272,904,Independent,904,51.081906,-113.983865,Coffee Shop,4b9921d2f964a520956335e3,2NXqT1TeirsUsb6Pawwg2w,Tim Hortons,4.0
+273,2218,Combined,112,50.952391999999996,-114.066042,Toy / Game Store,4d1132a299b78cfae907c8d5,XYNom4ZIyltmJaxCDFka_w,Disney Store,4.5
+274,2208,Combined,943,51.107214,-114.038,Department Store,4b40f33bf964a52012be25e3,M6UFUbDVwh3xX2VcsUpekA,Walmart,2.0
+275,708,Independent,708,51.116257,-114.20528999999999,Pub,4b636aa5f964a5203a782ae3,zwFScgZRXOsWnucfwyn8pw,Nottinghams Pub & Restaurant,3.5
+276,1029,Independent,1029,51.070365,-114.130354,Pub,4b0f2a3ff964a520e35f23e3,VCJldkahrmApsE0s3hOe3A,Moose McGuire's,3.5
+277,2200,Combined,580,51.15282,-114.213225,Miscellaneous Shop,4b57c05df964a5203d3f28e3,_4EEHNhQ2pA0knZsODRpBw,Your Dollar World,2.5
+278,607,Independent,607,51.130246,-114.009098,Coffee Shop,4b423f13f964a520eacf25e3,ose87xvt2ghxNhaJszCDsQ,Starbucks,3.0
+279,2104,Combined,1215,51.045026,-114.063179,Steakhouse,4bb69670f562ef3bc86f3097,kmOeRAvOL1oR6Z-4Ggdx6w,Charcut Roast House,4.0
+280,1090,Independent,1090,51.047405,-114.08491399999998,Caf,4b756669f964a5206a0a2ee3,jgw3WXKS6dZ7bOv4GVAzNw,Nellie's Break the Fast,3.5
+281,2210,Combined,1042,51.084973,-114.126545,Doctor's Office,4d9dd43e7958f04dc19c1efa,t3hBumXnoZuQ1TAJfN6tzQ,Pro-Grace Dentistry,4.5
+282,77,Independent,77,50.908471999999996,-114.065595,Pub,4c9fee5a7ada199c2a37a3bc,awX4omNOr5odyJIMe80zqg,Hudsons Canada's Pub,3.0
+283,2214,Combined,44,51.014751000000004,-114.169076,Dentist's Office,4bc0ac48920eb713c749192c,3Ga_nvqssg3s5UgCPuYXKg,Westhills Dental Centre,2.5
+284,958,Independent,958,51.054261,-114.086019,Sushi Restaurant,4c3529ac3896e21e04dfec90,K4CSDjwGWqbVDrxFoAtcyA,Tenshi Sushi,3.5
+285,726,Independent,726,51.08648,-114.182375,Bike Shop,4b84472ff964a5200d2c31e3,yxwbPskPQmS9wYV3IoY1Wg,Bow Cycle,4.0
+286,1146,Independent,1146,51.044494,-114.06478899999999,Hotel,4b10d12bf964a520f97523e3,jQ4uOeojr7GRC0-m4HynKA,Fairmont Palliser,3.5
+287,445,Independent,445,51.030714,-114.0717,Restaurant,4d65ca18cfd48eec7c03e697,ZU4sZ0_PB918bK9h6z9l0w,WURST ?berkitchen. Wunderbar,3.5
+288,2300,Combined,687,51.125213,-114.19898899999998,Coffee Shop,4b2bf7edf964a520b1be24e3,UAHc6MD-3N4bNk5d-wFtRw,Starbucks,4.0
+289,1033,Independent,1033,51.077133,-114.135718,Skating Rink,4b0586f0f964a520f37622e3,jKymdgg9ZdJphfUUTIddQw,Calgary Outdoor Centre-University of Calgary,5.0
+290,990,Independent,990,51.072345,-114.117294,Steakhouse,4b0586eaf964a5202f7522e3,kVqj5hrjUnoDV6nb6oRFbg,Nick's Steak House & Pizza,3.5
+291,420,Independent,420,51.043269,-114.067097,Nightclub,4b0586e9f964a520bd7422e3,wu256I0po1q-uWibLyMpPg,The Hifi Club,3.5
+292,936,Independent,936,51.097008,-114.05068899999999,Automotive Shop,4f4173d7e4b0f4d09c88544a,mXLFJx8s7-I738oOlBap2A,Fix Auto Calgary Coachworks North,2.5
+293,609,Independent,609,51.130377,-114.00981100000001,American Restaurant,4b3d54c8f964a5208d9225e3,1-mycIcKFGbvqLE60XrwnQ,Chili's,2.5
+294,366,Independent,366,51.009935,-114.067301,Indian Restaurant,4b0586ebf964a520467522e3,2YxVKVV4C-8bYNz-Lw-h8Q,Taj Mahal Restaurant,3.5
+295,172,Independent,172,50.933708,-113.96704,Grocery Store,4bf2f8b4e5eba59371051e90,rGU2_hFA9i_WkWLQ-dgYew,Real Canadian Superstore,3.0
+296,729,Independent,729,51.111847,-114.080449,Coffee Shop,4b587a25f964a520a05928e3,dINlkK_H5116n-SVzZb30Q,Tim Hortons,1.5
+297,262,Independent,262,51.037364000000004,-113.992221,Vietnamese Restaurant,4b0586ecf964a520ba7522e3,TZELQOkkZoPF4TJZ9r517A,Mekong Restaurant,4.0
+298,831,Independent,831,51.09695900000001,-114.037001,Pet Store,4b2abc01f964a52086ae24e3,Che7UHgmKBxFfk_-eAkWcQ,Pisces Pet Emporium,3.5
+299,801,Independent,801,51.061913,-114.062579,Vietnamese Restaurant,4ba677c3f964a520885539e3,1EdeV-F-dhz1MZnmCktffQ,Trong Khanh Restaurant,4.5
+300,2102,Combined,1248,51.045627,-114.06901200000001,Gym,4b8dcbc7f964a520220e33e3,K-7S3DV3XkEMtT86sYIIdQ,V Calgary Downtown Bankers Hall,4.0
+301,1175,Independent,1175,51.049587,-114.07091000000001,Sushi Restaurant,4db366510437fa536a146d85,-JASfyJTDv4XImAxhj-ueQ,Koto Sushi Lounge,3.0
+302,965,Independent,965,51.052461,-114.091027,Sushi Restaurant,4b185b42f964a5205ad123e3,UhAQ8WpAjKo-md_CLGyPmw,Shijo Sushi,4.0
+303,2104,Combined,1230,51.045421999999995,-114.063019,Steakhouse,4b492f00f964a5202c6926e3,RiIr_Sn_wgRwUduILzxDag,Trib Steakhouse,4.0
+304,559,Independent,559,51.042193,-114.09068500000001,Pizza Place,4f46a745e4b0d125f42faae0,e6hRdLZ474FxXopnd9tArw,Gaga Pizzeria,4.5
+305,215,Independent,215,50.962973,-114.00823899999999,Miscellaneous Shop,4cc3865bb2beb1f7c163174c,iQ1BYcEyEbbVPbNQ7fp9mA,Dollarama,4.0
+306,496,Independent,496,51.037569,-114.06993100000001,Salon / Barbershop,4e677ccf62e1706d829db3e3,r8LwYH1yH0hHTBToqfaTuA,Shag Salon,4.0
+307,1173,Independent,1173,51.049062,-114.07170900000001,Food Truck,4e455b51a809fb2fa3dbe31a,_ViWhj5UYgzxQfH4TZUzAA,Kona Poke,4.0
+308,1093,Independent,1093,51.047083,-114.08211899999999,Vietnamese Restaurant,4b61f501f964a5207a2d2ae3,YTH6cK0_WuizHfe89mBiWw,Vietnamese Village Express,3.5
+309,379,Independent,379,51.021555,-114.05524399999999,Automotive Shop,4b9ff6a8f964a5200b4e37e3,1fijUSvHGYFzh2jhHYyyOg,ARA Auto Accessories,4.0
+310,253,Independent,253,51.038092,-113.96190800000001,Vietnamese Restaurant,4c7aa759df08a1cdc168de5d,7SGW9bI4QN-jr-PmAhkUJw,Pho Hoan,4.0
+311,2301,Combined,242,50.982534,-114.04496100000001,American Restaurant,4c98006c05a1b1f79e238a53,d6vdk0zAYW3Y_9QuZr0-IQ,Denny's,2.5
+312,1205,Independent,1205,51.050784,-114.062611,Vietnamese Restaurant,4b0586ebf964a520877522e3,Ls8FtTR0yXmcit1m1YVciA,Pho Hoai Vietnamese Noodle House,3.5
+313,510,Independent,510,51.037971,-114.07416599999999,Bar,4fb6c000e4b03751700867e9,SycRVheLdFcK-2jt8j5d4Q,National on 17th,3.5
+314,289,Independent,289,51.009805,-114.082305,Coffee Shop,4ba12ae3f964a520419e37e3,2yjr1E-eFtj9afSXDN-j2g,Starbucks,3.5
+315,288,Independent,288,51.009847,-114.082075,Wine Shop,4b71f706f964a52020672de3,elfVNhD8zUh1bbTT-5Cb7Q,Britannia Wine Merchants,4.0
+316,397,Independent,397,51.040807,-114.033157,Caf,4d9cb21dbaae54814949e164,VTQieSNIlcUWDMWLPqFs0Q,Serendipity Cafe & Home Decor,3.5
+317,1014,Independent,1014,51.074756,-114.16701299999998,Fast Food Restaurant,4b9ee0a8f964a520e80737e3,_wg9FYGBJfRIp_Ueyna7Cw,DQ Grill & Chill Restaurant,3.0
+318,1013,Independent,1013,51.075306,-114.167317,Pet Store,4e31cfbdfa76634e16c54c16,Z_QGERpf2QFv_u6-3tvGbw,Bowmont Animal Hospital,3.0
+319,47,Independent,47,50.885701,-114.1012,Stables,4b0586f1f964a520237722e3,7QvG_h3OKZNmbEXiu69yHQ,Spruce Meadows International Christmas Market,3.5
+320,544,Independent,544,51.039211,-114.088958,Coffee Shop,4b0586e7f964a520ef7322e3,1KdFT8Vk0MPZvFH9lzUPxQ,Good Earth Coffeehouse,4.0
+321,432,Independent,432,51.042487,-114.074757,Bar,4b035ceff964a520f04e22e3,U5VZVayBGdrBDsaJFVY8Qg,Last Best Brewing & Distilling,4.0
+322,961,Independent,961,51.052105,-114.09439099999999,American Restaurant,4b58e7b8f964a5200c7228e3,qms46yf3ZJmfZ1ixGoiOCg,Chicken-On-The-Way,3.5
+323,2203,Combined,648,51.155931,-114.067955,Movie Theater,4b0586edf964a520e97522e3,0YoNwscylhufDwEAaWG0bQ,Landmark Cinemas,4.0
+324,2209,Combined,1004,51.085065,-114.15415300000001,Fast Food Restaurant,4b899dfff964a520994632e3,2l4-w9qgMq3qbVMP572aMg,Joey's,2.0
+325,2209,Combined,1006,51.085659,-114.15605500000001,Miscellaneous Shop,4c4f9bc4371520a14078ebbf,SB4Y5v2jKkdOdjwuqbCZeg,Staples Market Mall,2.5
+326,977,Independent,977,51.052797,-114.08748700000001,Pub,4b00c675f964a5200f4122e3,8h4Xngi0h2S3_wY3rg8dLg,The Kensington Pub,4.0
+327,2202,Combined,614,51.154182,-114.16060900000001,Arts & Crafts Store,4b9c1955f964a520eb4936e3,twM4L3uY3W5ol1YpWAmTgQ,Home Depot,4.0
+328,558,Independent,558,51.042309,-114.09161999999999,Pub,4b3d0112f964a520b28b25e3,HGPWhCF2_DkUlwZrH7JQFA,Pig & Duke,3.5
+329,1201,Independent,1201,51.05108900000001,-114.062133,Dessert Shop,4b48e42ef964a5200a5c26e3,2-l_q7HBRak5i6X46l0OHw,The Dessert House,3.0
+330,806,Independent,806,51.045225,-114.030833,Zoo,4b0586e9f964a520c37422e3,1PIf1eZPB-iUob-nLND1Og,Calgary Zoo Botanical Garden & Prehistoric Park,4.0
+331,575,Independent,575,51.038971999999994,-114.081623,Drugstore / Pharmacy,4b07339bf964a52084f922e3,SNIZNWdq6plErnwu8g9Agw,London Drugs,4.5
+332,815,Independent,815,51.060094,-114.05435200000001,Burger Joint,4b5f80bff964a52022be29e3,3kTYTShnktE7azjItVlZJQ,Boogies Burgers,4.0
+333,2218,Combined,102,50.95275,-114.062215,Grocery Store,4bb66ef846d4a593e939c6c0,t_fAoupN2ROAh_o7-dJ3-A,Safeway,4.0
+334,952,Independent,952,51.052513,-114.08633600000002,Bakery,4b0586e9f964a520a47422e3,seBSjrzhVOfLFPHWQy8y6g,Crave Cookies & Cupcakes,4.0
+335,2220,Combined,164,50.932735,-113.96444699999999,Pub,4b8f1c06f964a520824933e3,Wqxx5QoZQYyhvKpPAwvcTA,Second Cup,4.5
+336,220,Independent,220,50.976434999999995,-114.01319099999999,Gas Station / Garage,4b58f0b6f964a520677428e3,jZeQlLZ3HiGimb8owQLzSA,Shell Canada Products,3.5
+337,204,Independent,204,50.971853,-114.07076299999999,Caf,4bfe8d284cf820a18307eef4,YKBG7809dSRjo2FteH5Dzw,Starbucks,4.0
+338,223,Independent,223,50.977723,-114.01534099999999,Coffee Shop,4bf864a55317a59353c6ff7e,s3aiF4TVksaC9DwSLfUMig,Tim Hortons,2.5
+339,229,Independent,229,50.990217,-114.03202900000001,Automotive Shop,4ceda67a3b03f04dea9a35dc,OwB7vPDFL2p_LpECTfA2mg,Maclin Ford,3.0
+340,127,Independent,127,50.963165999999994,-114.06990800000001,Department Store,4b7cae9bf964a520ffa02fe3,alkRt0MIXUy1DimzzgT6Yg,Canadian Tire,2.0
+341,1212,Independent,1212,51.044936,-114.06141299999999,Museum,4b0586eaf964a520ec7422e3,F8faeZhtFmBskuW4f-FF2w,Glenbow Museum,4.0
+342,533,Independent,533,51.038151,-114.084282,Coffee Shop,4b299480f964a52039a124e3,ud-OcPc0KQP-M1U1EpT1rw,Caffe Beano,4.0
+343,2300,Combined,670,51.126233,-114.207531,American Restaurant,4b366528f964a520673425e3,UJbCHgi7Mn7_dsGzEJ5Crw,Denny's,3.0
+344,2216,Combined,351,50.997109,-114.070581,American Restaurant,4bc9cbccb6c49c74acf48e91,cGe37-wTQ9RG_dxS94frqA,Ricky's All Day Grill,3.0
+345,138,Independent,138,50.916258,-113.960406,Pizza Place,4fc2c1afe4b00baac731734e,t43tq66jU-sLXA-TVgKxrg,Famoso Pizzeria,4.0
+346,826,Independent,826,51.053276000000004,-114.03975600000001,Sushi Restaurant,4b29950df964a52041a124e3,v-ZHYK044MXryMThoCeGCw,Sushi Bar Zipang,4.0
+347,2301,Combined,246,50.983951,-114.044909,Department Store,4b5b6e79f964a52097fd28e3,r-cFa4QVMcCLYKMcTzsIgw,Walmart Super Centre,2.5
+348,211,Independent,211,50.960423999999996,-114.046378,Bar,4bce67cb68f976b0741c6683,TKsIZH-90okml6WWfrPKEg,Governor's,3.0
+349,122,Independent,122,50.959889000000004,-114.07075,American Restaurant,4bd0d7cb41b9ef3b8bf5fae5,vGRjxDEPvDfMihTFEw73cQ,White Spot Restaurants,3.5
+350,549,Independent,549,51.03794,-114.09087199999999,Pub,4f0dbf2cd5fb971c7442484c,tJtZDkGgbopgA_hdMdwT8Q,Jameson's Irish Pub,3.0
+351,387,Independent,387,51.043551,-114.101955,Deli / Bodega,4c47b48219fde21ed9500976,ofR58-THRRBOmm9yknLk7w,One Way Foods,5.0
+352,185,Independent,185,50.96087,-114.103683,Coffee Shop,4b79df1cf964a5206a172fe3,VrCc7gNiv728hIqto_Bh0A,Second Cup,3.5
+353,2100,Combined,634,51.16173,-114.064558,Arts & Crafts Store,4c856743e602b1f7a288b77a,xLeSN1tnC9i5OkfYGUDDpg,Michaels,4.0
+354,901,Independent,901,51.080692,-113.988304,Automotive Shop,4c4a0f2dc668e21e0f6f15f8,5pf9ajIWw3IV-HXeGGlt8w,Edo Ichiban,3.5
+355,903,Independent,903,51.081061,-113.98274599999999,Drugstore / Pharmacy,4b9edb4af964a5208c0637e3,WvRHQVs7fsz27RR5yFm13A,London Drugs,3.5
+356,1127,Independent,1127,51.051083,-114.065274,Chinese Restaurant,4ca9257cb0b8236a77d2bae6,T7aPkk_7Q_5eVnz9jgz03A,Shangri-La Palace,5.0
+357,212,Independent,212,50.967238,-114.02875900000001,Dog Run,4bc25a8774a9a5935d3bd3f6,bFz0wElOhdEf_BIn6twwdw,Sue Higgins Park,4.5
+358,2207,Combined,878,51.074702,-113.989319,Italian Restaurant,4c0082ef34ccc92813c6e1cd,6_RfPTsGA42U5orLc9WjPw,East Side Mario's,2.0
+359,877,Independent,877,51.074208,-113.99083600000002,Multiplex,4b0586ecf964a520e77522e3,jM7O18Dp00u6Dwo8SEJuEg,Cineplex Odeon Sunridge Spectrum Cinemas,3.0
+360,642,Independent,642,51.148619000000004,-114.071707,Coffee Shop,4b75f960f964a52074332ee3,R4ZC30NLllve7eulBp9VSQ,Starbucks,3.0
+361,1079,Independent,1079,51.046356,-114.05198700000001,Hostel,4bda86b52a3a0f476060abb6,QjfxI1bCofojlO4FSgpLbQ,HI-Calgary City Centre,2.5
+362,2215,Combined,35,51.017332,-114.17378400000001,Coffee Shop,4e4efab06365e1419d027338,sK1FeY7KV4ENUYIOX2Ks-A,Tim Hortons,3.0
+363,2215,Combined,33,51.018334,-114.174821,Dentist's Office,4bd751c309ecb7134f98467c,ZtbRBTL6IuvO271fsRyHQA,Sierra Dental,3.5
+364,919,Independent,919,51.089103,-114.00013799999999,Coffee Shop,4b95776cf964a52016a434e3,kGKAXppiCRl3vsrCpLtTcg,Tim Hortons,2.5
+365,829,Independent,829,51.081808,-114.010269,Hobby Shop,4b57a8fcf964a5203f3a28e3,J0UJA8ch_oyfd2Tac52eDw,P M Hobbycraft,2.5
+366,778,Independent,778,51.10224,-114.07086299999999,Drugstore / Pharmacy,4b91d1b0f964a5207ad933e3,KcwzQxr37sza-m9vhY66qQ,Thorncliffe Medical Centre,2.5
+367,779,Independent,779,51.101689,-114.07224699999999,Grocery Store,4b65c9c4f964a520c4ff2ae3,2i1ji8fzTEZeqQPtdJ2h7w,Safeway,3.5
+368,2103,Combined,1161,51.052170000000004,-114.06963400000001,Pub,4b0586ecf964a520ca7522e3,WLEneu6YVE_qM4NGXj2Ddg,The Barley Mill,3.5
+369,790,Independent,790,51.069171999999995,-114.062233,Ice Cream Shop,4c1c351db4e62d7f8ecada93,TA7o4xcWw5tc3FJxkOH2dQ,DQ Grill & Chill Restaurant,2.0
+370,1177,Independent,1177,51.047791,-114.072502,Bar,4b0586e9f964a520b47422e3,AGul9F9ln7hm2NCYyqzppA,Local 522,3.5
+371,1174,Independent,1174,51.048468,-114.071598,Coffee Shop,4b6c4525f964a520dc2c2ce3,4X-IzouANwT37SS0McEhPA,Tim Hortons,2.5
+372,132,Independent,132,50.912152,-113.95365100000001,Doctor's Office,4e43f6861838e44e898637e6,Wi4sNy98_wud8WG69XUy_A,Shoppers Drug Mart,3.5
+373,1037,Independent,1037,51.078456,-114.131298,Food Court,4e80e76046907f27699b5b9f,ChT6a_6Eru1mgwCaagtsTw,The Bake Chef Company,4.0
+374,768,Independent,768,51.054884,-114.069929,Park,4b0586e9f964a520cf7422e3,1ncSALzUfiq7SnscuSGncQ,Prince's Island Park,4.5
+375,1202,Independent,1202,51.050117,-114.062808,Vietnamese Restaurant,4be9cca361aca59353ff8200,o5vjmYnaPLm8WKwB0xZQ_g,Sunny Vietnamese Restaurant,3.5
+376,2300,Combined,683,51.125861,-114.201202,Grocery Store,4bcb6355937ca593087aa992,KusFFlGEHr1LtjZyGV6L2w,Safeway,3.5
+377,2209,Combined,996,51.08542,-114.156025,Cosmetics Shop,4bae7dd2f964a520e8b83be3,rPokPM3tAc3vQ73QJKw2Eg,Sephora,3.5
+378,525,Independent,525,51.038014000000004,-114.08051599999999,Park,4babf68ff964a520b3d93ae3,cQ8FKduGfVskvi11NZXsAg,Tomkins Park,3.5
+379,85,Independent,85,50.903768,-113.98238799999999,Lake,4b304ddff964a520c5f824e3,jSsbokClnRAMXdSo-NGLig,McKenzie Lake Esso,1.5
+380,917,Independent,917,51.082188,-114.00032,Hotel,4b0586e6f964a520c77322e3,uaQOlGH85FWz_td3fAdC6w,Sheraton Cavalier Calgary Hotel,4.0
+381,916,Independent,916,51.082187,-114.00038400000001,Pub,4ce3568f2407a1cdc5ae4dd0,hn_3yKI4wtL2zOwhEjX7nQ,Henry's Pub,5.0
+382,1181,Independent,1181,51.04996,-114.06965,Hotel,4b0586e6f964a5209f7322e3,fbbO2vNsYPhi11Se7T95lQ,The Westin Calgary,3.5
+383,1121,Independent,1121,51.047931,-114.076149,Chinese Restaurant,4bed9da23372c928eae81114,bJQsVvEdi810vdpQsq3IXQ,Chinese Village Oriental & Western,3.0
+384,909,Independent,909,51.081154,-113.99570200000001,Diner,4b0586ecf964a5209c7522e3,AcLJRgoK1ZXXyMBNm9GTNg,Christy's Rotisserie Chicken,4.0
+385,1220,Independent,1220,51.045495,-114.061977,Convention Center,4b0586f0f964a520f87622e3,RZbnsLh8RWAfflD-XkX4hA,Telus Convention Centre,3.5
+386,591,Independent,591,51.100713,-113.97695800000001,Storage Facility,4fd8fbefe4b02833499ee780,BCGVPb3byz1uRJ1kmaDWwQ,Premiere Van Lines,3.5
+387,662,Independent,662,51.137607,-114.158478,Medical Center,4b9935c2f964a5200c6a35e3,hNyCTkoGuoDMEfqkPDUvuA,Country Hills Veterinary Clinic,2.5
+388,2216,Combined,325,50.99775,-114.07343300000001,Cosmetics Shop,4ee51b57f9abfc72274928af,1brrlcDdxxipWe47rI1cfw,M?°ËA?°ËC Chinook,4.5
+389,2216,Combined,357,51.000048,-114.07296799999999,Clothing Store,4cda106d5aeda1cd10eab411,3CoHXsCzSejNwMqNZLaoEA,Tory Burch,4.0
+390,2218,Combined,105,50.95277700000001,-114.06523999999999,Restaurant,4c87d443cedc224bd5e27fb6,aIF2DQ1IDQXZyjZIx2KG_A,Chachi's,3.0
+391,502,Independent,502,51.036837,-114.07149,Sushi Restaurant,4b0586eaf964a5202a7522e3,0FA1x9nnKCYD3b4lvkdIJw,Hana Sushi,4.0
+392,2104,Combined,1144,51.046044,-114.06260800000001,Hotel,4b0586e6f964a520d07322e3,iDXUEh2wYOXJVx2aP4WjZA,Hyatt Regency Calgary,4.0
+393,2300,Combined,692,51.126863,-114.197267,Pizza Place,4b6cac03f964a5200b4b2ce3,OG8UJiPaEIMIGtBUqyjeww,Boston Pizza,2.5
+394,2217,Combined,116,50.957,-114.0729,Automotive Shop,4d49bae6183f224bfc7fe1a8,Ic1JQMZmghcf6fU7-7AYUw,Tower Chrysler Dodge Jeep Ram,1.5
+395,598,Independent,598,51.153090999999996,-114.011652,Automotive Shop,4b8ff3c2f964a520ca6b33e3,qrUmEyYz_mz39WcVXYC4bw,Country Hills Toyota,3.5
+396,2216,Combined,318,50.996121,-114.07320700000001,American Restaurant,4b5cf592f964a520a54c29e3,6wr8nHxkj9dDzp0jzd38Kw,JOEY Chinook,3.5
+397,2216,Combined,327,50.998551,-114.071238,Seafood Restaurant,4b68de49f964a520ef902be3,MCBsyPnsOn8kOuyCbP2O4A,Red Lobster,3.0
+398,218,Independent,218,50.980683,-113.996928,Restaurant,4e48058962845e1d3ca6a73b,ywHZ6FiU4ZuXOh2cnc_idg,Dragon Palace Restaurant,3.0
+399,375,Independent,375,51.016199,-114.06016399999999,Mediterranean Restaurant,4b0e84f0f964a5203b5823e3,yhf9NlNKu8efjVHHGiNIqA,Alloy,4.0
+400,2103,Combined,1163,51.053209,-114.06818600000001,Sports Bar,4b0586e7f964a520e27322e3,-NOq69xekNxkZOH_apxszw,The Garage Sports & Billiards,3.0
+401,2103,Combined,1164,51.052490999999996,-114.06833300000001,Multiplex,4b0586edf964a520eb7522e3,Jw41bQExdijm7gSaZ_C3YA,Cineplex,3.0
+402,782,Independent,782,51.079907,-114.07108500000001,Sushi Restaurant,4f6bbf98e4b03b575a9c05bf,mqKSQXgLJYbgagreXF4c0w,Gunkan Sushi House,4.5
+403,482,Independent,482,51.041398,-114.066022,Bar,4b0586e8f964a5204d7422e3,wCT31SjWP6MkDJ-OyGk-8A,Leopold's Tavern,4.5
+404,874,Independent,874,51.077090999999996,-113.985891,Indian Restaurant,4c0e945c75f99c74047aecc4,FkhyadffSdWZFQErVuYcsg,Samosa Grill,4.0
+405,2207,Combined,865,51.072853,-113.98543799999999,Sporting Goods Shop,4b77037df964a52085742ee3,-Ek4ibmfqFFQhcfe_HBzlA,Sport Chek - Sunridge Mall,2.5
+406,2207,Combined,866,51.073339000000004,-113.98664199999999,Department Store,4b2eccccf964a520dce624e3,it9Gge6YxZpDX6oK_o0txQ,Claires Sunridge Mall,1.0
+407,2209,Combined,1000,51.084817,-114.155674,Pet Store,4b0586eff964a520a37622e3,eOeRsImbF4JxJmfAj4wr6g,Petland,3.5
+408,390,Independent,390,51.037913,-114.09348999999999,Pub,4b7a0f40f964a5203f212fe3,T1HrlHN5mbT2WGtcfzaf4A,1410 World Bier Haus,3.0
+409,1030,Independent,1030,51.069178,-114.129581,Steakhouse,4b48136ef964a520b64726e3,BB6tLdF0kLa45eu9y65JIQ,The Keg Steakhouse + Bar - Stadium,3.5
+410,783,Independent,783,51.080115,-114.104684,Golf Course,4bf97f1fb182c9b6150b795a,-zeYsT5opAbDbe-l-zJ8YQ,Confederation Park Golf Course,3.5
+411,940,Independent,940,51.107564,-114.06396399999998,Chinese Restaurant,4b63a6baf964a520cb892ae3,neNQJHi50U4z8N-XUgRNnA,China Palace Restaurant,4.5
+412,2300,Combined,676,51.124602,-114.205844,Bank,4b5b5b4ff964a5205cf728e3,7fdjmnt78mMmTdPF0ARSlQ,Springbank Cheese Company,4.5
+413,219,Independent,219,50.976013,-114.01524599999999,Burger Joint,4c65ac9fe1da1b8dd9e598c3,ZMtOJNRPIYM4HQpvAt2Iww,McDonald's,2.5
+414,604,Independent,604,51.131059,-114.008721,Rental Car Location,4ccf71ac7b685481eed3bbf8,CEA3qbFhIHMhp1Ndpuunww,Budget Car & Truck Rental,1.5
+415,605,Independent,605,51.131027,-114.00994299999999,Rental Car Location,4e406faa18389e021462d9a9,Xu6c0N-ijmDLaB_bWYRYtA,Hertz Rent A Car,2.0
+416,499,Independent,499,51.038222999999995,-114.071281,Salon / Barbershop,4eeb868f754a75f702296820,jx4QLSvn0kdLXHN1p5V0Kw,Fabutan Sun Tan Studios,3.5
+417,1106,Independent,1106,51.048787,-114.080453,Vietnamese Restaurant,4c48a079c047be9ae4763479,dgGkOfpWjGgDTljS483QhQ,Pho Viet,1.5
+418,520,Independent,520,51.037869,-114.078926,Burger Joint,4f95a50fe4b01cffa33ffa09,ptuPjvMUY3SHeDo-DKlGUQ,Clive Burger,3.5
+419,1124,Independent,1124,51.048564,-114.075139,Fast Food Restaurant,4b71b036f964a52045562de3,G04Pvc4jGE4RCLlYr3-tBA,The Copper Chimney,1.0
+420,448,Independent,448,51.031417,-114.071653,American Restaurant,4b3a4ff4f964a5205e6425e3,hjBVqvMoffXYxcNj_stq4A,Earls Kitchen + Bar,3.5
+421,912,Independent,912,51.081878,-113.99903300000001,Fast Food Restaurant,4b86d0eff964a520449f31e3,uxRJK2IhPjy1pzTF17X1zQ,Wendy's,3.0
+422,981,Independent,981,51.067436,-114.11641499999999,Pizza Place,4b90704bf964a520598a33e3,A4CSMtEaYFHw0aeK2y8M6Q,Boston Pizza,3.0
+423,757,Independent,757,51.058028,-114.13663700000001,Ice Cream Shop,4b0586e7f964a520157422e3,CRdbaW_N9c_9ZM2EiPacvQ,LICS - Leavitt's Ice Cream Shop,4.0
+424,13,Independent,13,51.037171,-114.130086,Gym / Fitness Center,4b44c415f964a52089fb25e3,y4LYVvq-CIByacQUYf_oUQ,Killarney Aquatic & Recreation Centre,4.0
+425,468,Independent,468,51.040482,-114.065518,Yoga Studio,4cda19b4958f236a8a29a503,eUkmbdfn2mr-bNAq_kDYpQ,The Hot Yoga Lounge,4.0
+426,15,Independent,15,51.036408,-114.11038300000001,Medical Center,4c2b57072219c9282b65a448,x2sT3ZdNKhJY18wlPU-aLw,Chronic Pain Centre,3.0
+427,362,Independent,362,51.001801,-114.06294299999999,Electronics Store,4b6a3485f964a520f9cc2be3,Ouu8r6_K77RL4xG3HFYihw,Memory Express,4.0
+428,2105,Combined,1237,51.045605,-114.067154,Miscellaneous Shop,4f75f14fe4b02ca6e4cad4de,8qILyIvGsg9IhgxzxH3bnA,Dollarama,2.5
+429,926,Independent,926,51.097338,-113.999706,Hotel,4f84fef9e4b047432ee15f1f,pX4J0qsof9EqttRxNKT2sA,Residence Inn by Marriott Calgary Airport,4.5
+430,927,Independent,927,51.096794,-114.000492,Hotel,4fc59ca5e4b00d55596a8300,KMvezEeChllNHkhJeWjMZQ,Courtyard by Marriott Calgary Airport,4.0
+431,552,Independent,552,51.03799,-114.09471299999998,Bookstore,4b9d4270f964a520d79d36e3,jyUzJA1w25OjRrViTSNnqQ,Fair's Fair Books,3.5
+432,1110,Independent,1110,51.045851,-114.077001,Hotel,4b100037f964a520486723e3,pbQm0U_cYpBHsg3uL2Z6Hg,Ramada Plaza by Wyndham Calgary Downtown,2.5
+433,1108,Independent,1108,51.045978999999996,-114.07688799999998,Hotel Bar,4b5a2884f964a520f3b028e3,viyolmj28XvxLDyBff6kag,Red Fox Pub,3.0
+434,963,Independent,963,51.052684,-114.09355500000001,Drugstore / Pharmacy,4b61039af964a5201b062ae3,CB3Olkk0SCUKs0Vmi8KRAw,Shoppers Drug Mart,3.5
+435,413,Independent,413,51.041131,-114.05945,Vietnamese Restaurant,4b0586ebf964a520557522e3,jF5l-PUUlJd2e6ER7xjQAg,Vietnam Restaurant,3.5
+436,923,Independent,923,51.095572,-114.002509,Bike Shop,4bed90d0bac3c9b6fd7cfee9,Q1QGThQIk-B_r-kFEKcKuw,Calgary Harley Davidson,4.0
+437,284,Independent,284,51.009444,-114.09510300000001,Dog Run,4beb4a6d62c0c9281305e2d4,W8dFb78O0Mek6SnMXAcp1g,Sandy Beach Park,4.5
+438,2216,Combined,324,50.997989000000004,-114.07291399999998,Cosmetics Shop,4b181710f964a520c8cc23e3,1brrlcDdxxipWe47rI1cfw,M?°ËA?°ËC Chinook,4.5
+439,665,Independent,665,51.126872,-114.074483,Drugstore / Pharmacy,4b57bd70f964a520c23e28e3,5tFjK7ZGwEd3gUZaDSaoyA,London Drugs,3.0
+440,2221,Combined,68,50.906273999999996,-114.06197,Pub,4b1a190ff964a5208be723e3,ARdkHJ748cC_7_fwViQxng,The Hideout - Calgary South,2.5
+441,842,Independent,842,51.04888,-113.99301399999999,Pizza Place,4b08a915f964a5206b1023e3,wmlGDmboJq38so5We7q_Uw,Boston Pizza,2.0
+442,548,Independent,548,51.037678,-114.088816,Restaurant,4fe66835e4b0e1967ec5dd0b,-1u4Q4U6OZ-CvqoxUh7gKg,Las Canarias,4.0
+443,182,Independent,182,50.95114,-114.00219399999999,Fast Food Restaurant,4b9a998ef964a52036c535e3,VY7glXpgWYpGR03xJ03otw,McDonald's,2.5
+444,624,Independent,624,51.163693,-114.12647,Pizza Place,4d8fc084788c548117b856fd,xomRWgUrcq2ESC6oBwrfbA,Boston Pizza,2.5
+445,2301,Combined,245,50.983351,-114.041529,Mall,4c55ed39728920a103414185,iuP1DOzMy4BZgtWF_TFBcQ,Deerfoot Meadows Shopping Center,3.5
+446,277,Independent,277,51.022956,-114.10900900000001,Pub,4b0586e8f964a520567422e3,A5qHFRJOZZuEHi4yXTR2Kw,Original Joe's,3.5
+447,951,Independent,951,51.05249600000001,-114.085826,Tea Room,4b48e89ef964a520e75c26e3,1-phG1_n-aycybl1r3_spA,Oolong Tea House,4.0
+448,280,Independent,280,51.023812,-114.107982,Breakfast Spot,4ca8daa544a8224b01db1b40,ZqWfjQ9ZA6_CiaQG3Zal6Q,The Loop Eating & Drinking,2.5
+449,805,Independent,805,51.053709999999995,-114.024996,Science Museum,4dc153b5d22da015334c7441,SzufM2lzA6adxGN_dPdPdA,Telus Spark,3.0
+450,611,Independent,611,51.097895,-114.219398,Park,4b0586f1f964a520277722e3,TRKR2rYOR4li81ut7aO6hA,Seasons of Bowness Park,2.5
+451,145,Independent,145,50.91693,-113.95966100000001,Grocery Store,4b5bac26f964a5201d0f29e3,gPY4fENm0riYLPRFu8xsSA,Sobeys,3.5
+452,2300,Combined,682,51.127317,-114.20655900000001,Sushi Restaurant,4b0586ebf964a520547522e3,oVClupgTmST3uAdSVym0MA,Sushi Boat,3.5
+453,52,Independent,52,50.899768,-114.06135,Electronics Store,4b7dcd6af964a52093d52fe3,n0GEtlS_i02oPzfGinNc2A,Best Buy,2.5
+454,776,Independent,776,51.054377,-114.09431299999999,Arts & Crafts Store,4c63445569a1c9b655dd3aa4,88PgzD2sJ9YXanPCpKxMBg,Color Me Mine,3.5
+455,443,Independent,443,51.030302,-114.07250400000001,Grocery Store,4b0e001ef964a520b75323e3,BQnk3CdxYA9vpiRfFFtp1A,Safeway Mission,3.5
+456,208,Independent,208,50.978437,-114.08396,Ice Cream Shop,4c7707fa93faa09388b8effb,5UJ-D3rUXsHdPl4jZpKKww,DQ Grill & Chill Restaurant,2.5
+457,566,Independent,566,51.04148,-114.081658,Coffee Shop,4dc800961f6ef43b8a524444,V164Jxt-eth9qhSFchrpzg,Good Earth Coffeehouse - CBE,4.0
+458,1125,Independent,1125,51.049347,-114.07396999999999,Hotel,4b0586e6f964a520ae7322e3,H1Dy05wSBtikOAetDUx4HA,Regency Suites,1.5
+459,1084,Independent,1084,51.04635,-114.085374,Bar,4dc5d75218387d1bd54964c2,SG8lXj8w7NAjozm1O2UDzQ,The Lord Nelson's Bar & Grill,2.0
+460,1223,Independent,1223,51.044534999999996,-114.06321799999999,Restaurant,4b68f194f964a52032942be3,gLUT5YFfZWUe5JbD-zNGfg,One18 Empire,4.0
+461,409,Independent,409,51.040773,-114.054286,Nightclub,4e14c943814d9f3116d20fe8,XBYoqtG85Txm3DJr4CW9DQ,Cowboys Dance Hall - Cowboys Calgary,3.0
+462,1214,Independent,1214,51.044470000000004,-114.062977,Monument / Landmark,4b0586e9f964a520c27422e3,5XXFsXKdPxCwHUuw2FeYpg,Calgary Tower,3.5
+463,137,Independent,137,50.916236,-113.95962,Fried Chicken Joint,4fcea246e4b0d5f26f4b80b1,Q3QdmjKnH9RVAHgTtos7uA,Chicken on the Way,4.0
+464,2105,Combined,1234,51.045374,-114.065831,Coffee Shop,4b0201aaf964a520264722e3,jXC82s4kAaKIX501_c84QA,Deville Coffee,4.0
+465,1072,Independent,1072,51.046101,-114.099096,Bus Line,4bcdfaf8fb84c9b60ff7223e,ubPXVKIzQseAQPQYdITcig,Greyhound Bus Lines,2.0
+466,2206,Combined,856,51.055898,-113.978974,Mall,4b230d4ff964a520b25224e3,nuuU-gUiHfRLVRna8krzCg,Marlborough Mall,2.5
+467,1012,Independent,1012,51.075169,-114.167778,Flower Shop,4fe0f23ce4b00170a6581a2d,qI5hLjC8Bon9qNpBc_vdNg,Allan's Flowers,4.0
+468,931,Independent,931,51.089928,-114.052622,Hardware Store,4b5ca3b1f964a520733b29e3,DsS4vb03CTI6aZu9a5FhHg,Rona,3.0
+469,1245,Independent,1245,51.046443,-114.07243899999999,Department Store,4b0586eef964a520787622e3,Q5CcN0fti3EM9IW6le_ACA,Holt Renfrew,3.0
+470,1172,Independent,1172,51.049718,-114.072354,Eastern European Restaurant,4b0586ebf964a520597522e3,CDa-k_TPrskyw44fmDYCVg,Caesar's Steak House,3.5
+471,1083,Independent,1083,51.046275,-114.084902,Hotel,4b14616bf964a5203aa223e3,w-khPmNPXmgZ2fdY3c08bg,Holiday Inn Express & Suites Calgary,3.0
+472,126,Independent,126,50.963518,-114.072952,Sushi Restaurant,4eb4807077c8972736a596c3,MbFh6_Ap18VkVdApJi-vPw,Izumi Sushi,3.5
+473,269,Independent,269,51.007517,-114.14700500000001,Casino,4b5e3b19f964a520078529e3,OryjBZvvTW_ybJkeYzCadg,Grey Eagle Resort Casino,3.0
+474,123,Independent,123,50.962005,-114.06978400000001,Gaming Cafe,4b57b87ef964a520b53d28e3,js-UeVMXqnNYEY3ZTydfng,Laser Quest,4.5
+475,1130,Independent,1130,51.045832,-114.05911200000001,Plaza,4b0586e9f964a520c67422e3,5U1GkjH9wMlXoGk3y5nhAg,Olympic Plaza,4.5
+476,1088,Independent,1088,51.04720800000001,-114.08519199999999,University,4c9e0d928afca093e89bfc15,CbDg5jHAZ3_7R6-tPsv4iQ,Athabasca University,3.0
+477,2105,Combined,1141,51.04561500000001,-114.06430800000001,Sporting Goods Shop,4c9bc1105e1a9521b4be66f3,9_nJFcjnLMSSV3TraDP1YQ,Sport Chek Stephen Avenue,3.0
+478,2207,Combined,870,51.074754,-113.98506100000002,Department Store,4b77204af964a520eb7f2ee3,a6BSOXreVuE4FMiWpR27MQ,The Bay,3.5
+479,25,Independent,25,51.020920000000004,-114.1671,Department Store,4b4004a8f964a52049b425e3,hnpw5wo7ayUJrdD6ofjgYg,Winners,4.0
+480,51,Independent,51,50.89859000000001,-114.06090900000001,Paper / Office Supplies Store,4b86e700f964a520e7a431e3,6-tEI8kg52CCCMNB7VfwFA,Staples,2.5
+481,146,Independent,146,50.916851,-113.95989499999999,Grocery Store,4b6f3df8f964a5209ae62ce3,gPY4fENm0riYLPRFu8xsSA,Sobeys,3.5
+482,476,Independent,476,51.039559999999994,-114.05893600000002,Burger Joint,4b0e82c5f964a5202f5823e3,yxP-LWf7bEk_A4TT7C-5qg,Loungeburger,2.5
+483,954,Independent,954,51.052654,-114.08611299999998,Bar,4b0586e7f964a5200d7422e3,zYs33RJ3-Ply40HQdY9kbw,Oak Tree Tavern,4.0
+484,885,Independent,885,51.071201,-113.999548,Hotel,4c046c9b0d0e0f479b01049a,BKZKXKbfBUQ8sk0I0ssNVQ,Four Points by Sheraton Calgary Airport,4.0
+485,408,Independent,408,51.040321,-114.055107,Casino,4b0586edf964a520f27522e3,JHorcZdXHhJZTOh4N6NDkg,Cowboys Casino,3.0
+486,1117,Independent,1117,51.047629,-114.07376299999999,Coffee Shop,4b3127c6f964a520570125e3,LJxXGR4Gp2_N3sSxEzSebg,Starbucks,2.5
+487,1222,Independent,1222,51.045468,-114.06139499999999,Fast Food Restaurant,4d5d70c2ddac721e5baa78fe,ntG6ZrYhA3L5CHxn7NL0hw,A&W,2.0
+488,1051,Independent,1051,51.067097,-114.090617,Gas Station / Garage,4d62e55d57616dcbdf33a1f3,UVuf0DmWGvV8dDPZx2IauA,Petro-Canada,3.0
+489,1203,Independent,1203,51.050985,-114.061619,Chinese Restaurant,4b240958f964a5209d5f24e3,5yhUr1Cv21bOL6ZkE5IdCQ,Ho Won Restaurant,3.5
+490,61,Independent,61,50.901585,-114.063427,Caf,4b300517f964a52092f424e3,ELIKLT1vZoz-DHMVHqLIKg,Second Cup,4.0
+491,329,Independent,329,50.988913000000004,-114.064379,Breakfast Spot,4b50dba0f964a5209b3527e3,usoUdgSn-SB9vO8oKWUvJg,Cravings Market Restaurant,3.5
+492,760,Independent,760,51.055011,-114.105804,Salon / Barbershop,4c9e39ced3c2b60cb116c9bc,VjpZA0PB4I_X7kD_lTbRnA,Velvet Style,4.5
+493,63,Independent,63,50.90583,-114.04763899999999,Chinese Restaurant,4d24c586c5f2a1cd343756cf,_oL8XX8dusHBNYQyDhF4fA,Sun Island Eatery,4.5
+494,2217,Combined,113,50.956027,-114.06933000000001,Liquor Store,4b0586f0f964a520f07622e3,c1YCiVcR3cKjtF4bCiR8qQ,Willow Park Wines & Spirits,4.5
+495,388,Independent,388,51.03732700000001,-114.094848,Indian Restaurant,4b0586ebf964a5205c7522e3,uz5HFLjsaeEQWXh0_C-jCQ,Moti Mahal ,4.0
+496,2104,Combined,1226,51.045662,-114.063549,Pub,4b04ea4df964a520df5622e3,BZbWTclsf2g3awrH35P2xA,Bear & Kilt Freehouse,4.0
+497,515,Independent,515,51.037791,-114.075364,Vietnamese Restaurant,4b54da89f964a520cdcf27e3,GxWEpPvDAxuzaSNNmR4Umw,Banh Mi Thai Tai,4.0
+498,11,Independent,11,51.038329,-114.141469,Pub,4b244af8f964a5206c6524e3,hn4ukB-r7iYYXve0bhd5Dw,Donegal Irish Pub,2.5
+499,772,Independent,772,51.057392,-114.09243400000001,Event Space,4b0586f0f964a5201b7722e3,hzL0hlO_0tvriUQOLMRH9A,Hillhurst-Sunnyside Community Association,4.0
+500,335,Independent,335,50.990646999999996,-114.042259,Automotive Shop,4f3fe968e4b08089824c7c49,Ax_2OsWgjhUK-Y7izCSd3Q,International Motor Cars,3.0
+501,2218,Combined,106,50.952864,-114.06506200000001,Food Court,4f246cd8e4b0c41c52a22566,aIF2DQ1IDQXZyjZIx2KG_A,Chachi's,3.0
+502,2218,Combined,103,50.951968,-114.06664599999999,Furniture / Home Store,4b2bcbd4f964a5202bbb24e3,MkzNsk9NiLH9sPZPcscNvQ,Crate & Barrel,4.0
+503,446,Independent,446,51.0309,-114.07151999999999,Bakery,4f4d2b7ee4b081be1cf50c58,WVBunygqFNO6UeI6CUMwYw,La Boulangerie,4.0
+504,716,Independent,716,51.082878,-114.21604099999999,Ski Area,4b0586f0f964a520f27622e3,v7Pkq-ns3wmZh1I0eB5ZFg,WinSport - Winter Sport Institute,5.0
+505,178,Independent,178,50.949915999999995,-113.977429,Hardware Store,4c43cb6afb6eb713b7424e4a,C3AAe1GN3u1ymridWohbxA,Princess Auto,4.0
+506,1178,Independent,1178,51.047990999999996,-114.07217800000001,Other Nightlife,4c1a6367624b9c741e6b1204,Ulph0efc5PzA-s1gDv6FwA,Wildhorse Saloon Stampede Tent,4.5
+507,902,Independent,902,51.081228,-113.98724399999999,Spanish Restaurant,4b2c4671f964a5200bc524e3,xggWRP_tRSvdhxuUHyzRCw,Nando's Flame Grilled Chicken,3.5
+508,475,Independent,475,51.037421,-114.060381,Bar,4f1a5b77e4b0b4fde8306809,3pooLJBFoyufPh-EVeIMdw,Sammy's Sports Bar,2.0
+509,268,Independent,268,51.00418300000001,-114.11753300000001,Breakfast Spot,4b40c2f2f964a520d2ba25e3,XiviDxn3V_Iy-n_4ttAroQ,Pfanntastic Pannenkoek Haus,4.0
+510,2301,Combined,241,50.982529,-114.04468600000001,Sports Bar,4fd26740e4b04d6c2bd66daa,2vQl7sm4oLWrAWtdoSMEaA,Shark Club Sports Bar & Grill,3.0
+511,979,Independent,979,51.067384999999994,-114.11412800000001,Breakfast Spot,4bc77da38b7c9c74ad8e36cf,xSKk6oWP8Qlm7iCrYNIwRw,Red Lobster Restaurants,3.0
+512,466,Independent,466,51.034347,-114.07157600000001,Juice Bar,4c1be590b306c928fcf862b7,IS-2Eil4hmJp3tCP38f-KA,Jugo Juice,3.0
+513,234,Independent,234,50.978664,-114.04171799999999,American Restaurant,4bb78ab653649c7468d745fb,Wxt77slJbuwQ3LDbfrBkzQ,Ricky's All Day Grill,3.0
+514,183,Independent,183,50.953471,-114.117364,Coffee Shop,4b62668ff964a5200d462ae3,AsirhhZYxWrZo80bKtfEfQ,Tim Horton's,4.0
+515,792,Independent,792,51.068013,-114.063231,Pub,4f2c9ff5e4b0a2ac55e2c2e5,0xk0Vd4FbT-wVpxxgDj05Q,Beckham's Pub & Pizza North,1.5
+516,769,Independent,769,51.054853,-114.07163,Gastropub,4b4827f8f964a520364926e3,BJ3AyMhTaORAu_e_J2KNEQ,River Caf°ß?,4.0
+517,506,Independent,506,51.038021,-114.07245800000001,American Restaurant,4b0f7f16f964a520bb6223e3,R8zD7s6OJqLr6SBrHUAgrg,The Living Room Restaurant,3.5
+518,226,Independent,226,50.990627,-114.01563,Pizza Place,4e827670f5b92f9afc829aea,DrhoNZ1p1svYbEAumSTP0g,Canadian Pizza Unlimited,5.0
+519,412,Independent,412,51.0428,-114.054296,Ice Cream Shop,4fe61052e4b05d1edc0100a5,tXoO9Uc_tQ8_IqTmEQcW5w,Village Ice Cream,4.5
+520,2104,Combined,1219,51.045359999999995,-114.06280500000001,American Restaurant,4b22926ef964a520444924e3,LlJn7Q7Ow0lwQpk4gg0KeQ,Milestones,3.5
+521,1112,Independent,1112,51.046737,-114.076326,Coffee Shop,4b5f8120f964a52034be29e3,H7NF_AMUxEbAwQ2594fkDQ,Good Earth Cafes,2.0
+522,48,Independent,48,50.90538400000001,-114.111236,Falafel Restaurant,4b9162bcf964a52033b833e3,ZFIQSvDEqpz9WG-qbU4VZg,The British Chippy,3.5
+523,534,Independent,534,51.037987,-114.084966,Italian Restaurant,4fc83ca6e4b000e38ec6eadb,tWjfgVtTD5n01Cq9dFWGsA,Cibo,3.5
+524,221,Independent,221,50.97842,-114.01493,Pizza Place,4ddff2608877e0877e6718ce,3lVHEEb-WMg1oSK6TYD-FQ,Boston Pizza,3.0
+525,249,Independent,249,50.989114,-113.957525,Burger Joint,4b7ee532f964a5209d0730e3,UkBy7Epd2q6YXZhYas8iEA,A&W,1.0
+526,1213,Independent,1213,51.045041999999995,-114.06241000000001,Hotel,4b0586e6f964a520a17322e3,tTpeNajXkB9gvOim5lWDXA,Calgary Marriott Downtown Hotel,3.5
+527,232,Independent,232,50.978148,-114.04321000000002,Arts & Crafts Store,4b0dfadaf964a520755323e3,dZY34uPKy6BYhN4Pkbk9Rg,Michaels,3.0
+528,1180,Independent,1180,51.049681,-114.069102,Steakhouse,4b0b597bf964a520a93023e3,kunLUCRIhzyZrxJQ5b-Mbw,The Keg Steakhouse + Bar - Calgary,3.5
+529,128,Independent,128,50.964725,-114.068899,Sports Bar,4b0586e9f964a520a97422e3,UCWxBbobmKncrn9WEE5R6g,Boomtown Pub & Patio,3.0
+530,928,Independent,928,51.079785,-114.055176,Mediterranean Restaurant,4ba7ae1ef964a52023a939e3,1pPQXENhTj2Kma9FZdWvcw,Cedars Restaurant & Deli,4.5
+531,839,Independent,839,51.067653,-114.010618,Hotel,4b0586e6f964a520cf7322e3,_Dz7a9gMBJgo_JTO0PPuxw,Clarion Hotel and Conference Centre,3.0
+532,908,Independent,908,51.081866999999995,-113.990926,Paper / Office Supplies Store,4b3038faf964a520f4f724e3,tSIdcUvKCivHxHj6JOjlig,Staples Calgary N.E.,3.0
+533,1170,Independent,1170,51.048193,-114.068298,Restaurant,4b0c656df964a5206b3c23e3,Fruul4wgS8Y_wuUMc7O-Cg,Choices Oriental Noodle Eatery,3.0
+534,2102,Combined,1250,51.04577800000001,-114.06926399999999,Restaurant,4b0adb4ff964a520f52823e3,dYVqKTTM2eZZWntx8UG3uA,Earls 67,3.0
+535,188,Independent,188,50.988233,-114.122801,Park,4df8d0ab63651f304b651cfd,GXWFnw8MbNDTwvd7wahYRQ,North Glenmore Park,4.0
+536,514,Independent,514,51.03802,-114.07656999999999,Italian Restaurant,4af78a1cf964a520c40922e3,1KxcxGMRy-hMwkdl9EN3KQ,Fiore Cantina Italiana,3.0
+537,2219,Combined,90,50.928821,-114.03032900000001,Pub,4cb935f70180721e98149361,aNaxucf33gRjy2bk3UVH0Q,The Winkin' Owl Pub,2.0
+538,918,Independent,918,51.087238,-114.00421000000001,Hotel,4cb79503f50e224bfd40e0fb,J_mU9ojNZBJlPhzKQkxr1g,Hampton Inn & Suites Calgary Airport,4.0
+539,2104,Combined,1227,51.04546,-114.06341499999999,Diner,4eb2cbe5722ead5ebf605b55,G0s44bev_fPGv9Gwtb1vFQ,Avenue Diner,4.0
+540,1151,Independent,1151,51.048294,-114.06656100000001,Breakfast Spot,4cdc3b2199026dcbd2e11181,3NqH8MHfrjRrmo2kSYMupA,Cora's,3.5
+541,2102,Combined,1251,51.045913,-114.06832,Chinese Restaurant,4b6c9a1af964a520d1452ce3,IDxwN1IomuRDN6n6FpsQzw,Pink Pearl Chinese Restaurant & Lounge,3.5
+542,464,Independent,464,51.034055,-114.07171899999999,Tattoo Parlor,4fa96327e4b09ce1659b5cd9,jq-RRLNVNfRD-ENLUr7wlw,Mission Tattoo,4.0
+543,536,Independent,536,51.037924,-114.08568799999999,Hot Dog Joint,4b231a12f964a5204c5324e3,CfjExSZFfmOM3BYGzd120g,Tubby Dog,3.5
+544,2102,Combined,1243,51.044740999999995,-114.06856499999999,Fast Food Restaurant,4caf89aeeb65b1f7098264cd,M6SrznKKLL8pPRIJFyrRMQ,Fatburger,3.0
+545,978,Independent,978,51.070257,-114.12005400000001,Football Stadium,4b0586ecf964a520da7522e3,QR3I5iq-Key06dO1w6rZdg,McMahon Stadium,3.0
+546,2208,Combined,945,51.108174,-114.04164399999999,Smoke Shop,4f5fdd91e4b02a8706a800a0,WAv0Q845KM8azEYaaKbahw,Holy Smoke BBQ,5.0
+547,893,Independent,893,51.081016,-114.00418300000001,Mediterranean Restaurant,4bd660a06f64952182df70ec,BPccBipnqKrf6I823FQMMw,JOEY Barlow,3.5
+548,147,Independent,147,50.971051,-113.89118700000002,General Entertainment,4bd3302bcaff9521fa39d4f0,T3DD02xj-J-5hgWJSv5h-A,Shakers Fun Centre,2.0
+549,2215,Combined,27,51.020022999999995,-114.169454,Arts & Crafts Store,4b749715f964a52041e62de3,j2ylpi_0ByksVQiq4GiTYA,Indigo Books Music & More,3.5
+550,2106,Combined,152,50.930636,-113.97268100000001,American Restaurant,4b871425f964a5204caf31e3,bhTdEUJUFbWN_L85-gcTxQ,Tony Roma's,2.5
+551,2101,Combined,650,51.140572999999996,-114.07025900000001,Restaurant,4d0427c6a26854818d47b6bd,LOmAzbVEYHPLWuHAzE73Lg,Western Pizza,3.5
+552,192,Independent,192,50.962815,-114.086082,Diner,4bf962d28d30d13ade180218,egYGwXf3ycpJDZBtPAYkRw,Humpty's Family Restaurants,3.0
+553,1082,Independent,1082,51.045338,-114.08396100000002,Pub,4b0586e9f964a520ae7422e3,SWITg8J1mXRPNFVwHZZwng,Dickens Pub,3.5
+554,176,Independent,176,50.943329999999996,-114.04854499999999,Medical Center,4d826c757890224bc1ad4a2b,hRvQ59CqYnEEWdPyCMdYzQ,Bonavista Physical Therapy,3.5
+555,574,Independent,574,51.040229,-114.08152199999999,Caf,4b0b1480f964a520902c23e3,zQi4U-pJlJcztIW4G_HgUw,Kawa Espresso Bar,4.0
+556,724,Independent,724,51.082852,-114.18768500000002,Flower Shop,4bedbf774daaa593e7288f61,TAjvvMecdiTBpBnDp-KBKw,Sunnyside Greenhouses,3.5
+557,834,Independent,834,51.06808,-113.99090100000001,Electronics Store,4b2e9b88f964a52078e324e3,LiD_5JKRf5524yhL6pIutA,Best Buy,2.5
+558,2202,Combined,628,51.155978999999995,-114.15856000000001,Fast Food Restaurant,4b7c490cf964a520c6892fe3,ms4x4MKbIl6x0ARtU-PhSQ,Kim Lan Vietnamese Restaurant,3.0
+559,2215,Combined,26,51.020086,-114.169005,Coffee Shop,4b9d6301f964a520daa836e3,1bhltGy3AhUDay3AZ_k2RQ,Starbucks,3.5
+560,460,Independent,460,51.033497,-114.07138300000001,Pub,4b05b89ef964a52097e122e3,aUiiuRehsSJGMFxfbOPtqA,Original Joe's,3.5
+561,659,Independent,659,51.120626,-114.179464,Pizza Place,4bbffc6f4cdfc9b6f15a9221,V0IRwdxcoBFiP1BHBAim1g,Stavros Pizza & Sports Bar,4.0
+562,721,Independent,721,51.084903000000004,-114.208532,Diner,4c432012e26920a10efa60e7,oBV3dUR6gjci4bKK5ZcbqQ,Denny's,2.5
+563,2104,Combined,1229,51.045291999999996,-114.06365100000001,Pub,4b47c87af964a5208a3e26e3,yIB2-IYkjZFzyn-7ocKzCw,El Furniture Warehouse,4.0
+564,939,Independent,939,51.089051,-114.071276,Medical Center,4b6b20f6f964a520adf42be3,i50F6f1iX09IDutWHvaz_g,Calgary North Veterinary Hospital & Emergency Service,2.5
+565,1016,Independent,1016,51.073232,-114.16476200000001,Fast Food Restaurant,4dae25c55da3cca6f0a39f60,vppf6Lnqet_elcft6tYmdw,KFC,2.0
+566,2208,Combined,946,51.109383,-114.041849,Chinese Restaurant,4c842eeed34ca143b5a83c80,cEqOh78v1g1RCWHyuHwQng,Buffet Yangtze,3.5
+567,228,Independent,228,50.988956,-114.030979,Automotive Shop,4b683b1bf964a5201f6d2be3,2E2FdJto8Y9N1mpw6ZqJ8A,Kia City,3.0
+568,436,Independent,436,51.043586,-114.07826899999999,Bar,4ea8bb362c5b8d39c9e64a89,XxfXm5EQER08JSwYafVdUg,Commonwealth Bar & Stage,3.0
+569,2102,Combined,1265,51.045741,-114.069069,Bar,4c5cea1a94fd0f475538ca45,d-qXm9fxKrAy_U_MrVlJxA,Earls Kitchen + Bar,3.0
+570,1049,Independent,1049,51.067318,-114.08645200000001,Coffee Shop,4b43752ef964a520cbe025e3,xAUQJ5r-e5GJBBD5uyTr3Q,Starbucks,3.0
+571,733,Independent,733,51.105117,-114.161128,Coffee Shop,4b0f3c4bf964a520ad6023e3,dVoKcnphWwvv2WPZqLRpKw,Starbucks,3.5
+572,1123,Independent,1123,51.048563,-114.07473799999998,Japanese Restaurant,4b71b7aaf964a5203e582de3,n8apkesub_mi7v8_dytc5Q,Gyu-Kaku Japanese BBQ,4.5
+573,457,Independent,457,51.032809,-114.071347,Coffee Shop,4b0336a9f964a520954d22e3,fbfJi9uj86621DntGpIa9w,The Purple Perk,3.0
+574,286,Independent,286,51.011342,-114.09036699999999,Park,4e52ce577d8b3a70084495bb,W8dFb78O0Mek6SnMXAcp1g,Sandy Beach Park,4.5
+575,2103,Combined,1162,51.052233,-114.06978899999999,Caf,4b4b8044f964a520319e26e3,cWMzXTtdaZy6HTyEB3YoNw,JOEY Eau Claire,4.0
+576,542,Independent,542,51.037996,-114.08840900000001,Whisky Bar,5009f9d4e4b0715bfc1ab7a2,9SScKRDVSlbvQyhwrxXMvA,Liquor Depot At Mount Royal,3.5
+577,1111,Independent,1111,51.046808,-114.076254,Sushi Restaurant,4b687c94f964a5208a7b2be3,5T6u2jT3qQsCO_lC3FnAiA,Yamato Sushi,3.0
+578,2216,Combined,353,50.999891999999996,-114.070943,Vietnamese Restaurant,4bcdeb768920b713aa8da0dc,WlDC_QWKuEVrSMQh5CuGSA,Golden Bell Saigon & Vietnamese Restaurant,3.5
+579,1038,Independent,1038,51.078226,-114.13069399999999,Bar,4b464028f964a5208c1b26e3,RNmTqTBrkLS06ZUDg2sPsQ,The Den and Black Lounge,3.0
+580,139,Independent,139,50.91635,-113.960672,Chinese Restaurant,4cf1aebe1d18a143c73555ec,GOE85NOtCc5zmqOrzVGLXg,Golden National,3.0
+581,2300,Combined,686,51.125547999999995,-114.199378,Mexican Restaurant,4e0cf6a07d8bb178a89aae05,JsNGqcpdfbY2pPvcl7_f-g,Mucho Burrito,4.0
+582,1171,Independent,1171,51.049741999999995,-114.072402,Indian Restaurant,4baba21ef964a52020bb3ae3,RrapAhd8ZxCj-iue7fu9FA,Ganga Restaurant,1.5
+583,1182,Independent,1182,51.049652,-114.069732,Coffee Shop,4b31484cf964a520df0325e3,RquAcUUATxCkOlaqoUcVJg,Starbucks,3.5
+584,2300,Combined,699,51.128409999999995,-114.20472099999999,Automotive Shop,4c7527573adda143c97106af,UOyI-9-1xg9cwVz2zINvWw,BMW Gallery,3.5
+585,86,Independent,86,50.909613,-114.01836899999999,Park,4b94062af964a520286234e3,FSoB8B0j4CeoxsEP4X0kqQ,Fish Creek Provincial Park,4.5
+586,2100,Combined,635,51.161116,-114.064792,Coffee Shop,4b3e5899f964a520a59b25e3,L-cJl0gNsOAK9pfxmvBbmA,Starbucks,2.5
+587,2209,Combined,1003,51.08504600000001,-114.154103,Fast Food Restaurant,4d7eb44d2ff9b60c225ab147,1AJjRxdbBzXRvFDsRC3W5g,Taco Time,2.5
+588,304,Independent,304,50.98895200000001,-114.07093700000001,Sushi Restaurant,5004bc0ee4b0fbfbea0eb116,F8nkAcuCNH-09AWnfv_oWw,Sho Sushi Bar & Kitchen,3.5
+589,2208,Combined,944,51.108129999999996,-114.04229199999999,Mall,4b0586eef964a520517622e3,DA3t19lYXx7kBuSNAMaqwQ,Deerfoot City,4.0
+590,1115,Independent,1115,51.046059,-114.07494799999999,Rock Club,4b0586e9f964a5209b7422e3,brJsCRGXNjwTiCd5ZhaHPg,Vern's,4.0
+591,299,Independent,299,50.985728,-114.070923,American Restaurant,4b915ccef964a5204bb633e3,vJ3CtznPYgmZHpDr__8QGw,The Cheesecake Cafe,2.5
+592,187,Independent,187,50.960967,-114.105076,Drugstore / Pharmacy,4cbb5f140180721e9f319f61,JCzrtGdDbmGu9O07uINhbg,Shoppers Drug Mart,3.5
+593,2216,Combined,320,50.997394,-114.073559,Sporting Goods Shop,4ca4f32b8a65bfb73f472b22,UIBn9sYbDbPBBJYNcu1u2g,Sport Chek Chinook Centre,2.5
+594,2214,Combined,39,51.016164,-114.16945,Multiplex,4b0586ecf964a520e67522e3,nbSyA7zXxpCrwfZZKAXWFg,Cineplex Odeon Westhills Cinemas,3.5
+595,875,Independent,875,51.073609999999995,-113.991003,Vietnamese Restaurant,4b5f4037f964a5200ab029e3,ybtY5mG3Hjy-vVAdiXHr0w,Quynh Vietnamese Cuisine,4.0
+596,991,Independent,991,51.087748,-114.15788500000001,Doctor's Office,4fb4ffa1e4b06fedadd14fbb,jg2Gl-TsiSBWkZ0sqV3MQA,Gimbel Eye Centre,4.0
+597,2300,Combined,680,51.12693400000001,-114.206943,Pub,4b327bfcf964a520d40c25e3,BijNHV1maegIF027sHUJhg,Hudsons Canada's Pub,3.5
+598,399,Independent,399,51.041004,-114.03338400000001,Miscellaneous Shop,4b635ec9f964a52011752ae3,--YPwqIlRJrhHkJcjY3eiA,That Old Retro Store,2.0
+599,950,Independent,950,51.052003000000006,-114.08608999999998,Mexican Restaurant,4bef620c96edc9b6f7b94af2,rYq0k33eJxISVP1ufx6Kmw,Julio's Barrio,2.5
+600,1097,Independent,1097,51.046831,-114.081666,Convenience Store,4b7793f8f964a52071a22ee3,tbs1c0p3OA4KWaGJsVOxnQ,Mac's,3.5
+601,762,Independent,762,51.053913,-114.07883400000001,Bridge,4d12ed86f898b1f780a3dc81,gI7a1-tP_ESOUrO23MEsXA,Peace Bridge,4.0
+602,830,Independent,830,51.093671,-114.01066100000001,Coffee Shop,4b773c8bf964a5207e8a2ee3,ixK8pvKz8fJe5CI5vUKU6g,Tim Hortons,3.0
+603,2209,Combined,998,51.083214,-114.15511200000002,Clothing Store,4b11a60cf964a520608123e3,YtA9FvFPHNpzLeHS5iz4vQ,Bootlegger,3.0
+604,2207,Combined,869,51.074351,-113.98454199999999,Drugstore / Pharmacy,4bb3f85a87aa952143c2acd1,412zay6TFdL20X7649p2xw,Shoppers Drug Mart,2.5
+605,252,Independent,252,51.036582,-113.959704,Department Store,4b74bb80f964a5201fef2de3,f1IFfKrYIOE4J0a_kVI1tQ,Sobeys,2.0
+606,20,Independent,20,51.021525,-114.142941,Sports Bar,4b566629f964a520c30e28e3,k1T92rRlVUvffUkbCpSNdQ,Richmond's Pub & Eatery,3.5
+607,489,Independent,489,51.040815,-114.071652,Coffee Shop,4b326e07f964a520860b25e3,0YdMshGqe6jwScBeeAGhSQ,Good Earth Cafe,3.5
+608,2300,Combined,700,51.128423,-114.20443700000001,Automotive Shop,4bb3ad19715eef3b12af86bb,EEFlkLcE9BaVBB03nqV6tQ,BMW Gallery,2.5
+609,957,Independent,957,51.053754999999995,-114.085908,Middle Eastern Restaurant,4b0586ecf964a520b57522e3,3GHmr2HY9AoEtYDRbE0ZcQ,Shawarma Station,3.5
+610,272,Independent,272,51.014711,-114.12313999999999,Brewery,4b1015a5f964a520bb6823e3,yM__QJKXtvLM_KFH-kpSlg,Wild Rose Brewery,4.5
+611,2102,Combined,1254,51.045999,-114.07063000000001,Boutique,4daddb6bfa8cf04fbdf28e0e,maRLESjLlihySUbxBk8RzA,Town Shoes,3.0
+612,2215,Combined,29,51.019046,-114.16978700000001,Restaurant,4be9f94eb3352d7f02b454d2,J_LJdgBvq5_KtnjveOeN-Q,Swiss Chalet Rotisserie & Grill,2.0
+613,22,Independent,22,51.01867100000001,-114.15711599999999,Gas Station / Garage,4db58bf8f7b121c29f607b27,H4vIEJub8FjwBp8MmBmWdg,Co-op,3.5
+614,364,Independent,364,51.005779,-114.06828300000001,Pub,4b57a922f964a5204b3a28e3,UKH8zXhXUXR8pJs8ENpjow,The Dog & Duck Public House,3.0
+615,1050,Independent,1050,51.067453,-114.088898,Sushi Restaurant,4b917794f964a520b9be33e3,eKZXXE_VLk5FFNrCjl15cQ,Sushi Bbq Inn,3.0
+616,948,Independent,948,51.063299,-114.090099,Bar,4b9a9fdaf964a52063c735e3,HvEf99qoDRPnyxFdGzbb6A,The Gateway,3.5
+617,340,Independent,340,51.00197,-114.05412700000001,Coffee Shop,4c5093669426c92857065272,HiWJeV-nvChv3eUKbE8AcQ,Tim Hortons,1.5
+618,194,Independent,194,50.967453000000006,-114.07028700000001,Hardware Store,4bb6624446d4a5930c25c6c0,IaTctdOzVqp0PMMylrpbjg,Rona,2.5
+619,133,Independent,133,50.912931,-113.950745,Gas Station / Garage,4b8eda19f964a520e93a33e3,prjel33-dpu5R5E_G-cspw,Co-Op,3.5
+620,134,Independent,134,50.913168,-113.950432,Coffee Shop,4b48d606f964a520435926e3,Vkov2wtpsMmj1fvruwmdWA,Starbucks,3.0
+621,255,Independent,255,51.037461,-113.963682,Vietnamese Restaurant,4b75ab78f964a520af1b2ee3,GpfShLAU12CS5f2Tnt79qQ,Pho Dau Bo,4.5
+622,216,Independent,216,50.962959999999995,-114.008692,Mexican Restaurant,4bae6843f964a52036ae3be3,YKbofgTYS-u4im47ilIB0Q,Mucho Burrito,3.0
+623,2209,Combined,1007,51.084663,-114.15566100000001,Clothing Store,4dc2e9e51838ada6b26f053c,fQ4nfWP8RYwdUchpiWhGcg,H & M,3.0
+624,508,Independent,508,51.037867,-114.07307800000001,Latin American Restaurant,4e49e299483b16676e38aec5,5OsexOJ9RBRtHstK2ELRzw,Gringo Street,3.0
+625,789,Independent,789,51.075912,-114.071308,Gastropub,4e037fc918a819eb596797a2,aByEXqPlzfOqXn0B5mH6Hg,4th Spot Kitchen & Bar,4.0
+626,196,Independent,196,50.968142,-114.07206399999998,Wings Joint,50170699e4b0dd18ede3bd17,qQjrsGBmpJ56HylhLyP3pA,Buffalo Wild Wings,3.5
+627,1076,Independent,1076,51.044375,-114.088039,Karaoke Bar,4e460329ae60fa7232eeac50,PjDFzs0J9oB7052yfooGXA,Music Calgary,3.5
+628,453,Independent,453,51.032362,-114.0708,Bakery,4b4a2bbbf964a5203c7d26e3,w-g5Wxqt7iYPS6ixx_dZRw,Yann Haute Patisserie,4.5
+629,1035,Independent,1035,51.077457,-114.130182,College Library,4bf6b97c92d195217fe0591f,u7iS2ATnqftp2Cx_ejUqRg,Taylor Family Digital Library,3.5
+630,631,Independent,631,51.159565,-114.06714,Gym,4b0586f0f964a520127722e3,rM0Z-G5WuJ-8bGK7PtRkzQ,Vivo,3.0
+631,2217,Combined,115,50.95671,-114.070407,Coffee Shop,4b46973ef964a520162526e3,FhVj6jp8CIWPosdSXuJReQ,Starbucks,4.0
+632,2300,Combined,689,51.125627,-114.19883100000001,Italian Restaurant,4b56582cf964a520710c28e3,NAgoWG7WcFmQ3fwEu8q9Bg,Chianti Cafe & Restaurant,3.5
+633,230,Independent,230,50.985564000000004,-114.03308799999999,Automotive Shop,4b23c27bf964a520355924e3,l_Qm65fTDdK-jR5DMR_BSw,Calgary BMW,4.0
+634,898,Independent,898,51.080358000000004,-113.992659,Toy / Game Store,4b2eaa0cf964a52092e424e3,lCVnsj9mq-RkqlNFRies4g,Toys R Us,2.0
+635,334,Independent,334,50.987726,-114.04636200000002,Furniture / Home Store,4cbf6aa4acd48cfac57d433f,lcuBjnszW0bDn8O0aha_Fg,Home Outfitters,1.5
+636,486,Independent,486,51.040405,-114.07144199999999,Middle Eastern Restaurant,4c6c317523c1a1cd50e118cf,grWkiJvkvKWBwPXikN-LgQ,Pho Daddy,4.0
+637,844,Independent,844,51.062559,-114.000294,Automotive Shop,4b6c2ba8f964a5207a272ce3,4HumitPjf9wG64pDraNjyA,Fifth Avenue Auto Haus Volkswagen,2.5
+638,823,Independent,823,51.053093,-114.04133,Salon / Barbershop,4d56d623cf1b3704aefbc33f,EvqOkXYVceidPaUksqdR8g,MVP Modern Barbers,4.0
+639,274,Independent,274,51.022583000000004,-114.114776,Coffee Shop,4b5632e5f964a520ed0428e3,lob6sqqjW0sTYC1a0lxb9A,Starbucks,3.5
+640,555,Independent,555,51.03971,-114.09445900000001,Coffee Shop,4b2ed92ff964a5206ee724e3,CTp7vBaWqwpYRWBHFblnuw,Starbucks,3.0
+641,233,Independent,233,50.978442,-114.041895,Vietnamese Restaurant,4b268859f964a520fd7c24e3,Xc9g9DgNti4UnBNYvIPFZA,Le's Pho,3.5
+642,546,Independent,546,51.039746,-114.089221,Deli / Bodega,4ccc82e2ee23a14359a71fa8,_OGFKkVRuV8wVKyaeps2Fg,Myhre's Deli,4.0
+643,2210,Combined,1043,51.085275,-114.125805,Coffee Shop,4c82aabf309aef3b6200c481,zUEArXj81jpVOfbe96Bhww,Starbucks,3.0
+644,346,Independent,346,51.016311,-114.039193,Casino,4c4a333d9c8d2d7fa3272d69,tOQ-MlKCdLB1wna0m6lsfw,Century Casino Calgary,3.0
+645,56,Independent,56,50.900786,-114.06696799999999,Department Store,4b64ab3df964a5200ac72ae3,YtG4UEr8hfQ1QJR857nOyw,Lowe's,2.0
+646,2301,Combined,332,50.98744600000001,-114.04546299999998,Pizza Place,4b6ca19bf964a520f4472ce3,wT7E0D8i9zJAKM2xDn8ygw,Boston Pizza,3.0
+647,207,Independent,207,50.980206,-114.07567,Bar,4b0586e9f964a520947422e3,hiFa3avDSwpdpKbQKRAYgw,Atlantic Trap & Gill Pub,3.5
+648,368,Independent,368,51.011965000000004,-114.06489599999999,Nightclub,4b0586e9f964a520bb7422e3,u1nq5rp4JeUuCZ3veuEuWQ,The Back Alley Night Club,2.5
+649,2101,Combined,652,51.141588,-114.068418,Coffee Shop,4b48e2b9f964a520ba5b26e3,I1o264uHDv4OhYH2ZhS_bQ,Tim Hortons,2.5
+650,2213,Combined,7,51.04237,-114.13913000000001,Coffee Shop,4b5241a8f964a520197327e3,m6NoSrr-XhUu3WO3d88Mlg,Starbucks,3.5
+651,883,Independent,883,51.077565,-113.989935,Hardware Store,4b4f9d73f964a520a90d27e3,MBs2gCAN10240RyryZOKcw,Rona Home & Garden,3.0
+652,880,Independent,880,51.075445,-113.99091299999999,Bookstore,4b0ea62ff964a5204d5923e3,H5G0QeMMKOf_z3sz9V4jzw,Chapters,4.0
+653,2221,Combined,70,50.904317999999996,-114.067751,Fast Food Restaurant,4b64b88bf964a520f8ca2ae3,aDM-RChd6tel-EH84Z9crA,Burger King Restaurant,2.5
+654,972,Independent,972,51.052448,-114.08778400000001,Wine Bar,4cd203f87b6854816685caf8,N8SM0gAAconqpqDb5fngTQ,Winebar Kensington,4.0
+655,1034,Independent,1034,51.076910999999996,-114.12814399999999,Coffee Shop,4b4e0c01f964a5207cdf26e3,PQUx2GMFU__9a77wsVhXRw,Good Earth Cafe,2.5
+656,2221,Combined,72,50.904934000000004,-114.06508000000001,Burger Joint,4b79f886f964a5201d1d2fe3,OrqoZmo6ry1elu-ZJyn-Lg,A&W,4.0
+657,2300,Combined,695,51.129205,-114.199481,Bank,4d6d1a15cf7e41bd59ad8285,z_eOJf-ozJyFN6SIfA65kA,TD Bank Financial Group,3.5
+658,419,Independent,419,51.04368,-114.064706,Pizza Place,4b7ef6a9f964a520bb0c30e3,6d_pYeKBfcLaddFmRTaY2g,Michael's Pizza,4.0
+659,1132,Independent,1132,51.045406,-114.059432,Concert Hall,4b0586ecf964a520d97522e3,6ars_4bkkFdDnfgn0pMjlQ,Arts Commons,5.0
+660,311,Independent,311,50.991294,-114.071055,New American Restaurant,4b102122f964a5209c6923e3,0ATtexYR5RAgenltFpb2RQ,Cactus Club Cafe,4.0
+661,722,Independent,722,51.085204,-114.208229,Hotel,4bc41dc32a89ef3b86eff588,W7QOR9r7mm6ak3DURkSwxg,Sandman Hotel & Suites Calgary West,3.0
+662,148,Independent,148,50.929924,-113.960676,Hardware Store,4ced75a894b99eb008c11f56,C2dkjLiuorLelY9w_GDRkA,Lowe's,4.0
+663,661,Independent,661,51.138217,-114.157776,Coffee Shop,4b630fe4f964a5207a602ae3,sL3D-KN90Uke32IN5VceCA,Starbucks,4.5
+664,1114,Independent,1114,51.045904,-114.075429,Pub,4b15aed3f964a52071b223e3,QajgUxt72fBco_go-EyUNA,dtf downtownfood a modern Bistro on 8th,4.5
+665,572,Independent,572,51.039656,-114.08178899999999,Ice Cream Shop,4b874e5ef964a520f2ba31e3,_XD4jll0b0sMcSvlqYzIUA,Dairy Queen,2.5
+666,2204,Combined,745,51.099291,-114.14453700000001,Electronics Store,4b6b1819f964a52061f22be3,k0js95SW4Gzj7EFVCQgDuA,Best Buy,3.0
+667,1120,Independent,1120,51.047895000000004,-114.075952,Karaoke Bar,4b9c8c77f964a520916f36e3,RHdxqYdz_I0Rbt6RiChcbw,Nanta Karaoke & Bar,3.5
+668,301,Independent,301,50.987241999999995,-114.070371,Thai Restaurant,4b638c62f964a5209e822ae3,HmuaoznPv3CyCRnYrfKiXw,Thai Nong Khai,3.5
+669,550,Independent,550,51.037964,-114.092554,Tapas Restaurant,4b15ef30f964a520d1b523e3,FdwJRs1DrrmhmLUNWa7UzA,Khao San Thai Kitchen,4.5
+670,2206,Combined,855,51.053737,-113.97864799999999,Department Store,4b0f2348f964a520925f23e3,NUKUx8epomYnXreVAX6wIA,Walmart,1.5
+671,988,Independent,988,51.070807,-114.117002,BBQ Joint,4b4a7d33f964a5201a8926e3,fSFbPfq35Kn5SOIc87OXSA,Big T's BBQ & Smokehouse,3.5
+672,974,Independent,974,51.052493,-114.087797,French Restaurant,4d8cdd02fa9437044298dac5,OnLY21kYfRrJrWcE8zuU_A,Brasserie Kensington,4.0
+673,541,Independent,541,51.037997999999995,-114.08771200000001,Pizza Place,4c689ece428a0f47dd8d001b,i6IwLa77KFAJ8ZhAdK6u6w,Boston Pizza,2.5
+674,2301,Combined,237,50.979467,-114.04357900000001,Furniture / Home Store,4bff144c68c7a5937a2e4044,dcI1yv54bHawJ7EFa4qJug,EQ3,3.5
+675,935,Independent,935,51.098045,-114.051229,Flower Shop,4bccd5b80687ef3bf6fddfcc,UfMyADE4CU2LDBnMjUNPkQ,Golden Acre Home & Garden,4.5
+676,2105,Combined,1140,51.045485,-114.06413700000002,Art Gallery,4b0586eaf964a520127522e3,DStH_CTNwrI6p1TOsYbUxw,Art Gallery of Calgary,2.5
+677,2205,Combined,850,51.061489,-113.98096799999999,Vietnamese Restaurant,4c5388e972cf0f470b16ffd2,itCmUwEvcuN0fNVD_6BYGw,Pho Xuan Restaurant,3.5
+678,1089,Independent,1089,51.047395,-114.083451,Breakfast Spot,4b0edcf3f964a5200f5c23e3,nUV77I-zinhLWWz5azNKLw,Al-Qud's Kebab House & Cafe,4.5
+679,225,Independent,225,50.984589,-114.01494699999999,Grocery Store,4b524e54f964a520257627e3,SIVXdG-ndtVcMUUpiX32rQ,Safeway Food & Drug,3.0
+680,754,Independent,754,51.04522,-114.142269,Automotive Shop,4c154c55a5eb76b0e921c3b7,-FRCGEz-NTsnhuITT5pYqg,Mr. Lube,2.5
+681,2103,Combined,1165,51.052919,-114.069327,General Entertainment,4c641780eb82d13a686609d6,XgYXVUcLIZ_dTVyWoLgFuA,Emilio's Humidor,4.0
+682,2105,Combined,1231,51.046305,-114.06666799999999,Juice Bar,4b54744df964a520d1bb27e3,aThuSeCuuUJsCKqRc-37OA,Booster Juice,4.5
+683,610,Independent,610,51.130098,-114.01157099999999,Burger Joint,4f7e3e13e4b0a4349a5484c4,k6XfNmcRsA1iNNgqTinUsA,A&W,3.0
+684,632,Independent,632,51.161653,-114.06863999999999,Grocery Store,4b5f5e4ff964a5206db629e3,Lym87uviWo9ieODU0qB1Xg,Real Canadian Superstore,3.0
+685,2220,Combined,162,50.932382000000004,-113.96278000000001,American Restaurant,4b4fbe3cf964a520981327e3,U9ohbmQ_4OJN9NRFFeOkSw,Swiss Chalet Rotisserie & Grill,2.5
+686,2300,Combined,698,51.129615,-114.200753,Salon / Barbershop,4b79a1a8f964a520db062fe3,RHyLwHtmAXreEZvzh8SCRw,Edges Salon & Spa,2.0
+687,81,Independent,81,50.914285,-114.07331200000002,Coffee Shop,4b450931f964a520040226e3,BO31LTfqktTyoKq2-KPlGQ,Starbucks,4.0
+688,462,Independent,462,51.033929,-114.071244,Sushi Restaurant,4b662428f964a520f1152be3,6xR9_NqGSWfzl3PWYV9Idw,Towa Sushi,3.5
+689,2217,Combined,119,50.958686,-114.070402,Toy / Game Store,4c41e87ad7fad13ae43d08da,KDfDkdPbH7PZUA3Cvrl4ug,Toys R US,2.5
+690,1131,Independent,1131,51.045657,-114.06033799999999,Italian Restaurant,4b0586eaf964a520157522e3,BGX5dWkh-0jl4_wpSaWtbg,Teatro,4.0
+691,879,Independent,879,51.07532,-113.991147,Coffee Shop,4bab797ef964a5202cac3ae3,g22Dcq4kPKVs3lxutUYSnw,Starbucks,2.5
+692,1116,Independent,1116,51.045746,-114.07423,Coffee Shop,4b0d5008f964a520204623e3,zs3V4WqtYVMhIoycEeirRA,Second Cup,4.0
+693,347,Independent,347,51.016318,-114.045717,Sandwich Place,4bbccb98a8cf76b0f1f6b0fd,EwhNAsRmDL-D6wpldldf0w,Subway,2.5
+694,973,Independent,973,51.052488000000004,-114.08811100000001,Bar,4b0dd65ff964a520125123e3,jQrJQuPf1Sj6RfaUKdun4w,Container Bar,4.0
+695,1023,Independent,1023,51.064428,-114.13401200000001,Hospital,4e4c26a1d22d10a6c5c7ab52,Vw45gKgB5LFxzHXVfU0Jug,Foothills Medical Centre,3.0
+696,599,Independent,599,51.129438,-114.008775,Coffee Shop,4b55dc51f964a52059f327e3,Ed1oRdyCpIRvmuf_K0aaFQ,Tim Hortons,2.5
+697,803,Independent,803,51.05585,-114.085447,Grocery Store,4b402cb4f964a5208fb625e3,VX6NTwT4OpUw0jfKeeVRxQ,Safeway,3.5
+698,2209,Combined,999,51.082869,-114.155258,Sporting Goods Shop,4b0586eff964a5209f7622e3,i7058kWL-s9Gx26xZq3Qow,lululemon athletica Market Mall,2.5
+699,890,Independent,890,51.077457,-114.003429,Hotel,4b9011ddf964a520af7333e3,GFqB08cKHVnO4LWgwIQfDw,Executive Royal Hotel,4.0
+700,2202,Combined,618,51.156898999999996,-114.157028,Pet Store,4b9d5f9af964a520c0a736e3,kuYIbHULqhvoAE-x8SHB5Q,PetSmart,4.0
+701,2300,Combined,678,51.123311,-114.197722,Vietnamese Restaurant,4d5716fd143ca093f0cdc3fc,sVxwIvPhari07dmjJx7bjQ,Pho Huong Viet Noodle House,4.0
+702,907,Independent,907,51.08202,-113.989727,Electronics Store,4b538d21f964a520d0a127e3,KxGh3Nqszq0V2yOwKuI5dw,Memory Express,3.5
+703,1075,Independent,1075,51.04593,-114.09033600000001,Skate Park,4b7b77d3f964a520b5642fe3,UFhAnGd-0QpTloBxPsnb5A,Shaw Millennium Park,4.5
+704,2105,Combined,1148,51.044748999999996,-114.066571,Restaurant,4bedec632c082d7febbe2f42,RfU0M_Gizdx3HS3Rf6O-rg,Plowshare Artisan Diner,4.0
+705,281,Independent,281,51.023057,-114.09518,Bar,4d42783689c3a143d1e4f883,N8SnxKMsR-eDdu-dX0Krvw,The Trop,3.5
+706,181,Independent,181,50.950586,-114.002365,Vietnamese Restaurant,4d68031b2433a143a8ad53e0,llF6C8YmWYf_lalHnz7D1A,Spring Vietnamese Cuisine,3.5
+707,1032,Independent,1032,51.076203,-114.13260700000001,Hotel,4b8db950f964a520a90a33e3,GvsIq6V_QJqRxdIznJmGmw,Hotel Alma,3.5
+708,398,Independent,398,51.040787,-114.032991,Vietnamese Restaurant,4b08bdedf964a520b21123e3,4l4eave0r5UiHlhdlUJKCw,Minh Chau Vietnamese Restaurant,3.0
+709,343,Independent,343,51.01173,-114.04968000000001,Miscellaneous Shop,4ea6d4b7722e2c16d329f7bb,wXF-p0LgCKHWPWUdpp3Ong,Handy Luggage,3.0
+710,2219,Combined,88,50.930211,-114.02821499999999,Grocery Store,4e4d75186365c17604da966c,XaL-KFkk49j29C9ZYbJiSQ,Walmart,3.5
+711,970,Independent,970,51.052541,-114.08948999999998,Indian Restaurant,4b0586ebf964a5208f7522e3,arLKq73wrUREFYl9VEvKFA,Maurya Authentic East Indian Cuisine,4.0
+712,199,Independent,199,50.969398,-114.073407,Sports Bar,4b0586ebf964a520667522e3,mR25wU5IXh715lPYOFdgaw,Schanks Sports Grill,3.0
+713,1092,Independent,1092,51.048588,-114.082774,Vietnamese Restaurant,503fab2ce4b07a36221a784d,awjEi5r_zH_Colz-P7DnNg,Express Vietnamese Subs and Deli,4.0
+714,2102,Combined,1264,51.045993,-114.070001,Boutique,4b675b21f964a520044a2be3,nYyqmMUmLPoZbPfHw9Tmjw,Papyrus,4.0
+715,513,Independent,513,51.037955,-114.075503,Pizza Place,4b6cd14af964a520a6562ce3,GGxnlrfvWy7LFvjN5z_z3w,UNA Pizza + Wine,4.0
+716,2301,Combined,333,50.987536,-114.044606,Coffee Shop,4b7ed40af964a520810230e3,0HqFFuuTofNQk_IKUmQ6LQ,Tim Hortons,5.0
+717,540,Independent,540,51.03769000000001,-114.08783600000001,Pub,4b60dceef964a52056fe29e3,ZYvtoO7Ge1_PRLVvpxMGyA,Watchman's Pub & Eatery,3.0
+718,1247,Independent,1247,51.046259,-114.071876,Accessories Store,4b8aeffef964a520338a32e3,q3u0ee5C3fpuyXQNclwG8Q,Louis Vuitton Calgary Holt Renfrew,3.5
+719,573,Independent,573,51.04023400000001,-114.081903,Salon / Barbershop,4f5653596d867df51720ff33,JcR-zY-wT42QWsD3f5NzRA,Edges Salon and Spa,3.0
+720,1024,Independent,1024,51.06901,-114.128455,Coffee Shop,4babf530f964a52038d93ae3,yvtIchBAhau_b7CQ2DyycA,Tim Hortons,3.0
+721,2203,Combined,646,51.15501,-114.06779099999999,Asian Restaurant,4ef92e34d3e354f0beab141b,RwZxc7vqYGOj99K1CYildQ,Ginger Beef Bistro House,4.0
+722,2215,Combined,30,51.019295,-114.168861,American Restaurant,4ba3d4f8f964a5205a6438e3,JQx13j6R4t1J7YQaO_M0YA,Phoenix Grill,3.0
+723,1027,Independent,1027,51.069532,-114.13108600000001,Bakery,4bf85d225ec320a13ca988d3,nrndvl-8TCoBwE4T1fkQTg,Cob's Bread,4.0
+724,2212,Combined,640,51.155082,-114.057753,Grocery Store,4bc65860db8fa5936a3e9c37,uo7y7aiYXogfff_68TG9qw,Sobeys,2.5
+725,1086,Independent,1086,51.047742,-114.08604199999999,Chinese Restaurant,4ca389771ee76dcb6d25fadd,bN0ybSLahh632YNgXXrp6w,Ssome Pocha,3.5
+726,793,Independent,793,51.065968,-114.06276000000001,Hobby Shop,4c1c09a3eac020a12fe845c2,oQYyNOOErfAsofuDAv8utA,Don's Hobby Shop,4.0
+727,774,Independent,774,51.056396,-114.094707,Pizza Place,4ff371fde4b04840319d672b,dB0MPu_DmFVoju48mIXx6w,Aladdin Donair & Pizza,3.0
+728,767,Independent,767,51.05706,-114.06033500000001,Park,4dc1e3fd1f6ebdce471d1927,Q7wUTWOZno5HzeG0DsvuDQ,Rotary Park,4.5
+729,537,Independent,537,51.03787,-114.08590500000001,Doctor's Office,4b9183c9f964a5202ec233e3,SSlVO-9qMudIzTDWpxeRfQ,Mount Royal Medicentre,2.5
+730,312,Independent,312,50.992043,-114.07077,Steakhouse,4b0586e7f964a5202f7422e3,e0Wa-Y91053yd7okv-9_-A,Smuggler's Inn,4.0
+731,3,Independent,3,51.040006,-114.20841399999999,Medical Center,4e1f4752d4c0fc6e34412ab6,Bzzv9b3ReldsvC6sLms50g,Kherani Dental at Aspen,5.0
+732,1099,Independent,1099,51.046065999999996,-114.07884399999999,Bar,4b0586e6f964a520d67322e3,Z4dpa57ch2R8ya1baF36iA,Ceili's on 8th Modern Irish Pub,2.5
+733,644,Independent,644,51.148759999999996,-114.07181299999999,Burger Joint,4b4b8226f964a5207f9e26e3,pb4eb79yDwlH8q2rWOO8cg,McDonald's,2.0
+734,2106,Combined,153,50.930490999999996,-113.97223899999999,Sandwich Place,4ce99b0e678aa093012eefea,VemaMmbrjnhDsU8Zqh7iKg,Chachi's,4.0
+735,374,Independent,374,51.014676,-114.06456299999999,Snack Place,4f542421e4b0195da5be559d,FnRLbAYaQTYQEXHuUTmwMA,Hot Point Fusion Cafe,2.5
+736,1216,Independent,1216,51.044746,-114.063229,Hotel,4bc333cddce4eee1dd7c719d,IiUbtsMUbswJds4gS1VoPQ,Central 899,3.5
+737,1133,Independent,1133,51.044682,-114.058792,Theater,4b0586ecf964a520d87522e3,VxhP5fA7QT17BCaGfrQsVw,Max Bell Theatre,4.0
+738,1077,Independent,1077,51.044058,-114.08807,Nightclub,4f90f2dde4b042e661ccf666,ZLtPwHe_bXgIlZZMx6W_FQ,Lips KTV & Club,2.5
+739,556,Independent,556,51.039885999999996,-114.093424,Laundry Service,4deaa89952b11677f0424d8c,nXxe8rS0Qo1w2AtFDJsU1g,Wild Rose Cleaners,5.0
+740,505,Independent,505,51.037211,-114.071766,Doctor's Office,4edfd1fc8b81340ef176ae37,z5A5He4vSnlr0mqxlPBHVA,Pure Health Chiropractic,2.0
+741,731,Independent,731,51.105789,-114.163449,Pizza Place,4b8089d0f964a520157b30e3,JuSWoa4QkIbhDGYwNeE3yQ,Boston Pizza,3.0
+742,807,Independent,807,51.051161,-114.050789,Coffee Shop,4b312a8af964a520980125e3,GW9xeVcb7Wq6MOTl3nRt2g,Starbucks,2.5
+743,2211,Combined,1066,51.066156,-114.09869599999999,Women's Store,4ba53957f964a52032ee38e3,XXablUCyjo6VQbhe_KsD6w,Crimson Lingerie,3.0
+744,2214,Combined,37,51.01660800000001,-114.167202,New American Restaurant,4b06e842f964a520b4f222e3,CEz-iyFJ8GvPt0DQtWjuKA,Earls Kitchen + Bar,3.5
+745,821,Independent,821,51.05327800000001,-114.044797,Diner,4e4a98cb62847afcaf180933,7DjrTaEIa-7x3o-Trp2Htw,Blue Star Diner,4.5
+746,2106,Combined,150,50.929684,-113.96995600000001,Miscellaneous Shop,4b79a08ff964a5207b062fe3,igLkaSldu54RrpYa07sKZg,Dollarama,4.0
+747,812,Independent,812,51.06713900000001,-114.05381799999999,Pet Store,4f9c61cfe4b04dce450cbfd9,GdFfAVQMS3RjvCfAcySR0A,Especially For Pets,3.0
+748,1184,Independent,1184,51.049365,-114.069418,Bar,4fc53a9be4b0d6790edafada,kJyVvFj0Jl1lS2Z7mi9pJw,Spur Gastropub,3.0
+749,1189,Independent,1189,51.049523,-114.058828,Government Building,4c5ac15e6407d13af858b528,JxuqRDBDEHtYg0WjggljLQ,Passport Canada,5.0
+750,292,Independent,292,50.984176,-114.072846,Caf,50895ab2e4b06cb69f8a69d4,cK7zYPzoXcVH040Cc7SjbA,Glowing Hearts Coffee Company,3.5
+751,824,Independent,824,51.052985,-114.040632,Coffee Shop,4b203f6ef964a520512f24e3,IW7B-Y_Gb5EmDUgsg69MWA,Starbucks,3.0
+752,2102,Combined,1260,51.044768,-114.068525,Food Court,4c52e48ad797e21e19043d7e,Xg7p05cS9RpKvfUu4SlN7A,Orchid Room Fusion Cuisine,4.0
+753,800,Independent,800,51.061631,-114.062808,Middle Eastern Restaurant,4efcba276da1f9b9d8c05dd8,LqwetQnLsQiqPMc61AlnSQ,Quesada Burritos & Tacos,3.0
+754,2211,Combined,1065,51.065961,-114.102001,Candy Store,4d838c6761676dcbbeec5de4,lVOMAemPoOrCw9NND2KK1A,Purdys Chocolatier,4.0
+755,882,Independent,882,51.077023,-113.992737,Automotive Shop,4b97c0fff964a520821335e3,_VVZOr14vERGnUN6XNaT5g,Carstar,2.0
+756,1152,Independent,1152,51.048284,-114.063997,Coffee Shop,4b8c1c86f964a5209cbe32e3,1uBhQ2QQnNSxyxRwcxvcjg,Starbucks,4.0
+757,2200,Combined,577,51.15063,-114.213462,Medical Center,4bd75c35e914a593690e51fa,hP5eFtBZYEPZvTVfi078tw,Royal Oak Veterinary Clinic,4.5
+758,2104,Combined,1225,51.045548,-114.0631,Seafood Restaurant,4b0586ecf964a520ae7522e3,M-snICZb3eYacdvMJIKM5w,Catch Restaurant and Oyster Bar,3.5
+759,838,Independent,838,51.067913,-114.012891,Breakfast Spot,4b6407e2f964a5200c9c2ae3,0X8G5_wbBtzwUlxonHdplA,Denny's,4.0
+760,341,Independent,341,51.010553,-114.047853,Coffee Shop,4b4cf0eef964a520f9c426e3,hZS0rgnRKDLEV-WNsiriEA,Tim Hortons,2.0
+761,712,Independent,712,51.060875,-114.181071,Doctor's Office,4d9f2707fca1b60c0bdfb750,ujKUiKa1RUbKcx_1vmdPUg,Coach Hill Chiropractic & Sports Therapy,5.0
+762,2203,Combined,647,51.154709000000004,-114.06729299999999,Bank,4cf42d41899c6ea8bd5effc1,TUcAzl9y2_pxuXpUZaS4YA,CIBC,1.5
+763,924,Independent,924,51.094935,-114.000651,Restaurant,4b0586ebf964a5206f7522e3,Kgu-Ny8xoYtiUQp0wa7vwQ,Moxie's Grill & Bar,3.5
+764,881,Independent,881,51.076397,-113.990268,Vietnamese Restaurant,4c706390344437048218245f,iyhqcjFPTw95YiKucXJxXA,Pho Tai Vietnamese Noodle House,3.5
+765,313,Independent,313,50.992295,-114.070853,Brazilian Restaurant,4bd7626935aad13a8fc58ef3,vojNs1KQCT34dUR-r-xNqw,Bolero,3.5
+766,474,Independent,474,51.037408,-114.06075200000001,Casino,4b0586ecf964a520d67522e3,dkYxm9XJ0jKQ1LcuI829tg,Elbow River Casino,3.5
+767,493,Independent,493,51.037655,-114.067302,Nightclub,4c37e58b2c8020a14ffd8900,uaHtyj5Yz_lA8HjbCRrKCg,Republik Nightclub,3.0
+768,557,Independent,557,51.040054999999995,-114.09436299999999,Liquor Store,4bca372c3740b713025a6065,DgHRNV-yjV9glCfKbsBVNA,Crowfoot Wine & Spirits,3.5
+769,619,Independent,619,51.165054999999995,-114.071074,Pizza Place,4bc405ccb492d13ab496a960,xNSWOgUrAl902-6WexprxQ,Little Caesars,3.5
+770,205,Independent,205,50.978528999999995,-114.070049,Drugstore / Pharmacy,4b74d77ff964a520d0f42de3,Au37Yu1drieOA9zanQ1l4Q,London Drugs,3.5
+771,521,Independent,521,51.037976,-114.07922099999999,Coffee Shop,5095981fe4b03898b0255afe,Wxt2kWy9lj5eRxIO469reA,Analog Coffee,4.0
+772,551,Independent,551,51.038074,-114.09396399999999,Fast Food Restaurant,4b3b654af964a520487325e3,xOI8VOlX_ZQRrS-CXbXZag,McDonald's,2.0
+773,24,Independent,24,51.017024,-114.16145700000001,Drugstore / Pharmacy,4cbcc3b5d8e9bfb7394ad6d2,28vLnZjjGnNyL2oDIE7ptA,London Drugs,3.5
+774,1153,Independent,1153,51.047992,-114.064374,Asian Restaurant,4c6439b039732d7f4e2cd4fe,jYMvoY6jsZ8w-zL7SoiVRQ,Omi Japanese Food,3.5
+775,960,Independent,960,51.052454,-114.095274,Veterinarian,4b6dc58af964a5205a8e2ce3,KHjBGlxkrTl5n1o4xM_jkA,Westmount Animal Clinic,4.0
+776,906,Independent,906,51.077088,-113.982871,Medical Center,4b6f17f1f964a52077dc2ce3,YLcX-iimEe5Zzx4FAp8r2A,Northeast Calgary Women's Clinic,3.0
+777,206,Independent,206,50.980585999999995,-114.06969699999999,Furniture / Home Store,4e5150f8ae6051db8de68748,Nlos2odufmFXNEMBrmIFCw,My Sewing Room,4.0
+778,125,Independent,125,50.962191,-114.072686,Beer Garden,4b0586e7f964a5202b7422e3,N7v9YxruJO2PfoSwtlHYWg,The Black Swan Ale House,3.0
+779,715,Independent,715,51.06146500000001,-114.210348,Gourmet Shop,502aded6395077dd8eaa08cd,kBaq5EQRQSUD57HDBWM8KQ,Blue Door Oil & Vinegar,4.5
+780,2211,Combined,1063,51.065954999999995,-114.102202,Mexican Restaurant,4dab3db193a04642f0917a8c,w8o8Q4grcp42qldVZUd9ug,Chili's Texas Grill,2.0
+781,296,Independent,296,50.984066,-114.07283899999999,Indian Restaurant,5013fa06e4b035d9f47714ae,2MV0BXsvhPpVgICk9BCktQ,Pranzo Italiano,4.5
+782,66,Independent,66,50.904635999999996,-114.05874399999999,Burger Joint,4f89c001e4b0e6f348d5f856,U74_l5OAUVFPKzY4VUtDbw,OPA! of Greece Sundance,3.5
+783,186,Independent,186,50.96098,-114.10568700000002,Ice Cream Shop,4b3fcf39f964a52056af25e3,GL-I6Vj7pAF8dCY2Q0-nfQ,Dairy Queen,1.5
+784,2206,Combined,862,51.054932,-113.982497,Steakhouse,4c81d70551ada1cd433e1710,Ty3iMS873l8R7lZp0BhJSg,The Keg Steakhouse + Bar - Marlborough,3.5
+785,810,Independent,810,51.067132,-114.067899,Vietnamese Restaurant,4bb9345e53649c74fad747fb,3hTJQaO4xegY59JX42z2Pw,Van Son Vietnamese Cuisine,4.0
+786,1218,Independent,1218,51.044533,-114.063019,American Restaurant,4b2836ecf964a520019124e3,bwpvo0hDKzHzZoak0vFqBQ,Ruth's Chris Steak House,4.0
+787,643,Independent,643,51.148395,-114.07269099999999,Gas Station / Garage,4baa7ec5f964a520f16e3ae3,SeP1hWQd8HazBm1n5ofAVw,Petro-Canada,2.5
+788,96,Independent,96,50.939772999999995,-114.06882399999999,Automotive Shop,4df3969baeb7170aa2f17efd,XKBtcpHa41mBwHFedpFf7Q,Clearwash,3.0
+789,664,Independent,664,51.10050800000001,-114.20724799999999,Dog Run,4bae8707f964a52004bd3be3,_6xPNxvTY6nIKc-aW-Vdug,Bowmont Off-leash Area,4.5
+790,528,Independent,528,51.037695,-114.082223,Electronics Store,5064b0f1e4b0512b92d0ea47,A4FwNRNm6Hqe6salELKMxw,Best Buy,3.5
+791,2211,Combined,1061,51.066212,-114.10203,Juice Bar,4d7d172a136bf04d76e46a8d,vUbVrhkSpy3ZwBMmry_E4Q,Jugo Juice,4.5
+792,1154,Independent,1154,51.049414,-114.06614499999999,Hotel,4b0586e6f964a520a07322e3,HRDtZtl6HqxNwqgc8NkNDQ,International Hotel Suites Calgary,3.5
+793,0,Independent,0,51.041259000000004,-114.21339499999999,Grocery Store,4b5b746ff964a52046ff28e3,hmcsl0vERvwvYUiWuNVKxg,Blush Lane Organic Market,3.5
+794,261,Independent,261,51.036851,-113.98881399999999,Grocery Store,4ecbf302b8f7782ab8622564,QYM3TEk-YtOpWLaHrQFRkA,Hong Kong Food Market,4.0
+795,2214,Combined,38,51.016069,-114.167426,Fast Food Restaurant,4b9adb33f964a520a2dc35e3,BD0fn4LZ97TT485jUPFjww,KFC,2.0
+796,383,Independent,383,51.03183,-114.043502,Caf,4b118d01f964a520187f23e3,9nNkpfDhSeUbskJSxaHTjg,Rosso Coffee Roasters,4.5
+797,1147,Independent,1147,51.044523999999996,-114.066528,Sushi Restaurant,4b917826f964a520e8be33e3,NhEf4G4gO-RZNUHWSVeqoA,Sukiyaki House,4.0
+798,227,Independent,227,50.987863,-114.02973700000001,Automotive Shop,4cd8a77b7bb06dcb88e0a3b2,TJGfIexZnON83nHOowhaog,Brasso Nissan,3.0
+799,1191,Independent,1191,51.050694,-114.060474,Vietnamese Restaurant,4b0586ebf964a520457522e3,b2gSNZj5MFCsfse0cO0CXg,Thi Thi Vietnamese Subs,4.5
+800,2216,Combined,323,50.99793,-114.07306200000001,Thai Restaurant,4c2e4bede116e21e14189060,xkl5Q1EyUfrJ1o47aEv0qw,Thai Express,2.5
+801,46,Independent,46,50.876159,-114.037555,Gastropub,4ed3ab64775bbb5f36adc484,OA43IaMhSH0kiuw_2JbzAA,Windsor Rose,3.0
+802,2105,Combined,1138,51.045609000000006,-114.06480800000001,Miscellaneous Shop,4b525298f964a5202d7727e3,ngC7rZx9PixzeDuslKgTCA,Winners,3.0
+803,2204,Combined,751,51.101393,-114.14237,Restaurant,4b513936f964a520ea4727e3,Qzi-dTdVU8tevAqXPQcUvA,A&W,3.0
+804,937,Independent,937,51.09693,-114.049605,Automotive Shop,4b83f460f964a5203c1831e3,eDh9Ld8xZ0z_w7CDC79K4Q,Varsity Chrysler Dodge Jeep,3.0
+805,2211,Combined,1057,51.066232,-114.101611,Drugstore / Pharmacy,4b933e1af964a520f33c34e3,oCGzEJPzppQ1Rc1iEPvFwQ,Shoppers Drug Mart,3.0
+806,798,Independent,798,51.060416,-114.06273,Coffee Shop,4b3a36dcf964a520606225e3,wr6FeOJIhED2lOsg5qPUsQ,Starbucks,2.5
+807,337,Independent,337,51.000658,-114.04658300000001,Comedy Club,4bbfdd5df8219c74b2d3b010,pKnvXvLVKuiT_OfotHZZqw,The Laugh Shop,4.0
+808,197,Independent,197,50.968512,-114.073149,Fried Chicken Joint,4fce9aa0e4b0ab736eb0d330,z459l58OyZF0P3xGHjjOZQ,Chicken on the Way,3.0
+809,892,Independent,892,51.080482,-114.002946,Diner,4b5c9711f964a520713829e3,hcNgeIo2TWyfzgkR0yG-BQ,Perkins Restaurant & Bakery,3.0
+810,564,Independent,564,51.041242,-114.081245,Vietnamese Restaurant,5009a11ce4b0ca8f7b654a19,iUNp-HdyIWcY3sl3IgU_Uw,Balo Vietnamese,3.5
+811,1252,Independent,1252,51.045652000000004,-114.072303,Italian Restaurant,50745ac6e4b06ca75c36b403,bLHkYNWd1ekJZVddTkekeg,Cucina,4.0
+812,1025,Independent,1025,51.069098,-114.13013899999999,Fast Food Restaurant,4ba13ebbf964a52084a537e3,mpvz3tEwmxaBiXnjW4rJFg,Wendy's,2.0
+813,2100,Combined,633,51.161141,-114.06341499999999,Salon / Barbershop,4ccb0f91511b236a2538e8c9,i0HwytgOsTbojbu9FxDF-g,Coventry Hills Barber Shop,3.5
+814,461,Independent,461,51.033724,-114.071301,Mexican Restaurant,504a96a0e4b006c4356d5036,kLTpxsoIhTaj1v6pYVyyiQ,A?ejo Restaurant,3.5
+815,626,Independent,626,51.165345,-114.12926399999999,Japanese Restaurant,4de19b1c8877bcb6863134ce,H9mHjdGNJpYN7yzgWR0yyw,Taiyo Japanese,3.5
+816,2218,Combined,108,50.953075,-114.06623200000001,Sporting Goods Shop,4ebdc18d0aaf6450b9c1d0ec,zkVRNvQn2_-B9PxXHkP7MA,Sporting Life,4.0
+817,2218,Combined,111,50.952317,-114.06641,Clothing Store,4c3c8e15282203bb3ba3fcda,n9Ct7lZjoPZNiyWSu80tWA,RW&CO.,3.0
+818,144,Independent,144,50.917196999999994,-113.96095600000001,Convenience Store,4b6f3edbf964a520cce62ce3,p8SFQVjvyM9o01ZTacXICw,Mac's,3.0
+819,2104,Combined,1228,51.045441,-114.063581,Restaurant,4b05d2b5f964a520f3e322e3,UPIkNPjHF2VH5wxmrn3Opg,Blue Vinny Diner,3.5
+820,602,Independent,602,51.130906,-114.008753,Hotel,4bc278a44cdfc9b6853d9621,APJSgC4eBluljg7eg55IVg,Delta Hotels by Marriott Calgary Airport In-Terminal,3.5
+821,860,Independent,860,51.05412800000001,-113.984742,Grocery Store,4b96a3cbf964a520aeda34e3,3-VNuBWX45rcQz5ZRK0scg,Safeway Food & Drug,4.5
+822,2103,Combined,1166,51.052368,-114.06846399999999,Electronics Store,4de561692271f377c29205cc,cJbZjH2cb8D8q9-Lhv7WjQ,iPhix,4.0
+823,338,Independent,338,51.000657000000004,-114.047205,Hotel,4b0586e6f964a520aa7322e3,2-rELedQm9rG-NLdBJzKfA,Hotel Blackfoot,3.0
+824,430,Independent,430,51.042674,-114.073479,Bar,4b0586e7f964a520017422e3,FiP3Kj0F1B-gmfzJ4-PKhQ,Maru Restaurant & Bar,3.5
+825,57,Independent,57,50.901576,-114.06763000000001,Mexican Restaurant,4b2beb03f964a520a4bd24e3,NqPwsLBzXeSKpn_ofotLMA,Mucho Burrito,4.0
+826,840,Independent,840,51.068484999999995,-114.01278799999999,Thai Restaurant,4f2c31a4e4b01c385e207629,DqSTQWhRU3WKdIN2b_Nzog,White Elephant Thai Cuisine,4.0
+827,380,Independent,380,51.014666,-114.062024,Miscellaneous Shop,4d2f24b65055a35d230799ca,AcIp9NE-lhFXP7MW9I-Nyg,Calgary Wood Products,3.5
+828,2211,Combined,1058,51.065942,-114.09868200000001,Salon / Barbershop,4ba64d92f964a5202a4439e3,x8Ia_x5_AUy_3hRUE5O8Gw,Angles Hair and Aesthetics,4.0
+829,2209,Combined,1009,51.085097,-114.15634399999999,Miscellaneous Shop,4b71f846f964a52074672de3,0XTd88KnsgcMb8K6XMWzUQ,Telus Mobility - Connect Market Mall,1.5
+830,265,Independent,265,51.014274,-114.000055,American Restaurant,4b490b2bf964a520646326e3,kbYUkCMetQ5YHPrABu4-Yg,Denny's,3.5
+831,2203,Combined,645,51.154484000000004,-114.06713700000002,Pizza Place,4bf32f0494af2d7f493d3972,tBpUgbxm7nVgd3inU3dB0A,Boston Pizza,2.0
+832,797,Independent,797,51.060497999999995,-114.06286399999999,Sushi Restaurant,4beb68de61aca593bb188500,iQgfvolk2BSkPKJjUoggqw,Maruju Sushi,4.0
+833,2216,Combined,319,50.99612800000001,-114.07385,Music Store,4b5b8573f964a520640429e3,udSsW2GUM3w2QI4hI9Uq9Q,HMV,3.0
+834,980,Independent,980,51.067388,-114.115219,Fast Food Restaurant,4b8db007f964a520c50833e3,lozSGa60Nf2nmINSBfHx8g,McDonald's,2.0
+835,480,Independent,480,51.04105300000001,-114.066056,Art Gallery,4bb00304f964a520ae313ce3,VWKS9tkpdw78J77SgPipLQ,Endeavor Arts Gallery & Event Space,5.0
+836,538,Independent,538,51.03763,-114.086623,Optical Shop,502d5954e4b06ef10cd9268a,MxAsbdwZPDhDsgQomQS0Uw,Eye on 17th,3.5
+837,342,Independent,342,51.011914000000004,-114.047726,Automotive Shop,4b4ceda0f964a52092c426e3,SdHzOf2o_0snrzrPnvCRSw,Blackfoot Motosports,2.5
+838,2209,Combined,1001,51.085383,-114.154344,Ice Cream Shop,4c9faf4803133704788674d5,DXR2ipGkgM68uVeusJPbSA,Marble Slab Creamery,3.0
+839,660,Independent,660,51.116039,-114.18054199999999,Pizza Place,4b9a5818f964a520a5ad35e3,0sx9I8JIdFyXghYDEEEZvQ,Al's Pizza & Steakhouse,3.0
+840,421,Independent,421,51.043365,-114.06743200000001,Furniture / Home Store,4daa1f7f43a1128196f0e0fa,LyFuza2sUOjV1Csd5753vg,Roche Bobois,2.5
+841,2301,Combined,247,50.985366,-114.04523700000001,Sporting Goods Shop,4b79a22af964a52008072fe3,WVZoI3BJMijOgitVtdSWJw,Wholesale Sports,3.0
+842,2216,Combined,358,50.999996,-114.07304599999999,Clothing Store,4d941d0ca93241bdc23449d6,3CoHXsCzSejNwMqNZLaoEA,Tory Burch,4.0
+843,1039,Independent,1039,51.088186,-114.13086899999999,Grocery Store,4b1d56bcf964a5200d0f24e3,QAiPUFl8nxvJ-3MMgrZ3bw,Co-op,3.0
+844,2210,Combined,1045,51.086936,-114.127394,Automotive Shop,4b71c257f964a520c85a2de3,-ELYTUGwrLaSMrhn1blTwg,Brentwood Coin Car Wash,2.5
+845,18,Independent,18,51.020986,-114.14456100000001,Car Wash,4b53988cf964a520f2a327e3,Bm-EdQouu6sZ6CcGvuEwRg,Western Pride Car Wash,4.0
+846,718,Independent,718,51.084282,-114.22143700000001,Athletics & Sports,4fb41fd4e4b0fbb02d5bb7c7,ZfPa8AdoVcvNaHrEVtgn1g,Markin Macphail Centre,3.5
+847,2213,Combined,9,51.040935,-114.136448,Pizza Place,4b9dc2fbf964a520c2bc36e3,_Snen3wsnwYtxlbWJtMl9w,Boston Pizza,2.5
+848,507,Independent,507,51.037941,-114.07276,Mexican Restaurant,4b0cca9df964a520dd4123e3,QSxoFIwUQojKDlUsToyqOw,El Sombrero,3.5
+849,497,Independent,497,51.037768,-114.070102,Pizza Place,4fd6b875e4b0b28c8719c3cf,U7RnIJ6HGjixl1VwRTH2RQ,Chicago Deep Dish Pizza,2.0
+850,894,Independent,894,51.081119,-114.00280500000001,American Restaurant,4b417578f964a520d7c625e3,P2pfWW_xpo3kfojN45fEaA,Earls Kitchen + Bar,3.5
+851,933,Independent,933,51.096802000000004,-114.054424,Breakfast Spot,4bc9381b3740b713d97e5e65,1D-5uvzEiTljiq69uSjWHg,Denny's,4.0
+852,2213,Combined,6,51.043904,-114.14018700000001,Theater,4b512308f964a520454427e3,IZI9PtYy-zqi6cHYiQOxKw,Jubilations Calgary Dinner Theatre,4.0
+853,740,Independent,740,51.095734,-114.140482,Coffee Shop,4b7f3a50f964a520a62030e3,Tbs365VnvQVze45blOuLng,Starbucks,3.5
+854,1047,Independent,1047,51.06716,-114.08370900000001,General Entertainment,4c06b7610e0a2d7faa46ec0c,yYgKCG1f0kGbeyVvlC74AA,Phoenix Comics N.W.,4.0
+855,932,Independent,932,51.096294,-114.05335500000001,Restaurant,4b3aa38ff964a520af6b25e3,HxQTFvFEItqfzhlenmTvbQ,The Top Dog Store,2.0
+856,819,Independent,819,51.058592,-114.054042,Diner,4b117d6ef964a520ac7d23e3,KSSOnRQ1YSciCIkR-qOR4A,Diner Deluxe,4.0
+857,711,Independent,711,51.0481,-114.186297,Grocery Store,4ca92fd3b7106dcb04817aa5,b-h-8pyV_1AUg6nvg_8NMg,Sobeys,4.0
+858,734,Independent,734,51.104972,-114.160789,Bookstore,4af8ceccf964a520141022e3,B8PJGWiQ4ki0Zobu_OsJMg,Indigo,4.0
+859,121,Independent,121,50.95970300000001,-114.069345,Burrito Place,4bca07ee0687ef3bd013dbcc,fd6tZQLf1qiJ2FQlzZzXXA,Taco Time,2.0
+860,2219,Combined,89,50.930857,-114.02801399999998,Coffee Shop,4f0f39afe4b07eb237db2543,X5vhmEt54OKjlNH9kKHluA,Starbucks,3.5
+861,2105,Combined,1238,51.045593,-114.066348,Department Store,507c78b2e4b08f55af728b1e,AUyP6Hn2i_booKqEmnUARA,The Bay,3.0
+862,2105,Combined,1242,51.045435,-114.067126,Pub,4d8a7b1e7139b1f714fccbd4,WJKPqmc5_UsAfcp5CTtVyA,The Unicorn,3.0
+863,938,Independent,938,51.087724,-114.072332,Vietnamese Restaurant,4efe1cdd61af974bcc61820c,vncXOcw_DExFmlnEe8Nbpw,Rau Bistro Vietnamese Street Food,4.5
+864,825,Independent,825,51.05334000000001,-114.040672,Italian Restaurant,4b0586eaf964a5201f7522e3,8cV1ZgT9rhhj-uQOBKJpag,La Brezza Restaurant & Cafe,4.0
+865,254,Independent,254,51.036997,-113.963532,Vietnamese Restaurant,4d616eff338bb60c252734bd,Gb5HuXVN376yRd2iyNLCWg,Noodle World Restaurant,4.0
+866,1134,Independent,1134,51.044629,-114.058568,Theater,4b0586edf964a520f77522e3,lSHP_mfRVudddsjE0E-RBA,Theatre Calgary,4.0
+867,1126,Independent,1126,51.050709999999995,-114.069795,Italian Restaurant,4b608d13f964a5202ded29e3,7YV-tNbr2-5rbf0atsntsg,The Old Spaghetti Factory,2.5
+868,308,Independent,308,50.990460999999996,-114.07093400000001,Steakhouse,4b0586e7f964a520e07322e3,HAMLLfH-2ho37Y4zsa9bDw,The Keg Steakhouse + Bar - Macleod Trail,3.5
+869,1192,Independent,1192,51.051072,-114.06121599999999,Chinese Restaurant,4f125973e4b09e81d9b56944,43V5SUyC04za5ITSvRndog,Great Taste Chinese Restaurant,4.0
+870,477,Independent,477,51.039854999999996,-114.06132,Gourmet Shop,4c0c0a13a1b32d7fdbf29bf0,AAKtOfuCATFl9-hMqpAR1Q,L'Epicerie,4.0
+871,1073,Independent,1073,51.044609,-114.092818,Korean Restaurant,4bc20c704cdfc9b6d46f9521,vi61pbWT6urr7_N5k0Tszg,Korean Village Restaurant,3.5
+872,554,Independent,554,51.038880999999996,-114.09453,Pizza Place,4b0586ecf964a520b87522e3,fqQWl7p29tmUsrWoVX5fhA,Vogglio D'pizza,3.5
+873,1211,Independent,1211,51.047394,-114.05931299999999,Mediterranean Restaurant,4d4a3a459526b60c464280ee,dk7griiGpI8yPUmMs_lfzA,Mezza Mediterranean Grill,4.5
+874,857,Independent,857,51.058067,-113.98006399999998,Department Store,4c05940791d776b071a3f7f9,8tUg0rEkYMnQzGpaDRZ5Cg,Sears,1.5
+875,175,Independent,175,50.932922999999995,-113.970381,Breakfast Spot,4b3ba773f964a520147825e3,qF6cu12XnaDY-H786iIGRQ,Cora,3.0
+876,481,Independent,481,51.041255,-114.065992,Italian Restaurant,4b4a3872f964a5205b7f26e3,E5R5l-wzFWeyiyUILKTnwg,Amantea Italian Restaurant and Market,4.0
+877,802,Independent,802,51.05666400000001,-114.08566299999998,Bookstore,4b2d2878f964a520c1cf24e3,kccmS9aTGk1faZE70zGYlw,Another Dimension Comics,4.0
+878,173,Independent,173,50.932448,-113.96918500000001,Steakhouse,4d0ec84e8d9ca143da35aec5,vW0j6dHS5rpR-qMV6CFLcw,The Keg Steakhouse & Bar,4.5
+879,524,Independent,524,51.037825,-114.08061200000002,Greek Restaurant,4b2d4354f964a52097d224e3,qANHoeq7-e08-TIiS9NgBA,Manies Pizzaria & Greek Cuisine,3.0
+880,282,Independent,282,51.025393,-114.094946,Library,4b64977ef964a52047c02ae3,S6P3jvg5BCk0u-2Wvn6PaA,Calgary Public Library - Alexander Calhoun,4.5
+881,527,Independent,527,51.037689,-114.08161499999999,Caf,4c67392b9cb82d7f193293d2,A7xpCA_PF7oY5W60NaqvHQ,Chiasso Coffee Company,4.0
+882,214,Independent,214,50.962683,-114.00999399999999,Pub,4c26bed6c11dc9b6399b2924,FAxW2mH50Mh5pnBRaIFClA,Original Joe's,2.5
+883,553,Independent,553,51.038945,-114.094551,Middle Eastern Restaurant,4b6400c0f964a520ca9a2ae3,l3d7x5kJ0vv7Dte8tUJP4A,Shawarma Knight,4.5
+884,600,Independent,600,51.129839000000004,-114.011995,Caf,4c85059fd34ca14392384380,QN-PNSF0epE94CDQq9WECA,Starbucks,3.5
+885,608,Independent,608,51.131679999999996,-114.01134499999999,American Restaurant,4b64b772f964a520adca2ae3,bbTFXeaWG8th32TDGiWviA,Kelseys,2.0
+886,668,Independent,668,51.125778000000004,-114.210695,Salon / Barbershop,4da4d04efa8c7394fc86cd52,Pt62SfkJSB9S8KQZwNueew,Ariadne Hair & Esthetics,3.0
+887,2300,Combined,685,51.12473,-114.198575,Fast Food Restaurant,4dc4ae68d4c0ad9c0f75a3f3,4Bs-aIKHYp0yC0ily4j0JQ,KFC,1.5
+888,1091,Independent,1091,51.04793400000001,-114.081636,Pizza Place,4b3a4b0df964a520f86325e3,YPSpAMNFy2CJfELJWvHoKg,Paul's Pizza & Steak House,4.0
+889,483,Independent,483,51.041165,-114.06921000000001,Library,4cb1f27339458cfa685f0fa0,5wUdg5efgWkL2MJScb5gyQ,Memorial Park Library,4.5
+890,1246,Independent,1246,51.046531,-114.07188700000002,Boutique,4be485f3cf200f479f14123c,IndCqaVKZ7m5YVovsM9LFw,Hermes,4.0
+891,1070,Independent,1070,51.044612,-114.101611,Bar,4c40e1c3ff711b8d3d1a1105,561aLVJgHpTjN6I-Wxm5Ng,Fab Bar,3.0
+892,2216,Combined,355,50.999974,-114.072897,Clothing Store,4cc2083238aaa0930aa30362,3CoHXsCzSejNwMqNZLaoEA,Tory Burch,4.0
+893,1199,Independent,1199,51.049907,-114.06251499999999,Vietnamese Restaurant,4c0d320498102d7f1ed0e106,s41nmxmNI94DgmZid15OIQ,Saigon Y2K,3.0
+894,526,Independent,526,51.038222,-114.08071100000001,Hookah Bar,4e1400537d8b4c0d630af3db,nYATJPS_qqSBjGcPWaDiZQ,Fire N Ice Bar,2.5
+895,1119,Independent,1119,51.047909999999995,-114.07411299999998,Coffee Shop,4b0586e9f964a520a87422e3,jID0jNiO73hbwPTNVBRpDQ,Mojomonk Coffee House,3.0
+896,295,Independent,295,50.984085,-114.072754,Italian Restaurant,50d1f5ace4b03d516abcc61a,2MV0BXsvhPpVgICk9BCktQ,Pranzo Italiano,4.5
+897,2106,Combined,157,50.931353,-113.97073,Coffee Shop,4b770520f964a52018752ee3,rxeVYNy_tXd8uiPjQ1qGMg,Tim Hortons,3.5
+898,456,Independent,456,51.03266,-114.071506,Italian Restaurant,4ba43134f964a520ac8a38e3,k2BgsIYiPO6WbtFaSE0uEA,Mercato Foods,4.0
+899,58,Independent,58,50.90156500000001,-114.06569099999999,BBQ Joint,4b510673f964a520443e27e3,-5pn5F6pFkbrBv6L8d8CoQ,Ricky's All Day Grill,3.0
+900,504,Independent,504,51.037671,-114.071552,Sports Bar,4b2826e6f964a520e18f24e3,oh3KJaUksR4MYENS1W_NUQ,Pin-Bar,5.0
+901,888,Independent,888,51.076468,-114.00016399999998,Automotive Shop,4e552b69b61c93816c12040e,VhOi_64mQMpogSPQEQ_dUA,Platinum Mitsubishi,1.0
+902,441,Independent,441,51.043704999999996,-114.08001599999999,Sporting Goods Shop,4baee765f964a520c4e03be3,FMeFDc1CLbD6V5-6C_5BFw,Atmosphere - Calgary Downtown,3.0
+903,393,Independent,393,51.036972,-114.027721,Wine Shop,4b43e231f964a52024ed25e3,E9O1OWS8hrIPVBcaFXu4Yg,Zyn,5.0
+904,60,Independent,60,50.901487,-114.063479,Japanese Restaurant,4b3abc30f964a520906d25e3,74q_vUFriaLmy4pJTdrD9w,Edo Japan Family Restaurant,3.5
+905,913,Independent,913,51.082840999999995,-113.99782900000001,Steakhouse,4b526a50f964a520317c27e3,Br4QWA6WSKNSg96b9iCDbQ,The Cattlebaron Alberta Steakhouse & Bar,4.0
+906,449,Independent,449,51.031634000000004,-114.07146399999999,Mexican Restaurant,50930610e4b0476c6e779cfb,Ev9LVah-onyUsXPdrE7ckw,Mucho Burrito,3.5
+907,592,Independent,592,51.044447,-113.969401,Vietnamese Restaurant,4d0cf879903d3704f602c155,pNfCRlOqwYGb-BMKFy6F1Q,Rang Dong Restaurant,3.5
+908,816,Independent,816,51.059051000000004,-114.05411200000002,Board Shop,4db0c4320437a93f7f7aebca,SDPmUhkv2VyNFVMc7Oi6Qg,Royal Board Shop,4.0
+909,593,Independent,593,51.075821999999995,-113.95424299999999,Gym / Fitness Center,4b0586f0f964a520f57622e3,dgH81gEE0JN7kvfjkg4sXw,Village Square Leisure Centre,3.0
+910,2300,Combined,702,51.128553000000004,-114.202918,American Restaurant,4b3fb24af964a5207aac25e3,51OJLUlwKQg7GV30TdoJjg,Montana's BBQ & Bar,2.0
+911,822,Independent,822,51.053308,-114.044145,Caf,50cf989ce4b0c490d3a38912,aU_ax8qsENR4_ykYQpzXWA,Baya Rica Cafe,4.5
+912,1096,Independent,1096,51.046890999999995,-114.081929,Korean Restaurant,4b54e1bff964a5202fd127e3,E6MzqMIRocjvwU4gPuEImg,Donday,3.0
+913,785,Independent,785,51.082296,-114.092666,Drugstore / Pharmacy,4b450a53f964a520260226e3,e5fVrqRhtWATqqutFgfljA,Cambrian Pharmacy,5.0
+914,2207,Combined,868,51.073924,-113.984742,Coffee Shop,4b155a88f964a52075ab23e3,umXjfJySMCWaw75hh9tCUw,Starbucks,3.5
+915,200,Independent,200,50.970248,-114.069088,Asian Restaurant,4c0b026a340720a1118b8793,YJTUX6Ekhme7bQUDG86ZYg,Asian Buffet,2.5
+916,934,Independent,934,51.097836,-114.053257,Athletics & Sports,507a236572da35cc8f008a78,OiNI9QOF3kLAkU4o5RxZwQ,Metro Fairway Indoor Golfing,5.0
+917,2300,Combined,690,51.126341,-114.19935100000001,Brewery,4b1dbd63f964a520aa1424e3,VnOGWODJ7ZREYij0rpB-Xw,Brewsters Brewing Company & Restaurant,3.5
+918,158,Independent,158,50.931490999999994,-113.96725500000001,Drugstore / Pharmacy,4b89688df964a5206c3332e3,HUlgafe2oK5EViPQ-nFpDQ,London Drugs,4.5
+919,833,Independent,833,51.068378,-113.99696999999999,Hardware Store,4d76b691957859412397c0de,CCu3B5JOKzUPHs-jDyZjvw,Lowes,3.5
+920,1200,Independent,1200,51.050072,-114.06224499999999,Chinese Restaurant,4b767da4f964a520c44e2ee3,8RUrvxlOOLkGJYLgCXJ-ig,Vic's Hong Kong Style Caf°ß?,3.0
+921,2216,Combined,322,50.997438,-114.07372,Shoe Store,4ba545b0f964a52073f438e3,KdGtDThLduB8Vf-z-qKEFA,Aldo,3.5
+922,667,Independent,667,51.126283,-114.210273,Dentist's Office,4ca49616b0ff8cfa46efc05e,80sq1UIUXdu3DkBz8YHYJw,Expressions Dental,5.0
+923,713,Independent,713,51.060781,-114.17954499999999,Bar,4b0586e8f964a5206c7422e3,pPqNhrv_Gu273s0K1Fdn8w,Schooners Pub,3.0
+924,516,Independent,516,51.038025,-114.07741899999999,Gift Shop,4b9c04d9f964a520684136e3,WC5eWcwLGMV-wVgN5LZi0A,Reid's,4.0
+925,758,Independent,758,51.052757,-114.121214,Pizza Place,4b1316fbf964a520f89323e3,aiZ8O5WScaF0IzxP7zOHVQ,Pizza Bob's Classic Pie,3.0
+926,403,Independent,403,51.042161,-114.036855,Neighborhood,4fefc4c9e4b030985543d0c2,yHz7GHARkl59UnqC8nsQKA,Hose & Hound Neighborhood Pub,3.5
+927,267,Independent,267,51.003438,-114.12963700000002,Automotive Shop,4ce169d9db125481b0c641ce,djh4LVsvXnC-wMCK_ESGcA,Glenmore Audi,4.0
+928,2217,Combined,114,50.955822999999995,-114.06936100000001,Bakery,4e4d871ad16472681f5c9ddb,PhfGwisOXE17zeSbAeAKhA,Cobs Bread,4.0
+929,303,Independent,303,50.988333000000004,-114.073727,Bridal Shop,50b1175de4b0a2172e0b3ea3,8E2qdOz-C3A2aJenutCvOg,David's Bridal,2.5
+930,429,Independent,429,51.042674,-114.073479,Chinese Restaurant,4b0586ecf964a520a17522e3,AsgwKCJqyBqdiHdEBqeq3w,Singapore Sam's,3.0
+931,297,Independent,297,50.98385800000001,-114.072791,Market,50ef366ce4b0e2ef809dacd5,CEwp4X16giOLmcImryekJQ,Market on Macleod,4.0
+932,2201,Combined,585,51.09834,-113.957834,Fried Chicken Joint,4bcd1dabb6c49c74850d9591,VP64cakWgLi7Zaxcu2od3Q,KFC,1.0
+933,1176,Independent,1176,51.049399,-114.06959599999999,Sushi Restaurant,4ec7039729c22cc60bd95064,lIX2eJmJD2KKEGSmVKSSKg,kabuku,3.5
+934,2204,Combined,744,51.098737,-114.144152,Clothing Store,501db6ade4b047a4fa611d9a,Lo9ubKeEAkMF4l3rdN7aPw,Designer Depot,2.5
+935,563,Independent,563,51.040936,-114.08126899999999,Vietnamese Restaurant,50479178e4b0eef419c61185,iUNp-HdyIWcY3sl3IgU_Uw,Balo Vietnamese,3.5
+936,1020,Independent,1020,51.0687,-114.158828,Sporting Goods Shop,4f05b70af9ab6dd03427c852,zHOnzRi3kLUsLqSaJ5hD2w,Sports Rent,4.0
+937,986,Independent,986,51.069936,-114.11704399999999,Vietnamese Restaurant,4b0586ecf964a520aa7522e3,9eqyZBdiYfodB2tNfJHCHA,Saigon Y2K Vietnamese Restaurant,2.5
+938,406,Independent,406,51.037240000000004,-114.05331100000001,Stadium,4f405bc2e4b0295029018589,fAczVm0LU-mmIPRz1VIIYA,Scotiabank Saddledome,3.5
+939,1085,Independent,1085,51.047416,-114.08596599999998,Japanese Restaurant,4ba2cd03f964a520511a38e3,RsObOmCN5iBtp9CdmijPTw,Sushi & Co,3.5
+940,395,Independent,395,51.039364,-114.02998600000001,Cajun / Creole Restaurant,4cb13a68db32f04d43efc64d,MvTct3b0KLAO3wDWweTS_A,The Blues Can,3.5
+941,625,Independent,625,51.163481,-114.127269,Coffee Shop,4b0d9829f964a520d74b23e3,W1WILyIUkvhPUWCEIhSynw,Starbucks,2.5
+942,1054,Independent,1054,51.067203000000006,-114.10659,Bar,4b0586e9f964a520a77422e3,thIHA6XutTZxRTT5Z2s1wA,Tipperary's Pub,3.0
+943,2219,Combined,87,50.930549,-114.029554,Department Store,508adb21e4b0578944b9372e,XaL-KFkk49j29C9ZYbJiSQ,Walmart,3.5
+944,847,Independent,847,51.064174,-113.983531,Automotive Shop,4b72e8e8f964a520f88e2de3,1hT8JUdiypjVu7NVVnoYFg,CMP Automotive,3.0
+945,771,Independent,771,51.060052,-114.09300900000001,Hospital,4bd5dfc07b1876b0fb888b86,i7i5HhH9fM0b1APlL4rg7Q,Isis Women's Health Clinic,3.0
+946,1019,Independent,1019,51.071517,-114.162044,Automotive Shop,4cb0a4aeeb65b1f776ea6dcd,-E8NZcjSEYozprJ1Ld9tDg,Happy Bays Car & Dog Wash,4.0
+947,781,Independent,781,51.091243,-114.094282,Restaurant,4b0586ecf964a520c67522e3,T_a8YOqqCDDcVGd9LpSKjw,Chicago Deep Dish Pizza,4.5
+948,787,Independent,787,51.074659000000004,-114.046376,Golf Course,4b0586f1f964a5202b7722e3,2jBxGM7ehmLl5M0x_IpMRg,Calgary Elks Lodge & Golf Club,3.0
+949,1194,Independent,1194,51.050549,-114.06261200000002,Chinese Restaurant,4b37ac27f964a520114425e3,Vx2LafDELzYIZBtHVwAjnQ,Tang Dynasty Restaurant,4.5
+950,2300,Combined,705,51.127503000000004,-114.19989199999999,Pet Store,4b5b99abf964a5200e0a29e3,mLiPYqO9O_2frVI4_Ch_8g,Petland,3.0
+951,394,Independent,394,51.037211,-114.024739,Design Studio,4b3a4a09f964a520e26325e3,pmJFJJ4M8GLtuhHZq_8BOw,West Canadian,2.0
+952,2300,Combined,697,51.129774,-114.201228,Tanning Salon,4bc8b9e1a7d5b71319fd8b39,BbTS1tIv9wA_0smd1ZdOXw,Tan de Soleil,2.5
+953,2200,Combined,578,51.152173,-114.21434099999999,Burger Joint,4fea7724e4b06d9f853cd74d,5EHcEmxj8__fzrlv2T05xQ,Smashburger,3.0
+954,895,Independent,895,51.077832,-113.997542,Hotel,4bcf744a0ffdce722a7fb2c0,xR3LHWu_GMyALln2Gd3P-A,Travelodge Hotel Calgary International Airport,1.5
+955,354,Independent,354,51.000301,-114.070971,Brazilian Restaurant,4ba264caf964a52070f437e3,3lwc9WSybcsTXDE319SrFw,Gaucho Brazilian Barbecue,4.0
+956,583,Independent,583,51.119954,-113.948577,Gym / Fitness Center,4e09bed92271dfa46bbdc3c4,mDWYMtWL5bGonZnLZyA3sw,Saddletowne YMCA,3.5
+957,439,Independent,439,51.043006,-114.08053600000001,Thai Restaurant,4b0586ebf964a520717522e3,qK9JvMiEqWaK3jS_q-sAdw,The King & I Thai Cuisine,3.0
+958,21,Independent,21,51.02052800000001,-114.14156100000001,Hobby Shop,4c702d81df6b8cfac275b74d,wYELtsZl-yzJcoHssXZ6Xw,Canuck Amusements & Merchandising Ltd,4.0
+959,14,Independent,14,51.037648,-114.12624699999999,Yoga Studio,4bdf5e16ffdec92884c5eba1,RXoPrK8lwVKLZLm88JGcTg,Hot Yoga on 17th,3.5
+960,2220,Combined,171,50.935297999999996,-113.964394,Gym / Fitness Center,50ff25c8e4b063786324b8ab,KujHgngPOJPuy393_QByyQ,GoodLife Fitness,3.0
+961,817,Independent,817,51.058652,-114.05462299999999,Pub,4b485b28f964a5201b4c26e3,2VelfIojKVInFvEd-yMkww,Fiddler's Courtyard,3.0
+962,17,Independent,17,51.020854,-114.143429,Veterinarian,503cdc86e4b0d8e0e7e9aaa0,SPwO1bnZ4w7wWsBo1BwmMQ,Glamorgan Animal Clinic,5.0
+963,80,Independent,80,50.913748999999996,-114.07239799999999,Pub,4b71b2b6f964a520f0562de3,sOPYK_ILapuo7ZlZCTmabw,Coach & Horses Ale Room,3.5
+964,2207,Combined,871,51.075656,-113.985904,Gym,4c1bf5c6eac020a1a6bf45c2,FF4ifTeXltAgRXHb03Z-KA,Chuck E. Cheese's,3.0
+965,344,Independent,344,51.011511999999996,-114.05071799999999,Restaurant,4c48b6133013a5936929c6e1,uuSviSjm_dR2K30C_2_STQ,Holy Smoke BBQ,4.0
+966,764,Independent,764,51.052193,-114.07846699999999,French Restaurant,4b0586e8f964a5206e7422e3,_kSNwOubRygbLPFWRMvhqA,Q Haute Cuisine,4.5
+967,213,Independent,213,50.96299000000001,-114.011522,Restaurant,4d1c03164ff98cfac0ddb73e,gv9oXCeGe9lbDwgwlQEBLA,The Park Kitchen & Bar,3.0
+968,714,Independent,714,51.06082,-114.21246599999999,Italian Restaurant,4f5186c4e4b063296c0cfc0b,ZjJ1n-MmnZ9D2dFjKphoBQ,Mercato West,3.5
+969,594,Independent,594,51.074221,-113.957834,Coffee Shop,4b6dbff0f964a520428c2ce3,SwQ2qgaqZHcmEbW-iFyeRw,Tim Hortons,1.5
+970,2300,Combined,679,51.124016999999995,-114.200562,Grocery Store,4b8730adf964a52089b531e3,o9z_I6uLuI1bLU_GaRmdfA,Calgary Co-op,4.0
+971,2221,Combined,71,50.904709000000004,-114.06583799999999,Breakfast Spot,50b0f570e4b0b7c94b1e23f9,SK8MTQKD6jeLOBxxKejbqw,IHOP Restaurant,3.0
+972,210,Independent,210,50.985775,-114.083147,Coffee Shop,4b4906eef964a520a76226e3,GZwGc76LE3I8DJacEi7xxQ,Starbucks,4.5
+973,2100,Combined,636,51.161799,-114.064865,Electronics Store,4b5b48e7f964a52085f128e3,ExaAeTLjvDOOSekb4LoQiQ,Future Shop,1.5
+974,1198,Independent,1198,51.05002,-114.06317,Vegetarian / Vegan Restaurant,4fb7e3f1e4b01dfcde81f55f,_iJyH_Nf9E-Pso9yZhc2Mg,Happy Veggie House,4.0
+975,2102,Combined,1256,51.045994,-114.070777,Food Court,4ef149d6e30016e5e130624e,_epaytJDTPHY3k55aTCz8Q,Cultures,2.5
+976,791,Independent,791,51.068289,-114.06168899999999,Grocery Store,4bd64740cfa7b713737027da,LHkyQ1PzNB5fPyjskZy5LQ,Canada Safeway,2.5
+977,657,Independent,657,51.126606,-114.138879,Asian Restaurant,4bb54ecd2ea19521e658aa2f,sdMISc22hQ2hiq40qRzt1w,Edgemont City Asian Cusine,2.5
+978,2300,Combined,691,51.126897,-114.19848600000002,Breakfast Spot,5113d4c9e4b0345565e6b5c9,x1tVA7i0WIryZKqB83wj4g,Eggs Oasis,2.5
+979,900,Independent,900,51.080908,-113.98933400000001,Automotive Shop,4d6fe2c10d996dcbfbc4bd8e,OI4mkofoKBDvOW5mpsHEiw,Sunridge Nissan,2.0
+980,270,Independent,270,51.012401000000004,-114.131421,University,4b0586f0f964a5201a7722e3,8AIX_S8mmO0xTfgTjMVZSg,Mount Royal University,4.5
+981,2102,Combined,1257,51.04605,-114.07094199999999,Fast Food Restaurant,4b996721f964a520e07835e3,rz3AeZZ-U5SoqeyNknz2TA,Villa Madina,3.0
+982,2220,Combined,159,50.93069000000001,-113.963792,Grocery Store,4b93e687f964a520735834e3,Ou0fAJHjHWk-_ejT9mnfFA,Safeway Wine & Spirits,4.0
+983,2211,Combined,1062,51.066609,-114.10043600000002,Pet Store,4c48f0776f1420a11be5ec54,cN2Vz3jDGVYHdgULsqekHA,Petcetera,2.0
+984,2211,Combined,1067,51.066001,-114.102042,Convenience Store,4e382c311838d056d279e0a9,clEukm9VKxUOqDHblqroXw,North Hill Centre,2.5
+985,796,Independent,796,51.063161,-114.062423,Bank,4b691872f964a52000992be3,qKpXE8Nn7zQGcsFppneC_w,Video Game Trader,4.0
+986,949,Independent,949,51.064710999999996,-114.090448,Coffee Shop,503e7cb9e4b0d663bfb82e67,CJzFT0sM2f280MTfD2LrXA,The Odyssey Coffeehouse,4.5
+987,1048,Independent,1048,51.067614,-114.086752,American Restaurant,4b8436a0f964a520e72731e3,MPCaZnfnQh4XmnsI9L3TCQ,Arby's Restaurant,3.5
+988,915,Independent,915,51.08204,-114.00001999999999,Steakhouse,4b0586eaf964a520217522e3,hDzL5ywj0q3CDjXXSvhYAg,Carver's Steakhouse,4.0
+989,2300,Combined,696,51.129265000000004,-114.20363799999998,Doctor's Office,4cb5ff223ac937048c75d00a,Tjv1xb6oydNDgrTxcY12vg,"Lynita Haaranen, DC - Chiro Motion",5.0
+990,717,Independent,717,51.083666,-114.22233600000001,History Museum,4e10be1352b1655efa3ffbd2,yH08Cl2UsxPDIkYpQ6lLUg,Canada's Sports Hall of Fame,5.0
+991,373,Independent,373,51.014455,-114.064392,Gym,4bd2642141b9ef3bf320fee5,q7NlKSLzbjiB13_h4iYyog,Macleod Trail World Health,2.0
+992,2215,Combined,32,51.018595,-114.175196,Library,4b1abf17f964a520e2f023e3,B4Skejk_3rtLtcCYHkiIbg,Calgary Public Library - Signal Hill Library,3.5
+993,1135,Independent,1135,51.047916,-114.06482,Restaurant,4b109710f964a5205f7323e3,G_1ZqruM4-3uSvQmlwtw3w,Marcello's Market & Deli,2.0
+994,2300,Combined,701,51.128538,-114.20166299999998,Yoga Studio,4cd1fdfaf6378cfa8716bfd6,Mtb_V5A9OPnjeLWX66THyg,Hot Yoga On Crowfoot & Spin Studio,4.5
+995,532,Independent,532,51.037731,-114.08404499999999,American Restaurant,511daca7e4b0f1b939269b2e,hhccRf4yLajnjnma6T113A,Classic Jacks Restaurant & Bar,3.5
+996,99,Independent,99,50.945584000000004,-114.06985,Breakfast Spot,4c5de0ec6147be9abe6b9309,ig5JgcXT2Q34YzrFmyngvg,Ricky's All Day Grill,3.5
+997,2214,Combined,42,51.014563,-114.170994,Pet Store,4dcffd78d22deadedd785550,RDhkeTICouW0nXXaxaXMkQ,Petland,3.0
+998,65,Independent,65,50.904454,-114.057906,Sandwich Place,4b62310ff964a520313b2ae3,omB0W0RYssktHtATTaIINg,Chachi's Sandwich Bar,3.5
+999,59,Independent,59,50.90121,-114.065932,Ice Cream Shop,4b7dea5af964a520c2d92fe3,LMpbY9zSvlFvi2ckMCUdXw,Marble Slab Creamery,3.5
+1000,1107,Independent,1107,51.04506,-114.07633999999999,Bar,4b0586e8f964a520577422e3,n9txQRF6TuOs8CnEQCuWNg,Soho Bar & Grill,3.5
+1001,1026,Independent,1026,51.069246,-114.1309,Pet Store,4c02fadff56c2d7f35491c66,4ZKyoJKSoda-BMoTiWVyGw,The Cat House,4.5
+1002,786,Independent,786,51.070534,-114.104611,Coffee Shop,4b0586e9f964a520857422e3,aCW8KdwSZ8s3UT7FY-vKyw,Weeds Cafe,3.0
+1003,845,Independent,845,51.064777,-113.99876,Casino,4b315169f964a520a50425e3,zq3NVZkD0VrCzpcdLK54cQ,Pure Canadian Gaming,2.0
+1004,371,Independent,371,51.016544,-114.06298600000001,Hotel,4cddd065825e721ef3656645,hE7nOmuiwm3PK5pgF7Sc_g,Holiday Inn Calgary-Macleod Trail South,3.5
+1005,975,Independent,975,51.052676,-114.08773300000001,Toy / Game Store,4b0586f0f964a520d67622e3,zenxm7shqn6OCfw_2PGbrg,Livingstone & Cavell Extraordinary Toys,4.5
+1006,955,Independent,955,51.052974,-114.08603500000001,Breakfast Spot,4c9f85250e9bb1f75128f15f,A8H1dW49CEXj6vWKc2G-3g,Vero Bistro Moderne,4.0
+1007,2202,Combined,630,51.157038,-114.159438,Asian Restaurant,4b7ee8c9f964a5209c0830e3,O8rYrX93epEaqwFtYoKNgA,Xan Mongolian Barbeque,3.5
+1008,64,Independent,64,50.90573,-114.05734299999999,Steakhouse,4bde15546198c9b6b8ef12ff,qMns48PTJBIfQGBmugtX-A,Cattlebaron Alberta Steak House and Bar,4.0
+1009,623,Independent,623,51.167462,-114.091043,Drugstore / Pharmacy,4c1d6b3b8b3aa593bc9c9a5f,5uwvxUZNjNB7fSFYECVWYw,Rexall,1.0
+1010,836,Independent,836,51.071466,-113.987766,Arts & Crafts Store,4fb14629e4b011e6f937d505,FohVIFi-FY9ErOgHaqXi8w,Party City,3.0
+1011,582,Independent,582,51.124606,-113.94825900000001,Fast Food Restaurant,4d867c385ad3a0935e5ffafd,Ye7OzeDFaJf-JIduQhVxBA,Fritou Chicken and Pizza,3.5
+1012,370,Independent,370,51.017047999999996,-114.0634,Music Store,4b920cfaf964a5200fe533e3,81rFEOzukNHw-bs0lkCSGA,Axe Music,4.0
+1013,780,Independent,780,51.093092,-114.09615,Gym,4b5e3feaf964a520168629e3,glElZCCdi3Ht521Ip8oDNw,Calgary Winter Club,3.0
+1014,1028,Independent,1028,51.069731,-114.131169,Fish Market,4b8984fcf964a5204e3e32e3,jFxpBT2yHEE4Y28wB-yv2w,Bon Ton Meat Market,4.5
+1015,621,Independent,621,51.160208000000004,-114.076799,Event Space,4c4c9eb1f96ac9b603866598,R0Q9d77drhnGFcmr2n-nkA,Panorama Hills E-Community Centre,3.5
+1016,447,Independent,447,51.031312,-114.071288,Drugstore / Pharmacy,4b4252ccf964a52096d125e3,7XYMSdhtKlzRLXIlNVPiiA,Shoppers Drug Mart,4.0
+1017,976,Independent,976,51.052526,-114.087429,Coffee Shop,4b51f366f964a520155d27e3,oxL8h_etG5K34p7p-CMLow,Starbucks,3.5
+1018,1210,Independent,1210,51.046459999999996,-114.055998,Coffee Shop,50eb6023e4b09da2d0df41f7,9YpGTKPQQlwNdrs_WijYdg,Second Cup,3.0
+1019,964,Independent,964,51.052508,-114.09168700000001,Wine Shop,4b0586eef964a5206b7622e3,6bLoixjU7m-lfcELSxX5Pw,Kensington Wine Market,3.0
+1020,517,Independent,517,51.037988,-114.07778,Tapas Restaurant,5117315ce4b0665ce56fb354,lpguFrfDM5hRVPj4Alokog,MARKET Calgary,4.0
+1021,23,Independent,23,51.020151,-114.161474,Electronics Store,4cadfa2f628cb1f7334f3015,UyWcPopYbfIgqknSgEUETg,Visions,1.0
+1022,1196,Independent,1196,51.049741,-114.061945,Asian Restaurant,4e5a8622d4c0ba8c11ac7a81,oojEjOaiRfcEU_8zauBxhg,Noodle On The Road,4.0
+1023,545,Independent,545,51.039773,-114.089201,Diner,4b0586ebf964a520697522e3,cuLcsoNZ7Nh3jXY9JTkhBw,Galaxie Diner,4.5
+1024,671,Independent,671,51.122575,-114.20160700000001,Automotive Shop,4ce9d5f5948f224bd692f85d,TlD7I9gNNNz9QsCyVDsyNQ,North Star Ford Sales Calgary,2.5
+1025,752,Independent,752,51.101625,-114.13877099999999,Vietnamese Restaurant,4b182abaf964a5202bce23e3,2RwucW9CqVXW9kGzctBFwQ,Essence of Saigon Garden,3.5
+1026,452,Independent,452,51.031921999999994,-114.07134199999999,Wine Bar,4b397003f964a520945c25e3,ebL_y2bWGl_av4mvWoM0rg,Vin Room Mission,4.0
+1027,808,Independent,808,51.067195,-114.073629,Bar,4c9029d7de3d236abbc76918,IkNY7NNNtxybDUVaImQU4Q,The Cat'n Fiddle Pub,3.0
+1028,730,Independent,730,51.105422,-114.16327,American Restaurant,4b29896af964a5208fa024e3,ZzN9jgaJ8lbOzXZHPqT5kw,Earls Kitchen + Bar,3.0
+1029,968,Independent,968,51.05224000000001,-114.088769,Pizza Place,4b2f0386f964a52017e924e3,iRP-CnLzC3QYuDpRSQZKiQ,Ristorante Pulcinella,3.5
+1030,2217,Combined,120,50.95861,-114.07051899999999,Toy / Game Store,4bfac74ab182c9b65dd07a5a,KDfDkdPbH7PZUA3Cvrl4ug,Toys R US,2.5
+1031,512,Independent,512,51.03802,-114.07543700000001,Board Shop,4b5b72b5f964a520d3fe28e3,hYUR8pzbBd61T99VuyJzNQ,Bread and Circus,4.0
+1032,967,Independent,967,51.052252,-114.08941399999999,Spa / Massage,4b4cd2dff964a5205ec026e3,BA6YkzNJ-Dat377PJ4s9Rw,SwizzleSticks SalonSpa,3.0
+1033,336,Independent,336,50.992791,-114.040939,Furniture / Home Store,4b5f8d29f964a5201bc129e3,AK3DB_S_emr4tHODwm4HdQ,Leon's Furniture Warehouse & Showroom,2.5
+1034,765,Independent,765,51.052171,-114.07832900000001,Seafood Restaurant,4b482780f964a520304926e3,8nKkQ7bNzWsjye8bMfEa8g,Oceana Seafood Steakhouse & Bar,3.5
+1035,2106,Combined,156,50.931193,-113.97076799999999,Pizza Place,4d80113a208a5481576c6e67,lH2jMKwQiUDXsI35qfxG1w,Boston Pizza,2.5
+1036,141,Independent,141,50.915517,-113.960485,Coffee Shop,4b48b415f964a520685326e3,-kg-WsOn5-ZPwrNv2MC3Qw,Second Cup McKenzie Towne,3.5
+1037,1183,Independent,1183,51.049588,-114.06928700000002,Cocktail Bar,4e27ad2a18a83a13622ab089,njhAtkIZF41u4tC0RiVjOA,Ceili's on 4th Modern Irish Pub - Now Open,2.5
+1038,451,Independent,451,51.03188400000001,-114.07158100000001,Wine Shop,4b0586eff964a5208e7622e3,tydfTTwOjNIQ9mFX0fPgaw,Bin 905 Wine & Spirits,4.0
+1039,873,Independent,873,51.077187,-113.987746,Electronics Store,4bbbca9851b89c7445b9862a,5Ucdnd5HY78JICUMSqsmFQ,Future Shop,1.5
+1040,472,Independent,472,51.041140999999996,-114.06446499999998,Cocktail Bar,4b987f59f964a520b44435e3,sdvvAP9eQSiU8DDa5oxSGA,Raw Bar,4.0
+1041,276,Independent,276,51.022453999999996,-114.114562,Italian Restaurant,4b0586ecf964a520ac7522e3,__FMn1EYdwuKcOl18mTjPA,San Remo Ristorante,3.0
+1042,567,Independent,567,51.041556,-114.081538,Coffee Shop,4b180e15f964a5202ccc23e3,V164Jxt-eth9qhSFchrpzg,Good Earth Coffeehouse - CBE,4.0
+1043,723,Independent,723,51.081323,-114.186379,Automotive Shop,4d962133daec224ba18c0f3e,NuIVvMSmgy0xnXkMqFm8_w,Fountain Tire,2.0
+1044,2212,Combined,637,51.154625,-114.05315700000001,Burger Joint,4d602a1d9f67f04ddd9175fb,kBxCu3_2csy1SidKGLdcNQ,Burger King Restaurant,2.0
+1045,755,Independent,755,51.046347,-114.144276,Liquor Store,4bed9f1191380f471830a018,XrMVzMynNhJtWpiUEuMiSA,Willow Park Wines & Spirits,3.5
+1046,417,Independent,417,51.043842,-114.06138999999999,Coffee Shop,50c8e2fe498eb23386b1a5c6,43PaYIL1Ldad-M1w86-Rxw,Waves Coffee House,3.5
+1047,260,Independent,260,51.036899,-113.988731,Asian Restaurant,4b0586ecf964a520c07522e3,rv_MKj6wYRaTeeYnDYu9JA,Pacific Hut Restaurant,2.5
+1048,140,Independent,140,50.915228000000006,-113.96103799999999,Pub,4b17368cf964a520d7c323e3,nimfWjkGgM87NDQoWg_tfg,The Kilt & Caber Ale House,3.0
+1049,1208,Independent,1208,51.046273,-114.056904,Police Station,4bc5daac6936952173998488,9-8eKVULTSrWBoCsra9g_w,Calgary Police Service,3.0
+1050,766,Independent,766,51.05260300000001,-114.070821,Gym / Fitness Center,4c177a3ef693b71329155f54,IRd74NCWiC_ybtMw4cHYSg,YMCA Calgary,4.0
+1051,465,Independent,465,51.034620000000004,-114.071665,Tanning Salon,4bdc51a92a3a0f474145b2b6,iuJJ-DC0sPO7zBOY9poang,Bronze Baxx Tanning Studio,5.0
+1052,2202,Combined,617,51.157412,-114.157948,Electronics Store,4b6b895ff964a520930e2ce3,RIApuI5u2Vmor9CWK6m59w,Best Buy,3.0
+1053,2216,Combined,326,50.997984,-114.07392,Toy / Game Store,4bca15eb0687ef3ba13bdbcc,ecURzw2NvBylZ8XLVbAm5Q,EB Games,4.0
+1054,773,Independent,773,51.057063,-114.094702,Sushi Restaurant,4fa96090e4b08cc7d9cc99cb,H2NMmuys7fy5PcXW7lmKbw,Sushi Kai,4.0
+1055,529,Independent,529,51.03792,-114.08202800000001,Japanese Restaurant,4b42446af964a5205fd025e3,Fz4Fv1Bi61Y07uBJiVDx5Q,Fuji Yama Japanese Restaurant,3.0
+1056,953,Independent,953,51.052685,-114.085866,Accessories Store,4b0586eef964a5204d7622e3,WyiJ7EDWJzyCs2sSpbMv3w,Wind Mobile,2.5
+1057,759,Independent,759,51.05508,-114.10566100000001,Breakfast Spot,4b5f7f36f964a520cebd29e3,CE7hNKYS6gIMKv6jK429uQ,Dairy Lane Caf°ß?,4.5
+1058,198,Independent,198,50.968252,-114.073246,Burger Joint,4b69da1ff964a52039b82be3,EDv-HoTO-AN85WVZL3zXsg,Burger Inn,3.5
+1059,658,Independent,658,51.129742,-114.17636,Car Wash,4f52b1bbe4b02cf6be263151,vN93WA4NiaYXesb9oWX4ZA,Sudsy's U-Wash & Detail,3.0
+1060,887,Independent,887,51.072901,-114.000749,Fast Food Restaurant,4bbca6a28a4fb713d7ef3b9d,XZPuuI-xVo6BZ8Gj_ivWMA,McDonald's,3.0
+1061,2211,Combined,1064,51.066212,-114.102116,Greek Restaurant,4ba12bf4f964a520a79e37e3,l8VmpBM-uuAn3kEcjzIv2w,OPA! of Greece North Hill Centre,4.0
+1062,339,Independent,339,51.00186,-114.054639,Burger Joint,4bb1447df964a5204b883ce3,SI9yGUI5BooqOA7M_uQSdg,Wendy's,2.5
+1063,2221,Combined,67,50.906332,-114.06188,Bar,50be5f59e4b0917f4ac6db31,ARdkHJ748cC_7_fwViQxng,The Hideout - Calgary South,2.5
+1064,1103,Independent,1103,51.04772,-114.079407,Restaurant,50f5ade5e4b05cac18bca651,H8KR0MempDDlBH-lEyidHw,Marcello's Market and Deli,2.0
+1065,669,Independent,669,51.125237,-114.208642,Automotive Shop,5150d76ee4b0f160ab06b145,HDP48FzTpoZTRsFpBL8Njw,Crowfoot Dodge,2.0
+1066,2220,Combined,165,50.93271,-113.96203700000001,Juice Bar,4c0a764c009a0f474c62e9bf,abJfGB3PYt58VumBRXouqA,Jugo Juice,3.5
+1067,467,Independent,467,51.034896999999994,-114.071495,Diner,514a1a48e4b0d014f6ba2fde,LxbY2fKJU5jZCXnFB3i7VQ,Blondes Diner,2.5
+1068,2106,Combined,155,50.931095,-113.97206100000001,Fast Food Restaurant,4b5278def964a520dd7e27e3,j3omfcq4QRCemlelnHul3w,Wendy's,3.0
+1069,1150,Independent,1150,51.04775,-114.06896299999998,Coffee Shop,4b54ac33f964a52046c627e3,PPfDGRXA4DXqejytd41umw,Caffe  Artigiano,4.0
+1070,283,Independent,283,51.02877700000001,-114.07992800000001,Athletic & Sport,4b69cf87f964a520a8b52be3,Fh7TLkinplzutYoY8CMabQ,Glencoe Club,3.5
+1071,478,Independent,478,51.040071999999995,-114.06582,Wine Shop,4f76760be4b0ca8cfc121575,21Ww9eHsv5soY7jR6u2QiA,Vine Arts,4.5
+1072,437,Independent,437,51.043006,-114.079241,Electronics Store,4b118eb8f964a5203f7f23e3,RoFaaILAVJsJeTCw39DHJQ,The Camera Store,4.5
+1073,98,Independent,98,50.944789,-114.069096,Sushi Restaurant,4fb15759e4b0fd09aa178811,nK0oLUifkOkzuzwHO364fQ,Yume Sushi,3.5
+1074,2217,Combined,118,50.958054,-114.072322,American Restaurant,4bd0e8d277b29c7422cd8b82,zMTPG5iGeakd06z-BqZrFg,Moxie's Grill & Bar,2.5
+1075,259,Independent,259,51.036958,-113.988518,Vietnamese Restaurant,4faacdcde4b07960eae09c19,BrggBRh76hl6-FD3djXyQA,Satay House Vietnamese Restaurant,4.0
+1076,5,Independent,5,51.03566,-114.18613500000001,Gym / Fitness Center,4b096997f964a520f61623e3,33tizzXThiVkrEdFfKkyQg,Westside Recreation Centre,4.0
+1077,2103,Combined,1167,51.052769,-114.06876799999999,Food Court,4bce39afc564ef3be9f0edf0,Ve_RgUoXVEeNnpvmSLV8AA,Taste of Calgary,3.0
+1078,12,Independent,12,51.037302000000004,-114.142945,Vietnamese Restaurant,4b786454f964a520d5ca2ee3,oy9SMqeshfRrgTuJvc9s8g,Pho Huong Viet Noodle House,4.0
+1079,348,Independent,348,51.017666,-114.047876,Furniture / Home Store,4cb5f6083ac937043935d00a,5SbiGTmpkYL30mRNL3YrQQ,Robinson Lighting & Bath Centre,2.0
+1080,97,Independent,97,50.944236,-114.06966899999999,Coffee Shop,4b7d5acaf964a520cbb92fe3,s_Fy9bAqNW4iMSmUVmryFg,Tim Hortons,2.5
+1081,1195,Independent,1195,51.050306,-114.06311200000002,Chinese Restaurant,4b0586ecf964a520a87522e3,D7unEXjWvYvxmZwwya8SrA,Guilin Restaurant,4.0
+1082,422,Independent,422,51.042736,-114.068205,Steakhouse,4b203842f964a520e42e24e3,4MlVKZ1ZbVA__MA-7D3gYQ,Vintage Chophouse & Tavern,4.0
+1083,603,Independent,603,51.131006,-114.00841000000001,Bar,4e7efd476da1947882a77b8d,1W1ctxpcewYUgLk8AKjX8A,Calgary The Pub,1.0
+1084,191,Independent,191,50.963887,-114.085722,Library,4d273cd73c795481edcbc29b,VDaCNf__xqy_I_rF1ngI2w,Calgary Public Library,3.5
+1085,814,Independent,814,51.062129999999996,-114.055462,Seafood Restaurant,4b749229f964a520d3e42de3,trpn1eVgQdR1iWG6uLZrQg,Big Fish,4.0
+1086,438,Independent,438,51.042632,-114.079279,Bike Shop,4c02a9eef56c2d7f92bd1b66,iA-eiMJm-XS4LnQ3JtwaWA,The Bike Shop,2.0
+1087,672,Independent,672,51.12296,-114.204834,Electronics Store,4c72a68157b6a143af06c6cc,Gp8lFauLXEJxISgE80VjMQ,Visions the Best Name In Electronics,3.5
+1088,590,Independent,590,51.109572,-113.970795,Grocery Store,4bcb692e937ca5936088a992,YSo6YUJiXbST0ZFGrpxuBg,Real Canadian Superstore,3.5
+1089,666,Independent,666,51.127054,-114.07422700000001,Doctor's Office,4bbf86ef2a89ef3b5213ef88,rRRV9nG5Ng8RsDqejVqPvA,Beddington Dental Clinic,3.0
+1090,761,Independent,761,51.052796,-114.10332700000001,Restaurant,4b622fedf964a520f03a2ae3,vTZr2PxgNvE3LxFe0qHQOw,1918 Tap & Table,3.0
+1091,400,Independent,400,51.041207,-114.034176,Deli / Bodega,4b0586eaf964a520407522e3,dk-c7GuWF2QDt0fbZr38SQ,Spolumbo's Fine Foods,3.5
+1092,444,Independent,444,51.030039,-114.07161699999999,Miscellaneous Shop,4b0586e9f964a520ce7422e3,BQnk3CdxYA9vpiRfFFtp1A,Safeway Mission,3.5
+1093,562,Independent,562,51.041677,-114.08076799999999,Hotel,4bde5124e75c0f4780a7c703,c0Xf_aFHwWu1-35gu6m-Rw,Nuvo Hotel Suites,3.5
+1094,411,Independent,411,51.042167,-114.054226,Caf,4fe1cd3be4b050b31e0c2511,9VSPMQXgPdJ4rNgBPLJZ1A,Rosso Coffee Roasters,3.5
+1095,345,Independent,345,51.012206,-114.036556,Burger Joint,4b0586ebf964a520607522e3,IGvUvTqVDTpwlPmW7H_SNA,Rocky's Burger Bus,4.5
+1096,2207,Combined,872,51.076446999999995,-113.98822,Wings Joint,51155633e4b0e505d5180960,pVUREc8CHpzVKt57Sdlkvg,Buffalo Wild Wings,3.5
+1097,424,Independent,424,51.043356,-114.06999499999999,Bar,5144ec75e4b042f543f5bab4,yL_bdAZxiSBFvwlPm5WK6g,The Whiskey,2.5
+1098,804,Independent,804,51.055532,-114.085677,Caf,4b9412b1f964a520ff6534e3,VsWSc_9bQGpYNRjAXxAOtw,Second Cup,2.0
+1099,378,Independent,378,51.020641999999995,-114.06054499999999,Hotel,4b0586e6f964a520c57322e3,H03TuN-fMr4lwQP3wJobYA,Days Inn-Calgary South,2.0
+1100,959,Independent,959,51.054505999999996,-114.08587800000001,Pizza Place,4b6b2aa1f964a52004f72be3,l924QvedPBfe7gvqWaTEkA,Canadian Pizza Unlimited,3.5
+1101,2215,Combined,36,51.017521,-114.172735,Miscellaneous Shop,4c102c096b7e2d7fe0402735,dYFvxPtXtZHbIlh96i8zzQ,A Buck or Two Plus,2.0
+1102,1052,Independent,1052,51.067157,-114.09168700000001,Vietnamese Restaurant,4da7a9e06a2364c7a343cd3e,wGGvANsBsWT25AC3ff4pCw,Pho Phuong VI Noodle House,4.0
+1103,569,Independent,569,51.040195000000004,-114.081498,Hotel,4b0586e6f964a5209e7322e3,VkT7U7oRFgMdpDrVeJh5ng,Best Western Plus Suites Downtown,4.0
+1104,989,Independent,989,51.070689,-114.116879,Ice Cream Shop,4c2d8056260bc92804311ad3,4rXw1gCVE-Vs7MguztarYw,DQ Grill & Chill Restaurant,2.5
+1105,10,Independent,10,51.038381,-114.139707,Grocery Store,4f8e01c9e4b00231891c0652,-ykDr8Z4i-AYCXUNF7TuIQ,E-Mart,3.5
+1106,983,Independent,983,51.067589,-114.116642,Hotel,4b0586e6f964a520cb7322e3,zjGYnTAnBbOAJMw3q6ldYg,Econo Lodge Motel Village,2.0
+1107,565,Independent,565,51.041216999999996,-114.081654,Pizza Place,4b900d2bf964a520907233e3,L6SinMFhisUMuLcQLWB-_A,Domino's Pizza,2.5
+1108,195,Independent,195,50.968657,-114.072599,Coffee Shop,4b452287f964a520cf0526e3,Z0jjqJ4ZcfDlhhVJplZXcQ,Starbucks,2.5
+1109,94,Independent,94,50.933037,-114.066322,Multiplex,4b0586ecf964a520e57522e3,pIJHjoBgu_UTQRhTbG_mNA,Canyon Meadows Cinema,4.0
+1110,83,Independent,83,50.88114,-113.95181399999998,Emergency Room,515a534ce4b03e30267d06e1,M497uyyzI4FkEptLTy7Ing,South Health Campus,4.0
+1111,858,Independent,858,51.057773,-113.982708,Automotive Shop,4bae2020f964a5204a873be3,GzyloiIoizC62RAVg7aBEQ,Marlborough Ford,3.5
+1112,2209,Combined,1002,51.085085,-114.154119,Thai Restaurant,4b8dae4bf964a520340833e3,1tx64Lcbwh16Vo6dPeQkFA,Thai Express,3.5
+1113,589,Independent,589,51.091104,-113.95786399999999,Diner,4b0586ecf964a520c47522e3,j9I2YkFCOKyAEb_3FbFqUA,Alberta King of Subs,3.5
+1114,1022,Independent,1022,51.063545,-114.13346899999999,Medical Center,4bd1ade9462cb7136a98da07,PtsrVT7Z9pOmHUCVIBe2gQ,Tom Baker Cancer Centre,1.5
+1115,84,Independent,84,50.883813,-113.94873600000001,Hospital,4bfe67cab68d0f47161bea57,M497uyyzI4FkEptLTy7Ing,South Health Campus,4.0
+1116,1069,Independent,1069,51.044609,-114.10184199999999,Medical Center,4b990bc0f964a520cc5d35e3,Kwa_xM8e3KFWXgFyKlEA2g,VCA Canada Western Veterinary Specialist And Emergency Centre,3.0
+1117,654,Independent,654,51.142922,-114.07137900000001,BBQ Joint,51634d2fe4b076220d73dfa4,nG0OoboGrModOpvmxL93lA,Feng Kee BBQ House,4.0
+1118,2209,Combined,1011,51.083863,-114.156222,Department Store,50db7884498e09c6c4cf787d,q1Gkpjm4E_V1bonpYi3P5w,Target,3.5
+1119,251,Independent,251,51.036428,-113.95969,Department Store,515b1523e4b054e0ba6fb4ee,f1IFfKrYIOE4J0a_kVI1tQ,Sobeys,2.0
+1120,2209,Combined,995,51.085802,-114.155969,Dessert Shop,5148f300e4b04a9a6fc18bab,Dlc0e3W1KhfIoeXCgK1bUw,Qoola Frozen Yogurt Bar,3.5
+1121,459,Independent,459,51.033634,-114.07168100000001,Gym / Fitness Center,50fad7e0e4b02622b56e1f9b,K8_GsaeLIkeWYrRqXNpq-A,One Cycle,4.5
+1122,788,Independent,788,51.073049,-114.071904,Fast Food Restaurant,4b912933f964a52046a733e3,BlzhBrJSLVh7RtuCUVB-dQ,McDonald's,2.5
+1123,2105,Combined,1232,51.045891,-114.06739499999999,Nightclub,4deb1328b0fb8293f7e6f6eb,85GyOtl20Dtl5Y_MyPM8kQ,National on 8th,3.0
+1124,1143,Independent,1143,51.046890999999995,-114.06321799999999,Art Gallery,4c2675b63703d13a0b72a536,pGHfw4gK33r0g6S4a3-euQ,Bistro at Art Central,1.5
+1125,2201,Combined,588,51.099291,-113.961675,Grocery Store,4b9a86d8f964a520f7bd35e3,95dKDqy8DwQ0zFEFXc0tug,Ok General Food Store,3.5
+1126,727,Independent,727,51.086647,-114.182626,Mexican Restaurant,4b574b77f964a520cc2f28e3,cJuQsf1xiUHqxdUxxyF_og,Salt & Pepper,3.0
+1127,832,Independent,832,51.093602000000004,-114.032882,Malaysian Restaurant,50b68e2ae4b07a75db22ff31,LEGrkbp-fpUxL67HHtzz9A,Mamak Dang Fusion Malaysian Cuisine,4.5
+1128,92,Independent,92,50.927107,-114.072445,Garden,4bdb81f063c5c9b6c86d2868,eQCYA7UhyVHNl_TE0Nne-g,Greengate Garden Centres,4.0
+1129,2212,Combined,639,51.154891,-114.055031,Gift Shop,4dbc7457cda109aa6c9c5616,pdKi9ZImadlFsGSqfN5Evg,Creative Edge Flowers,4.0
+1130,1071,Independent,1071,51.046122,-114.100889,Automotive Shop,4c60166d832fa593b4d9eed3,A6QHLThS-r3y8n_9XOeN6Q,GSL GM City,4.0
+1131,377,Independent,377,51.020196,-114.061435,Coffee Shop,4be167dcd816c928c0efefd9,gbX_dF4qlxTjeJwSAZqjpQ,Tim Hortons,3.0
+1132,55,Independent,55,50.901118,-114.066557,Department Store,5191834a498ecbe4a8b10928,YtG4UEr8hfQ1QJR857nOyw,Lowe's,2.0
+1133,889,Independent,889,51.07613,-114.002471,American Restaurant,4b0c8169f964a520793e23e3,Ub-V6Spcxzz7pGLulDhGug,Shark Club Sports Bar & Grill,3.5
+1134,1169,Independent,1169,51.049518,-114.067927,Coffee Shop,4bfd4480bf6576b0a6faacb8,Ae58HLOeD3Buh1QXysXwcQ,Citadel Cafe,4.0
+1135,349,Independent,349,51.019017,-114.04758899999999,Casino,4b8dedfff964a5209d1333e3,9fBQqrljSU2YOtAHZuH7IQ,Cash Casino,3.0
+1136,2102,Combined,1262,51.046387,-114.069014,Boutique,4be492ca2468c928e8f8fe42,jQMocLUKGIAaLLcaKaE8-w,Land & Sea,3.5
+1137,519,Independent,519,51.037687,-114.078576,Coffee Shop,4b0586e8f964a520387422e3,npzBC_u6zCqMv9HgLbL9nA,Starbucks,3.5
+1138,962,Independent,962,51.052444,-114.093871,Falafel Restaurant,4b7d8f98f964a520d7c62fe3,KF3LbyaFIvdf-6UoK4jWWQ,Shawarma King,3.0
+1139,739,Independent,739,51.102463,-114.1466,Grocery Store,4b9178adf964a52010bf33e3,K_OD6jDkQIRUPO5XpKI76g,Co-op,4.0
+1140,404,Independent,404,51.041961,-114.036841,Wine Shop,4bf70f415ec320a15c5086d3,bdVU23dpPjAvI8IbAOiQAA,Inglewood Wine Market,3.0
+1141,736,Independent,736,51.092638,-114.15351100000001,Pizza Place,4b0724a5f964a52018f822e3,8aWe-EYQy79J5zw_TJB2nQ,Matador Pizza & Steak House,3.5
+1142,2209,Combined,1008,51.084441999999996,-114.154544,Jewelry Store,4bdc635c3904a5930ff24d9e,VUfPLyw7PhXbo9es2XdN9A,Paris Jewellers,3.0
+1143,2102,Combined,1261,51.045214,-114.06914099999999,Cosmetics Shop,4b55edf3f964a5201af727e3,laW2j8Rx8uBM-B1vIO3f-w,Sephora,3.0
+1144,2220,Combined,166,50.932627000000004,-113.963204,Asian Restaurant,4dcdd180d4c065592f6fe071,UudEWqg8_00k98vjKf-cIw,Wok Box,3.0
+1145,450,Independent,450,51.032081,-114.071598,Breakfast Spot,4d600d43b19fa143bfdbefc8,Ai08H2elhDzuu7LiFAR24Q,Flipp'n Burgers & Breakfast,3.0
+1146,920,Independent,920,51.093763,-114.00428600000001,Hotel,4b43c63df964a52066e925e3,ikgsMDIzD4kPBz2uQIP1Ew,Hilton Garden Inn Calgary Airport,4.0
+1147,597,Independent,597,51.151606,-114.01134499999999,Hotel,4d93d4f4db1e224b7c593dcb,vllzSssD2HXGlzGUcITxhw,Best Western Premier Freeport Inn & Suites,4.0
+1148,2301,Combined,240,50.982244,-114.045005,Hotel,4d3cf99284d46ea85dd7025d,tom6spH5n_eilaCQ2R6J3w,Sandman Hotel & Suites,4.0
+1149,391,Independent,391,51.037861,-114.09321399999999,Pub,4b0586e8f964a520417422e3,T1HrlHN5mbT2WGtcfzaf4A,1410 World Bier Haus,3.0
+1150,863,Independent,863,51.056,-113.9867,Gym / Fitness Center,4e76695c1838f9188a46eb2c,_RR8UvnlnT_I7vcl6uibjA,Gold's Gym Northgate,2.0
+1151,820,Independent,820,51.058701,-114.05407,Mexican Restaurant,4fcba4c3e4b092ee234d4fdc,aK777OeSMbzRMrgHgaOjHw,El Charrito Taqueria,4.0
+1152,217,Independent,217,50.980311,-113.99687800000001,Hotel,4b0586e6f964a520d27322e3,0qY7DsLEEwYaOJ5QUeVVug,The Glenmore Inn & Convention Centre,3.0
+1153,386,Independent,386,51.036458,-114.020357,Diner,4b51e6ddf964a5206b5a27e3,2LbDtx0AiftnlwrNk84S6A,Blackfoot Truck Stop Restaurant,3.5
+1154,2205,Combined,849,51.0623,-113.982431,Fast Food Restaurant,4be4669ccf200f4770e8113c,L3GAJW_x9CE6LwH90KHLyQ,McDonald's,3.5
+1155,606,Independent,606,51.130802,-114.010043,Rental Car Location,4d53e27ec8d0f04d799fbbd4,jCvMgna61rny15cQAWjXug,Dollar Car Rental,1.0
+1156,2212,Combined,641,51.154516,-114.056852,Fast Food Restaurant,4bc97567937ca59389dfa592,fSNfKWo8AwVjx7SwsyRs_g,A&W,5.0
+1157,273,Independent,273,51.016096999999995,-114.10863300000001,Pub,4b135e8af964a520ab9623e3,flPRXUht2IBVytHAx6wVNw,The Garrison Pub,3.5
+1158,309,Independent,309,50.989292,-114.070926,Sporting Goods Shop,4b47dc1cf964a520de4126e3,awd1jxxZjANDA2zl9l_v4Q,Campers Village,4.5
+1159,136,Independent,136,50.916032,-113.959116,Fast Food Restaurant,4dc708167d8b14fb46521d4a,Hy9DkWITFbB88kfybJtweg,Haru Sushi & Grill,3.5
+1160,360,Independent,360,50.999542,-114.06403,Wine Shop,4d8e27705091a1cd2fe08801,Qaao6FU4vBIBjScMY0_ubA,The Vineyard,4.0
+1161,846,Independent,846,51.059686,-113.974705,Latin American Restaurant,4ce5e079d99f721e87cea073,h3_Jnt_y0VPaC5x5kCWY0w,Raja Foods,3.0
+1162,376,Independent,376,51.019179,-114.06166599999999,Fast Food Restaurant,4ba16216f964a5202eb237e3,AYF0r5nODZzuCwoTl787rw,McDonald's,2.0
+1163,809,Independent,809,51.067209999999996,-114.072475,Fast Food Restaurant,4c2ae551b34ad13a7602e9ce,Er7WkDlJKGvjfW-bDEa_Cw,A&W,3.5
+1164,1204,Independent,1204,51.051184,-114.062215,Chinese Restaurant,4b3d4934f964a520a29125e3,I1AAcPjqCB6iD5aQcm6kjg,Golden Inn Restaurant,3.5
+1165,2105,Combined,1233,51.046822999999996,-114.066349,Gym,4b70b6f8f964a5202f2b2de3,GlJLvbG8XRg_3ihaP0LGJA,GoodLife Fitness,3.0
+1166,1068,Independent,1068,51.046170000000004,-114.109971,Theater,4af6300cf964a5200e0222e3,6wCatBkuiKwi_rkYaZ5DAg,Pumphouse Theatres,4.0
+1167,1155,Independent,1155,51.050151,-114.06728899999999,Coffee Shop,4bd5b43a6f6495217e7c6fec,dAwPGX-N3fiwiep8Mey_dA,Tim Hortons,3.5
+1168,435,Independent,435,51.04297800000001,-114.077775,Wine Bar,4b0586eef964a5206d7622e3,4TfJlh0aP9RpvfKShNwcUQ,Metrovino,5.0
+1169,2207,Combined,876,51.073865999999995,-113.98918300000001,BBQ Joint,4c229d1799282d7f887167b0,LXm4rOvR0KOxTITGraG03Q,Montana's BBQ & Bar,2.0
+1170,410,Independent,410,51.041232,-114.053625,Brewery,5185e6bd498ed380b622b285,-TSAXAz0CeNv73OAh9wu2A,Vagabond Brewery and Restaurant,2.5
+1171,236,Independent,236,50.979,-114.04366599999999,Clothing Store,4ce86f32f1c6236abde45ff0,FytvTDbRfLFiIZZNAfqshA,Banana Republic Factory,3.5
+1172,837,Independent,837,51.06606,-114.01205300000001,Hotel,4b0586e6f964a520c37322e3,8JnTUAad58TJrkIc_M5mxw,Holiday Inn Calgary-Airport,2.5
+1173,4,Independent,4,51.034665000000004,-114.191048,Salon / Barbershop,50fb2878e4b02b4f52900e5b,JjtT05Sy_HLaOz6eTGcGRg,Denim & Smith Barbershops,3.5
+1174,415,Independent,415,51.042419,-114.06031599999999,General Entertainment,4c0fb784d64c0f4759312a5d,4RF7qvyKtWY11vxiuDUyIQ,A/Maze,5.0
+1175,848,Independent,848,51.064642,-113.98551599999999,Hotel,4b0586e6f964a520c17322e3,vxE-OvLuex3yvZmyHkw_lg,The Coast Plaza Hotel & Conference Centre,2.5
+1176,543,Independent,543,51.03845,-114.088021,Hotel,51663012e4b0f303f2ae7d48,HXVCaoCzcOGuSSc7Xn_phg,Hotel Elan,5.0
+1177,2102,Combined,1249,51.04482700000001,-114.068849,Coffee Shop,4b3ffa5df964a5206ab325e3,6umdBLNv5DFCoGxjnH6Ajg,Starbucks,4.0
+1178,2216,Combined,359,51.000029999999995,-114.073094,Clothing Store,4e0f8758b61c3fe4780e7408,3CoHXsCzSejNwMqNZLaoEA,Tory Burch,4.0
+1179,224,Independent,224,50.983987,-114.01473100000001,Pizza Place,4b9b130ff964a520acf035e3,qu3yud9gNrCDum4Bku5Jlg,Little Caesars Pizza,3.5
+1180,2218,Combined,104,50.952921999999994,-114.06483899999999,Coffee Shop,4bd47e4d5631c9b64271a230,DJHarjJtG-f2zMJ7mZ_TkA,Starbucks,4.0
+1181,2104,Combined,1224,51.045534,-114.06261699999999,American Restaurant,4b0586ebf964a520997522e3,Flb_GvJ8d4UR2JuHyHlFzA,Thomsons Restaurant,3.5
+1182,1109,Independent,1109,51.045404,-114.077451,Caf,4fec61ace4b008df5dc9029e,W-aLwZKWgmied8UsUOYhPg,Timothy's World Coffee,2.0
+1183,620,Independent,620,51.164771,-114.070908,Liquor Store,4b84213ef964a5209c2231e3,DJ8bifihvxJiPBNd_GBqGA,Solo Liquor Store,2.0
+1184,828,Independent,828,51.080989,-114.01371,Sushi Restaurant,4b0586ebf964a520987522e3,6MaH_ADtaES_glj2Tskp5w,Misai Japanese,2.5
+1185,1221,Independent,1221,51.045487,-114.06144599999999,Caf,4b52391af964a520d67027e3,nQeS_ItxAxmkAhAu3R9t-A,Rosso Coffee Roasters,4.0
+1186,2202,Combined,613,51.154613,-114.15718100000001,Gas Station / Garage,4b525d5ff964a520827927e3,hhfasZWulezQNDtViEBPBA,Costco Gas Bar,3.0
+1187,396,Independent,396,51.039765,-114.030693,Mexican Restaurant,4de83e9752b1741cdafea70e,wi3Mo5Xiq7fPWLRyzjk6Pg,Salt & Pepper Mexican Restaurant,2.5
+1188,710,Independent,710,51.10415,-114.18855500000001,Thrift / Vintage Store,516762ace4b06690b38265ac,0JL2NqTBsFph8mWDdzdxHg,Value Village,3.5
+1189,2300,Combined,703,51.128052000000004,-114.20056799999999,Bookstore,4b1dbb14f964a520861424e3,iszcgVEOEYAibbHwtTQeiw,Chapters,4.0
+1190,2202,Combined,615,51.154856,-114.159195,Gym,4bd204d0caff952117e0d1f0,VftU5992ZQZJ503Wdi6EOA,GoodLife Fitness,3.0
+1191,2220,Combined,160,50.931364,-113.961546,Restaurant,51197192e4b0bae1ba843067,M7UUtqg0K09T6Z0yIy0Hlw,Earls Kitchen + Bar,3.0
+1192,2101,Combined,649,51.140724,-114.06733700000001,Vietnamese Restaurant,4b0586ecf964a520c17522e3,tps4NEm5BpoXm1YnBdEQkQ,Saigon Pearl Vietnamese Restaurant,3.5
+1193,2205,Combined,854,51.06102,-113.983925,Chinese Restaurant,4b981c53f964a520162d35e3,Cl0MirLvlTgDI2TQJtC7pw,Little Sheep Mongolian Hot Pot,3.0
+1194,258,Independent,258,51.037495,-113.988828,Fried Chicken Joint,4d83b5929324236a096faa0e,idrKYz3xSg0LW_jA4jJtnw,Chicken On The Way,3.0
+1195,655,Independent,655,51.142831,-114.071202,Middle Eastern Restaurant,51e0473f498ef0638f4d5e99,_KM5kIVknRvFSHxppDbi2A,Cafe 100 %,3.5
+1196,897,Independent,897,51.080304,-113.99371699999999,Arts & Crafts Store,4d685c029968236a3f1370a9,jXqD4q_y7nkTKhpU5aV08g,Michaels,3.0
+1197,914,Independent,914,51.083834,-113.99901799999999,Hotel,4b0586e6f964a520c67322e3,WKuHvpOCBbnCJkI5ngjYsg,Red Oak Kitchen & Bar,2.0
+1198,922,Independent,922,51.093763,-113.993778,Automotive Shop,4b6dd9d3f964a520a3952ce3,RnTFYFu9YuIe86xMGQ-dUw,Princess Auto,2.5
+1199,369,Independent,369,51.017675,-114.06294399999999,Sushi Restaurant,4b187897f964a52027d323e3,4CeOssI4EQ8BnjpUM5wFzg,Sushi Ichiban Japanese Restaurant,3.0
+1200,93,Independent,93,50.931235,-114.066639,Automotive Shop,4c6ae5b66d390f47af81099a,oTYm5RjY0xJEtuam1MaS-Q,Canyon Creek Toyota,3.5
+1201,813,Independent,813,51.067259,-114.05510100000001,BBQ Joint,4e70f34eaeb7424433c499a4,M8XKncNfA4uw6tEOFySswQ,Holy Smoke BBQ,4.0
+1202,2205,Combined,852,51.060943,-113.98406299999999,Dim Sum Restaurant,4b78bfb1f964a520ade02ee3,SCoH7sKTSwIhREUPBu7BkA,Forbidden City Dim Sum & Seafood Restaurant,3.5
+1203,291,Independent,291,50.990316,-114.040653,Furniture / Home Store,4bdde482587b2d7f7a815509,BUTffX3CUDC2xRI3WqYpPg,Revolve Furnishings,1.5
+1204,266,Independent,266,51.003445,-114.129648,Automotive Shop,4be318acf07b0f47ef13f743,djh4LVsvXnC-wMCK_ESGcA,Glenmore Audi,4.0
+1205,367,Independent,367,51.01065300000001,-114.067438,Automotive Shop,4bc9ec75cc8cd13ab472bccf,Y2Z7sMQV8vK3Uva3wWXjPQ,Bubbles Car Wash,3.5
+1206,290,Independent,290,50.990681,-114.038781,Chinese Restaurant,4b5228b7f964a520566c27e3,8pBx1vlLXHv2aCiTUWz04w,Wonton King,3.0
+1207,1053,Independent,1053,51.066657,-114.10821000000001,Thai Restaurant,4bbf76f9006dc9b6fba5fc3f,Ihcf2POxqoxIodtc8dAGxQ,Juree's Thai Place,4.0
+1208,264,Independent,264,50.986152000000004,-114.051709,Gym / Fitness Center,4cc6dae042d1b60c239c2b13,S4FjArJpHTYpddo85Oheog,The Athlete Factory,5.0
+1209,79,Independent,79,50.911465,-114.07458899999999,Filipino Restaurant,50de2c2ce4b047164235605c,wSrrANCjD7xZQG7OgYXxwA,Pacific Hut Express Shawnessy,1.5
+1210,131,Independent,131,50.923733,-113.932464,Coffee Shop,51aa98ef498e6a59ec04462c,PZB0VTNrXLv0b2ctPxmDAg,Tim Hortons,2.5
+1211,16,Independent,16,51.029671,-114.14171499999999,Indian Restaurant,5174398e498e33a24e7b0d88,93949ZKMXDaRTgWTriw7fA,Touch of India,4.5
+1212,2218,Combined,107,50.95285,-114.064916,Fast Food Restaurant,4d8771f6651041bd37499b30,aIF2DQ1IDQXZyjZIx2KG_A,Chachi's,3.0
+1213,2221,Combined,69,50.903283,-114.06402800000001,Coffee Shop,4b45c590f964a5201b1026e3,xcNink4a7rU-yojqHTGz_Q,Starbucks,4.0
+1214,494,Independent,494,51.037634999999995,-114.06893000000001,Bagel Shop,4f0f40c7e4b08f669a311abb,R0ss5X9nomQOr2fhSX2Dog,Great Canadian Bagel,4.0
+1215,2201,Combined,587,51.098209999999995,-113.96060800000001,Boutique,4f7f67eee4b012f96500c769,M-jjN3jFS8NtDk_T3cGjFA,Woody's Taphouse,3.0
+1216,279,Independent,279,51.023823,-114.10868400000001,Yoga Studio,4ca8402ed250bfb7dc70c863,gVAShwjtKboDwt7mNLxqUg,Bikram Yoga Calgary @ Marda Loop,4.0
+1217,184,Independent,184,50.961939,-114.12120900000001,Pizza Place,4b5ba90cf964a5204f0e29e3,9_rJCCtW0sl4isNTiEdluw,Boston Pizza,1.5
+1218,2205,Combined,851,51.061854,-113.98118400000001,Chinese Restaurant,4c2a4703b34ad13a8506e8ce,iVjeR9z1xVt2ZpxVU4UcXQ,Taketomi Village Hakka & Chinese Cuisine,3.0
+1219,487,Independent,487,51.040271000000004,-114.07151699999999,Spa / Massage,4fa43992e4b038e6a17e070f,RHY_M-8_S-2LDoy-D60j_w,Aura Spa,4.5
+1220,407,Independent,407,51.03962,-114.056225,Convention Center,4f96ec40e4b0306856afe725,QcOn0RzZHU8HEfX55FhaQQ,BMO Centre,4.0
+1221,1128,Independent,1128,51.051224,-114.06553100000001,Museum,4b0586e9f964a520d37422e3,IuxKgcQuwYmEVuAFbZ_Ekw,Calgary Chinese Cultural Centre,3.5
+1222,287,Independent,287,51.01168,-114.083952,Synagogue,4bf2ac712f53b713c12ceb43,8RIlraPD8cM2fYNCT1dilQ,Temple B'nai Tikvah,5.0
+1223,2101,Combined,653,51.14076,-114.06881499999999,Grocery Store,4b0586f0f964a520dd7622e3,75fFpZlOe__9wfUiAXYafQ,T&T Supermarket,3.5
+1224,677,Independent,677,51.123296,-114.19748799999999,Ice Cream Shop,4b8346e1f964a520550031e3,gr5i3hdg7uJLwgImaGOMrg,Dairy Queen,5.0
+1225,966,Independent,966,51.052537,-114.091132,Italian Restaurant,4b0586ecf964a520b07522e3,vNY06yGHEB-SNssKo3QR7A,Niko's Bistro,4.0
+1226,930,Independent,930,51.085309,-114.051787,Breakfast Spot,4c12356aa5eb76b066b2bdb7,y2muNHhkNNke2q8dd5GROg,Deerhead Cafe,4.0
+1227,1080,Independent,1080,51.04942,-114.05521399999999,BBQ Joint,4b0586eaf964a520367522e3,tdmpHupBal8ctbYyI8HtBw,Booker's BBQ Grill and Crab Shack,3.5
+1228,492,Independent,492,51.037764,-114.06572,French Restaurant,4b0586eaf964a5201a7522e3,fdtqM1j1DcwHt2Zy8kB6_g,La Chaumiere Restaurant,4.5
+1229,841,Independent,841,51.047874,-113.99033999999999,Pizza Place,4b4560a4f964a520a50b26e3,k8BbpXbHHsZyyJ2W4i-8TQ,Vern's Pizza,3.5
+1230,596,Independent,596,51.150413,-114.00081899999999,American Restaurant,4c043c83f423a5930a5dd116,cbbhO263uK6yVsKetbJ16Q,Pacini Pasta & Grill Ristorante,3.0
+1231,956,Independent,956,51.05335,-114.086051,Indian Restaurant,4b0586ebf964a5208e7522e3,VExGLLXKG98og6pLFcOK4w,Tandoori Hut,3.0
+1232,656,Independent,656,51.114045000000004,-114.118867,Outdoors & Recreation,4e41de1cd22d38bfd45d7e3b,j0gBDnCYAf4Bl9mvPEHgkg,A1 Overhead Door Service,5.0
+1233,523,Independent,523,51.037711,-114.080529,Pet Store,4ec6f3ddc2eec7ea95a84747,MUpMEbSQvOrxzlzazK9Vbg,Pet Planet Mount Royal,5.0
+1234,1015,Independent,1015,51.073756,-114.16545900000001,Pizza Place,4dcb5515c65bccd86744de6d,df3X3fIH59iw0LDynAKSlg,Pizza Hut,1.0
+1235,431,Independent,431,51.042513,-114.074243,Steakhouse,4b4bd4d4f964a52010a926e3,yFMLOb2c6SLPLj0xnpx-Fw,The Keg Steakhouse + Bar - Mount Royal,3.0
+1236,485,Independent,485,51.040968,-114.07078700000001,Caf,4c12ec3677cea5935708ce60,ymuI9CgRiCYYB_F4wGxQ3A,Boxwood Cafe,3.0
+1237,426,Independent,426,51.043442,-114.07126000000001,Nightclub,4c1322007f7f2d7f9eafde68,uD-Vir53koojf33bAqq96g,Tantra Nightclub & Lounge,2.5
+1238,330,Independent,330,50.992225,-114.059899,Korean Restaurant,4f5974a8e4b09f2e8f83f683,FeIChuY25UcFQkKwioo6XQ,Han Corea,4.0
+1239,2214,Combined,41,51.015116,-114.171298,Electronics Store,4c3cd84615cb1b8d052b7bdc,SOX_LaN3HIcYgoCB6IPjyQ,Best Buy,2.0
+1240,352,Independent,352,50.998098999999996,-114.06723500000001,Vietnamese Restaurant,4b0586ebf964a520867522e3,-vv4fmCw4b4deDkUw7cTrA,Bagolac Saigon,3.5
+1241,248,Independent,248,50.984388,-113.958459,Brewery,4be5e00dbcef2d7f747704e5,e5cU4OdnfyoSOBl0v066fw,Big Rock Brewery,4.5
+1242,595,Independent,595,51.150393,-114.000002,Hotel,4bd88fed2ecdce7290d3d0f2,zxl5OV08TBaEg43X3p7_Ng,Acclaim Hotel Calgary Airport,4.0
+1243,50,Independent,50,50.897146,-114.059973,Hardware Store,4bf0255ec601a593c552c3d1,f663erjHUPoctMYRAdtzdA,The Home Depot,4.5
+1244,2300,Combined,694,51.127445,-114.197189,Fast Food Restaurant,4b0833b0f964a520200623e3,rwHrkBEbzYJkQborbhJbSQ,Wendy's,2.5
+1245,794,Independent,794,51.065692999999996,-114.06223999999999,Chinese Restaurant,4b3ff5aaf964a520feb225e3,XXERlamYlizl1Ytwf598IQ,Phoenix Gate Chinese Cuisine,4.0
+1246,985,Independent,985,51.068375,-114.11461399999999,Hotel,4b0586e6f964a520a67322e3,Ox5JpPVQdd2jFo_yYjrz-w,Hampton Inn & Suites Calgary University,3.5
+1247,256,Independent,256,51.037123,-113.981622,Bar,4b0586e8f964a5203a7422e3,KLDmm3Jv5pHEatbLPo-t5w,Border Crossing,3.5
+1248,2102,Combined,1259,51.044806,-114.068748,Caf,4b745933f964a520e5d62de3,5fE9BDxFj66rhbnJ8PmZZw,Cactus Club Cafe,3.5
+1249,738,Independent,738,51.091558,-114.15384499999999,Medical Center,4edfc4422c5b1dfcbaec6103,mElwGZVlp0kWNgHtz8AUww,Cinnamon Girl Clinic,4.0
+1250,257,Independent,257,51.037402,-113.98203400000001,Bank,4bf1af1399d02d7f6e6cc948,sNRkzrNx5IZG52O4aestCQ,Cibc,3.5
+1251,2102,Combined,1157,51.045613,-114.0687,Food Court,4b81a138f964a520e9b330e3,LSMeZ0lITrnxaz7LGCaeUQ,Local 8th Avenue,4.0
+1252,737,Independent,737,51.091761,-114.154132,Yoga Studio,4e825aee550362c0bcb819a1,6wkmaCRxb13tRjGtYHLpWQ,HotShop Hot Yoga & Spin,4.5
+1253,488,Independent,488,51.040532,-114.07136799999999,Playground,4e2754cad4c0e361d9d334c5,DwL_H7xiqxB96q7-vifC2g,Mountain Park Property Management,1.5
+1254,728,Independent,728,51.087198,-114.183799,Doctor's Office,4bedbe832c082d7fdd6d2f42,ll3Fy_zjbMJ5R6tokibSYg,Bowmont Travel Clinic,3.0
+1255,177,Independent,177,50.943412,-114.04873700000002,Doctor's Office,4e287ee362e17c33019ebd1f,hRvQ59CqYnEEWdPyCMdYzQ,Bonavista Physical Therapy,3.5
+1256,741,Independent,741,51.096623,-114.14516,Automotive Shop,4b69b193f964a52011ae2be3,FniaObOjTAPb7cLEU71wsg,Shaganappi GM,2.0
+1257,300,Independent,300,50.98728300000001,-114.070089,Korean Restaurant,4bbbd833afe1b713cfcb2f4b,5Bdw4A46VnTCr61gDkuw0g,Koreana BBQ,3.5
+1258,2105,Combined,1149,51.046694,-114.067099,Coffee Shop,4b1d339af964a520e20c24e3,G-hFhy4BnasUtKSYFcV3YQ,Starbucks,2.5
+1259,756,Independent,756,51.056845,-114.135231,Coffee Shop,4ba57735f964a520eb0939e3,pq-8xuWhWEU9H-g5NvF_dg,Extreme Bean,2.5
+1260,2202,Combined,616,51.154964,-114.158699,Sporting Goods Shop,4b7c5069f964a520bb8b2fe3,_h34Ast79zOw72EQiGeoOQ,Michaels,4.5
+1261,2202,Combined,629,51.1569,-114.160266,Coffee Shop,4b51f82ff964a520275e27e3,Sv2GqK4F38PW2ADddzLDfg,Starbucks,3.0
+1262,720,Independent,720,51.083921999999994,-114.20749599999999,Fast Food Restaurant,4b65ca24f964a520deff2ae3,1KJbl_MEwqRN7ztFJ3kNwA,McDonald's,3.0
+1263,414,Independent,414,51.041016,-114.06023,Fast Food Restaurant,4b395502f964a520c65a25e3,lNpGpVN7AErfJLXnIrEMzA,Arby's Restaurant,3.0
+1264,310,Independent,310,50.991121,-114.06865,Arts & Crafts Store,4be5d7002457a5938918ac15,tfxEx-YiW3UQx6DBpfMv5A,Swinton's Art Supplies & Instruction,3.5
+1265,601,Independent,601,51.131801,-114.010824,Automotive Shop,4bd1ae6177b29c742afb8c82,-2AQs-KdwG5QCwGBSsDoCA,Avis Car,2.5
