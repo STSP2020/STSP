@@ -2,13 +2,13 @@
 
 This repository is the implementation of STSP 
 
-STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Businesses with Uncertain Check-ins'. STSP is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
+STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Businesses with Uncertain Check-ins'. It is a novel framework, equipped with category- and location-aware encoders, which is designed to achieve next category and POI prediction with uncertain check-ins by fusing rich context features.
 
 
-### Files in the folder
+### File Descriptions
 
 - `data/`
-  - `CAL`,`CHA`,`PHO`. The three files are similar in structure, as explained here by CAL as an example.
+  - `CAL`,`CHA`,`PHO`. The files for the three cities are similar in structure, and we take CAL as an example for demonstration.
     - `All_POI_CAL.csv`: all POIs of Calgary;
     - `All_collective_POI_info_CAL.csv`: raw collective POIs information of Calgary;
     - `Check-ins_CAL.csv`: reindexed check-ins information of Calgary;
@@ -77,7 +77,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Business
     |learning rate η | 0.001| 0.001| 0.001 |
     |embedding size  D | 200| 200| 200 |
     |window size ω| 2| 2 |2 |
-    |weights of categories at layer 1 and 2 (α1, α2) | (0.2, 0.8)| (0.2, 0.8)| (0.2, 0.8)|
+    |weights of categories at layers 1 and 2 (α1, α2) | (0.2, 0.8)| (0.2, 0.8)| (0.2, 0.8)|
     
   
 - Training/Testing Time
@@ -93,7 +93,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Business
 
 
 
-### Running the code
+### How To Run
 ```
 $ python main.py (note: use -h to check optional arguments)
 ```
