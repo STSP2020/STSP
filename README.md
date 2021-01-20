@@ -9,9 +9,9 @@ STSP is a model proposed in 'Point-of-Interest Recommendation for Users-Business
 
 - `data/`
   - `CAL`,`CHA`,`PHO`. The files for the three cities are similar in structure, and we take CAL as an example for demonstration.
-    - `All_POI_CAL.csv`: all POIs of Calgary;
-    - `All_collective_POI_info_CAL.csv`: raw collective POIs information of Calgary;
-    - `Check-ins_CAL.csv`: reindexed check-ins information of Calgary;
+    - `all_POI_CAL.csv`: all POIs of Calgary;
+    - `all_collective_POI_info_CAL.csv`: raw collective POIs information of Calgary;
+    - `check-ins_CAL.csv`: reindexed check-ins information of Calgary;
 - `category result/`
   - `CAL`
     - `user_rep_CAL`: user embedding folder of category encoder module, there are many .npy files;
