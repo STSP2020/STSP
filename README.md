@@ -8,9 +8,10 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
 ### Files in the folder
 
 - `data/`
-  - `mall_Info_CAL.csv`: raw mall information of Calgary;
-  - `CAL_checkin.csv`: raw checkin information of Calgary;
-  - `CAL_checkin_reindexed.csv`: reindexed checkin information of Calgary;
+  - `CAL`,`CHA`,`PHO`. The three files are similar in structure, as explained here by CAL as an example.
+    - `All_mall_info_CAL.csv`: raw mall information of Calgary;
+    - `All_POI_CAL.csv`: all POIS of Calgary;
+    - `Check-ins_CAL.csv`: reindexed checkin information of Calgary;
 - `category result/`
   - `CAL`
     - `user_rep_CAL`: user embedding folder of category encoder module, there are many .npy files;
