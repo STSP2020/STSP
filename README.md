@@ -10,7 +10,7 @@ STSP is a model proposed in 'Point-of-Interest Recommendation forUsers-Businesse
 - `data/`
   - `CAL`,`CHA`,`PHO`. The three files are similar in structure, as explained here by CAL as an example.
     - `All_mall_info_CAL.csv`: raw mall information of Calgary;
-    - `All_POI_CAL.csv`: all POIS of Calgary;
+    - `All_POI_CAL.csv`: all POIs of Calgary;
     - `Check-ins_CAL.csv`: reindexed checkin information of Calgary;
 - `category result/`
   - `CAL`
